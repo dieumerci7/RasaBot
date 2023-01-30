@@ -1,0 +1,972 @@
+text,Topic,Subtopic
+I did not receive the correct amount for the exchange rate.,Funds,Funds Exchange Issues
+You did! You as well!,Other,Small Talk
+I didn't know about this fee.,Funds,Funds Fees
+I think somebody made an unauthorized copy of my card. My account has a cash withdrawal for 500£ that I did not make. Please help.,Funds,Withdraw Issues
+It looks like my top up didn't work.  Why?,Funds,Top Up Issues
+Is there an alternative to a physical card?,Funds,Funds Fees Issues
+Why is the exchange rate on my card wrong?,Funds,Funds Exchange Issues
+My account shows up as pending after I received cash from the ATM earlier. How can this be still pending? I've got the cash already.,Other,ATM Issues
+Where can I find the verification code for a top-up?,Funds,Top Up Info
+How do I go about ordering a new bank card?,Other,Unsupported Talk
+"I did a bank transfer to top up, but the money is not available.",Funds,Top Up Issues
+How much for an actual card?,Card,Card Order
+read off to me the last five transactions i 've made,Funds,Funds Transaction History
+"No, it is a new one",Other,Small Talk
+How do I delete an account?,Account,Account Close
+Please help! The app won't let me cancel a money transfer. I accidently sent money to an account that wasn't mine. I need this cancelled immediately.,Funds,Funds Transfer Cancel
+I would like to alter my personal details.,Account,Account Info Change
+How do I check security settings using the app?,Funds,Funds Pending Issues
+savings account balance at chase bank please,Funds,Funds Balance
+Do you know the process how to activate my card?,Card,Card Activation
+"Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",Card,Card Activation
+Why would a cash withdrawal be pending?,Funds,Funds Pending Issues
+My bill shows the same charge more than once,Funds,Funds Fees Issues
+What time will a transfer from the US take?,Funds,Funds Transfer Info
+i want to pay my tax bill,Funds,Funds Transfer
+What are my options for holding money in multiple currencies?,Card,Card Info
+Please tell me the types of currency I can hold.,Funds,Funds Exchange Info
+Why can't I withdraw money?,Funds,Withdraw Issues
+I used my card the other day to get cash from an ATM and was charged an extra fee. I don't understand why I am being charged a fee all of a sudden. I thought it was free to withdraw from an ATM?,Funds,Withdraw Issues
+How do I stop fraud to my card?,Other,Scam
+yeah there is another thing i want to talk about,Other,Small Talk
+Hi is my account suspended?,Account,Account Info
+How many cards can I have?,Card,Card Info
+There is a strange payment on my card and I don't know what to do.,Funds,Funds Transfer Info
+i need to move money from one account to another,Funds,Funds Transfer
+Not sure what my password is.,Account,Reset Account Password
+Does auto top-up have a limit?,Funds,Top Up Info
+How do I link the new card?,Card,Card Activation
+Why is the pending status on my cash withdrawal taking so long?,Funds,Funds Pending Issues
+How many times can I use a virtual card?,Card,Card Info
+"Soon my card will expire, how do I get a new one?",Card,Card Order
+how much is the fee for topping by card,Funds,Funds Fees
+I would like a physical card,Card,Card Order
+Card activation is not working. What do i do?,Funds,Funds Transfer Cancel
+I think something went wrong with my exchange between dollars and UK pounds. I was overcharged during the swap.,Funds,Funds Exchange Issues
+Can I exchange USD for GBP in your app?,Funds,Funds Exchange
+Do you have a list of cards and currencies you support?,Card,Card Info
+What currency can I use to pay for a top up?,Funds,Top Up Info
+When will the money from my bank transfer be available?,Funds,Funds Transfer Info
+Can I use google pay to top up?,Funds,Top Up Info
+What ATMs take this card?,Card,ATM Card Issues
+I see a charge for a direct debit that was not me.,Funds,Funds Transfer Issues
+Please tell me how the exchange rate is determined. I was expecting more money for the transaction.,Funds,Funds Fees
+I need your help immediately. There is a 500£ cash withdrawal that I know nothing about. I think my account has become compromised.,Funds,Funds Wrong Debit
+I have a transfer waiting.,Funds,Funds Pending Issues
+The wrong exchange rate was applied to me while pulling out cash.,Funds,Funds Exchange Issues
+I wasn't able to withdraw money at an ATM,Funds,Withdraw Issues
+I would like to know the countries you are offer services in?,Account,Account Info
+Can I put my old card back in the app?,Other,App Info
+"can you put a stop on my bank account , please",Funds,Funds Transaction History
+Why was I charged a fee for withdrawing money off my card?,Funds,Funds Fees
+I have taken the 11:05 night time slot,Other,Unsupported Talk
+I lost my phone. Can I disable to app?,Account,Account Suspend
+My card was not accepted in a shop,Card,Card Issues
+"Help, I don't know what the PIN is to my card?",Account,Reset PIN
+I am having an issue with an in country transfer I did a few days ago. It has yet to appear in my account. I have checked to be sure that all account information is correct multiple times. What is taking the transfer so long?,Funds,Funds Transfer Issues
+Why is the cash withdraw I made shown as pending?,Funds,Withdraw Issues
+"No, don't tell me the list of payees",Other,Conversation Control
+How long does it take to prove my identity?,Account,Identity Verification
+How much will I be charged for exchanging foreign currency,Funds,Funds Exchange Info
+Are there charges for cash withdrawals?,Other,Find ATM
+"I don't know the exact amount, but it would help if you tell me which person was that.",Other,Unsupported Talk
+Why is top up not working if I use my American express with my apple pay?,Funds,Top Up Issues
+Hi. Hope you're a breathing human rather than an AI entity.,Other,Bot to Human
+Why is my card payment pending?,Funds,Funds Transfer Info
+How to verify my identity,Account,Identity Verification
+transfer money from this account to that account,Funds,Funds Transfer Cancel
+"If I am in China, can I still order a new card and if so, how?",Card,Card Delivery
+my exchange rate looks wrong for my last payment,Funds,Funds Exchange Issues
+I tried to withdraw 50 pounds but it only gave me 30. Where is the rest of my money?,Funds,Withdraw Issues
+What commission do you take for currency exchage?,Funds,Funds Exchange Info
+Something's wrong my card won't work.,Card,Card Issues
+why did i only get 20.00,Other,Unsupported Talk
+"No, I don't want you to read it",Other,Small Talk
+you need to change the pin on my bank of america account to be 1234,Account,Reset Account Password
+The ATM machine would not give my card back,Card,ATM Card Issues
+Does it cost me to add cash?,Funds,Funds Fees
+i'm afraid there is a false transaction on my account,Funds,Funds Pending Issues
+Help me to set up contactless payments.,Card,Card Activation
+What is the process for unlocking the pin?,Funds,Funds Wrong Debit
+People are using my debit card - help!,Other,Scam
+Tell me how to verify a top up.,Account,Identity Verification
+"With this app, will I be able to exchange currency?",Funds,Funds Exchange
+"I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.",Funds,Funds Exchange Issues
+How can I reset my PIN?,Card,Reset PIN
+Can my account me accessed by a thief? I was mugged.,Other,Scam
+can you tell me why my bank account is frozen,Account,Account Issues
+The ATM wouldn't allow me to withdraw money,Other,ATM Issues
+Why can't I withdraw cash?,Other,ATM Issues
+My payment was cancelled,Funds,Funds Transfer Issues
+"I'm not sure what to do about the PIN, because I don't have one yet.",Account,Account Close
+How do I track the card you sent me?,Card,Card Delivery
+help me unblock my account,Account,Account Restore
+I am not able to make a purchase because there is an issue with my card,Card,Card Issues
+"I noticed a fee, while banking abroad, that seems different than any I have been charged before. What does this fee mean?",Other,Scam
+Purchases I did not make are appearing in my bank statement?,Funds,Funds Wrong Debit
+What happened to the transfer I did?,Funds,Funds Transfer
+I didn't set up a direct debit payment on my account.,Funds,Funds Wrong Debit
+Whats the limit on my top up,Funds,Top Up Info
+What kind of fiat currencies are supported for holding and exchange?,Funds,Funds Exchange Info
+I'm on holiday and I noticed a different amount for exchange rate. Can you explain?,Funds,Funds Exchange Info
+I'm not sure how to complete the identity checks process.,Account,Identity Verification
+Are there a certain amount of transactions i can do with one disposable card?,Card,Card Info
+I am yet to receive the money in my account how long will this take?,Funds,Funds Pending Issues
+Supervisor,Other,Bot to Human
+I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.,Funds,Funds Transfer Issues
+What are the places that you deliver cards to?,Card,Card Delivery
+Hello. I am unable to log in into my account,Account,Account Issues
+No!,Other,Small Talk
+How do I input a new address?,Account,Account Info Change
+The app declined my top up. What did I do wrong?,Funds,Top Up Issues
+How can I get cash back? The ATM just gave me the wrong amount that I've been actually charged though...,Funds,Funds Fees Issues
+Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?,Funds,Funds Fees
+Someone else accessed my account and made a payment.,Card,Card Info
+What's wrong with my ID? I can't verify it.,Account,Identity Verification
+"Hi, I have been transferring money to my friends since morning, but all my transactions were getting failed. Can you please look into this issue.",Funds,Funds Transfer Issues
+When will the money show in my account?,Card,Reset PIN
+What are you exchange rates?,Funds,Funds Exchange Info
+What is the expected delivery date for my card?,Card,Card Delivery
+There's an unauthorized direct debit in my app.,Funds,Funds Wrong Debit
+What is the process for setting up and account for my child?,Account,Account Creation
+How do I add a card on to the app?,Other,App Info
+I will not be able to verify my identity.,Account,Identity Verification
+I don't have my card with me so I hope that google storage also accepts cash or cheques.,Other,Unsupported Talk
+is it too much trouble to put a stop on my bank account,Account,Account Suspend
+How long should it take for a transfer to go through? I have been waiting a while.,Funds,Funds Transfer Issues
+"After I attempted a transfer, it failed.",Funds,Funds Transfer Issues
+"I have lost my phone, what steps can I take to prevent someone using my account?",Other,Scam
+I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?,Funds,Funds Transfer
+How do I sign up for a card if I'm in America?,Funds,Funds Transfer Issues
+where has my transferred money gone?,Funds,Withdraw Issues
+pay my mortgage from my checkings accounts,Other,App Info
+Why is it taking so long to update my balance transfer?,Funds,Top Up Issues
+don't let any payment go through for the next hour and a half,Other,Unsupported Talk
+Could you explain your rules for ATM fees?,Funds,Funds Fees
+I've been waiting for over an hour for a top up to go through. How long is this supposed to take? I really need this money.,Account,Reset Account Password
+How can I check on the status of my new card?,Card,Card Info
+Do I have to pay for a second card?,Card,Card Order
+send 5 from savings to checking,Funds,Funds Transfer
+How long does it take for a top up to go through,Funds,Top Up Info
+Can you assist me in acquiring a virtual card?,Card,Card Order
+How long does it take for a top-up?,Funds,Top Up Info
+Editing my personal details,Account,Account Info Change
+"I think my card is expiring, what happens then?",Card,Card Order
+I'm looking to get an additional card.,Card,Card Order
+Make me understand why I am charged an extra fee when I use the ATM.,Funds,Funds Fees Issues
+call my bank customer service number,Other,Bot to Human
+Can I use this app to exchange currencies?,Funds,Funds Exchange Info
+Which ATMs am I allowed to get money from?,Other,Find ATM
+i want to see the list of transaction on my bank of hawaii,Funds,Funds Pending Issues
+"Yes, freeze my credit card immediately!",Card,Card Block
+I might have been charged on my debit statement by fraud.,Other,Scam
+"I used my card to top up, but the money is not there!",Funds,Top Up Issues
+Thank you. That's all for now. Have a good weekend!,Other,Small Talk
+"I was told that withdrawing cash from the ATM is free, but I'm charged a fee. Why is this?",Funds,Funds Fees
+i am not sure if it is debit,Other,Small Talk
+google pay top up did not work,Funds,Top Up Issues
+What do I do if I still have not received my new card?,Card,Card Delivery
+If I want to can I set up a new PIN?,Account,Reset PIN
+How long will my payment be pending?,Funds,Funds Pending Issues
+Please help. There is a payment in the app that isn't mine.,Funds,Funds Wrong Debit
+If my card was lost or stolen can I re-link it?,Card,Card Block
+The seller of the items I bought online the other day hasn't received the EU transfer yet. How long do these usually take?,Account,Account Close
+"Can my daughter also have a card issued in her name, but linked to my account?",Card,Card Order
+Will the system automatically update once there is no more money left?,Funds,Automatic Top Up
+How do I unlock my account after typing in the wrong PIN too many times?,Account,Account Issues
+I want to use my account before identity verification,Account,Identity Verification
+WHAT IS THE SOLUTION OF THIS PROBLEM,Other,Unsupported Talk
+Am I able to do top-ups with Google Pay?,Funds,Top Up Info
+Which locations can I withdraw money from?,Other,Find ATM
+Do I get an actual card?,Card,Card Order
+what is the exchange rate when i get cash,Funds,Funds Exchange Issues
+can you find the reason for the block on my account,Card,Card Info
+is there a foreign currencies charge?,Funds,Funds Fees
+I feel as though I have been over charged for the exchange rate on my payment on last Saturday.,Funds,Funds Exchange Issues
+who charged my card,Funds,Funds Fees Issues
+I made a payment that's pending. Will it go through?,Funds,Funds Pending Issues
+Oh why was it declined,Funds,Funds Transfer Issues
+i need you to block my chase account immediately,Account,Account Suspend
+"I just pulled money out of the ATM and was charged a fee, WHy?",Funds,Funds Fees Issues
+How do i set up my credit card to send transfers?,Funds,Funds Transfer
+"Hello, my account is currently suspended",Account,Account Info
+"My identity isn't being accepted, what should I do?",Account,Identity Verification
+"If I were to do a transfer, what is the rate for that?",Funds,Funds Exchange Info
+Why are there additional fees for transfers?,Funds,Funds Fees
+How many transactions can be made with a disposable card?,Card,Card Info
+Who should I talk to or go to resolve a duplicate charge on my statement?,Funds,Funds Fees Issues
+cancel my account,Account,Account Close
+What is this witdrawal,Funds,Funds Transfer Info
+send 20 from debit to steve 's account,Funds,Funds Transfer
+"Although I transferred some money, it has not as of yet, arrived.",Funds,Funds Pending Issues
+My top up doesn't work,Funds,Top Up Issues
+"I just transferred my friend money, but she hasn't received it yet, and it's been a few hours. Can you tell me when to expect it to go through?",Funds,Funds Pending Issues
+I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?,Funds,Funds Transfer Issues
+You have declined my  payment.,Card,Reset PIN
+At what places accept my card?,Card,Card Info
+I was not able to use the ATM to get cash,Other,ATM Issues
+How do I go about ordering a card?,Card,Card Order
+I have a payee I want to send money to,Card,Funds Pending Issues
+Can I verify my identity?,Account,Identity Verification
+Please tell me how I verify my identity.,Account,Identity Verification
+"I don't recognize this payment on my app, I am sure I didn't spend any money there.",Funds,Funds Wrong Debit
+I have been overcharged. I just changed over dollars to UK pounds and it was too much. It seems something was wrong with my exchange.,Funds,Funds Exchange Issues
+I need help finding the verification code on the top up card.,Funds,Top Up Info
+Recipient has not received the money,Funds,Funds Transfer Issues
+I needed cash from the ATM but I couldn't get it.,Other,ATM Issues
+When will my pending payment finish?,Other,Unsupported Talk
+"I don't know my PIN, how can I find that out?",Account,Account Info
+you got the exchange rate wrong for my cash withdrawal,Funds,Funds Exchange Issues
+How many disposable virtual cards can you have?,Card,Card Info
+Is there any age limit?,Other,Unsupported Talk
+can you top up your account automatically,Funds,Automatic Top Up
+How do i go about linking a new card?,Card,Card Info
+The amount of cash I selected to withdraw is different than what I received.,Funds,Withdraw Issues
+What should I do? I topped off but the app reversed it.,Funds,Top Up Issues
+I need you to delete my account right now.,Account,Account Close
+"Hello, I just checked my card transactions and saw that I was charged twice for a restaurant visit I did earlier this week. Is it possible to remove one of them and get my false paid money pack?",Funds,Funds Fees Issues
+I see a cash withdrawal in the app that I did not do.,Funds,Funds Wrong Debit
+What is the price for an additional card?,Card,Card Order
+Ciao,Other,Small Talk
+I've checked multiple times to make sure the account number listed is the right one after attempting to make a transfer within the country the day before yesterday. The transfer is still not available so can you please find out what is going on?,Funds,Funds Transfer
+Cancel Transaction,Funds,Funds Transfer Cancel
+Can you send me more cards for my account?,Funds,Funds Transfer Issues
+I tried to withdraw cash from your ATM but my transaction was cancelled.,Funds,Withdraw Issues
+I don't think you're the right person to talk to about closing my account. Can I just speak to somebody else?,Other,Bot to Human
+Is there anyway to bypass identity verification?,Account,Identity Verification
+no! I started paying back my mortgage only from 21 June 2016,Funds,Funds Transfer
+"I tried to withdraw $100, all it gave me was $20.",Funds,Withdraw Issues
+I believe there is a mistake because a payment I didn't make shows in my app.,Funds,Funds Wrong Debit
+"i dont recognise some of these transactions, i think someone has my card details",Card,Card Block
+why would i be declined if i had money iin my account,Funds,Funds Pending Issues
+I am trying to revert a transcation I did this morning,Funds,Funds Transfer Cancel
+i dont remember making that payment using a cheque,Funds,Funds Wrong Debit
+"How long do transfers from a UK bank account usually take for you? I just made a transfer and I'm not seeing anything, wondering if it worked",Funds,Funds Transfer Issues
+Does it cost much or take long to get a new card? Mine is about to expire.,Card,Card Order
+Help! I made a transfer in error and need to cancel it before it's complete!,Funds,Funds Transfer Cancel
+Do you accept SWIFT transfers?,Funds,Funds Transfer Issues
+What do you charge to top up US cards?,Funds,Top Up Info
+Can I schedule future top ups?,Funds,Automatic Top Up
+During the last month I used this account to make payments for my place abroad. I noticed the fees have increased and I wonder why. Shouldn't frequent users have less fees as incentive to keep using instead of increasing them out of nowhere?,Funds,Funds Fees
+I need to get hold of a physical card?,Card,Card Order
+"I put in a payment a while ago and it has still not cleared and is showing up as ""pending"", how long does it take to clear?",Funds,Funds Pending Issues
+Why is my identity verification process not working?,Account,Identity Verification
+Hello I need more help,Other,Small Talk
+Why has my money been returned back to my card.,Other,Unsupported Talk
+"There is a direct debit that I didn't set up, what should I do?",Funds,Funds Wrong Debit
+I'm not sure if my pop-up went through.,Funds,Top Up Issues
+Explain the extra ATM fees.,Funds,Funds Fees Issues
+There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.,Funds,Funds Wrong Debit
+What are these fees i am paying?,Funds,Funds Fees
+Using international ATMs messes up the exchange rate.,Funds,Funds Exchange Issues
+Hello I just fixed this on the third now account suspended need fixed immediately please,Account,Account Restore
+I can't find the top-up card verification code.,Funds,Top Up Issues
+Its been several days and my cash withdrawal is still pending. Why?,Funds,Funds Pending Issues
+why ca n't i get into my account,Account,Account Issues
+i need to top up by card.,Funds,Top Up Info
+I was charge a fee that I wasn't told about,Funds,Funds Fees
+Anytime I've made an ATM withdrawal before it has always been free. I now say that I have been charged for my most recent ATM withdrawal. What's going on here?,Funds,Funds Fees Issues
+How are exchange rates determined?,Funds,Funds Exchange Info
+I can't see the transfer that I put in.,Funds,Funds Transfer Issues
+This transfer incurred a fee that I don't think is right.,Funds,Funds Fees Issues
+The app does not believe that I am myself,Account,Identity Verification
+What do I use to verify my identity?,Account,Identity Verification
+I haven't gotten my credit card in the mail.,Card,Card Delivery
+My identity can't be verified.,Account,Identity Verification
+"For the disposable cards, what are the restrictions?",Card,Card Delivery
+can you help me pay my phone bill,Funds,Funds Transfer
+I have a confusing payment appear on my statement and I don't recognise it!,Funds,Funds Transfer Cancel
+Some cash withdrawal that I didn't make showed up in the app.,Funds,Funds Wrong Debit
+Payment I did not make.,Funds,Funds Wrong Debit
+Can I change my PIN at any ATM?,Account,Reset PIN
+Why would my top up be reverted?,Funds,Top Up Issues
+What should I do after I've moved and need to update my personal details?,Account,Account Info Change
+I have an unauthorized direct debit on my account,Funds,Funds Wrong Debit
+I tried to withdraw 40 pounds but only 20 came out. Did you steal my money?,Funds,Withdraw Issues
+change the pin on my bofa account to 3892,Account,Reset PIN
+"My card payment reverted back, I think.",Funds,Funds Transfer Issues
+The cash I asked for still hasn't been received,Funds,Funds Pending Issues
+Please tell me what this direct debit in my statement is,Funds,Funds Transfer Info
+close out my account,Account,Account Close
+How do I add money to my card?,Funds,Withdraw Issues
+An item I bought had the wrong exchange rate applied.,Funds,Funds Exchange Issues
+There is a withdrawal on my account I didn't make.,Other,Scam
+"How can I close my account, I don't want it.",Account,Account Close
+"I needed to send my friends some money urgently.  I tried multiple times to transfer the money this morning, but the transfer keeps failing.  Can you tell me why the transfer is getting rejected?",Funds,Funds Transfer Issues
+I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative,Card,Card Issues
+My rate is not right when I used my card in a different country's money.,Card,Card Info
+"I don't know how to transfer money, I have never done it before. Can you give me a hand?",Funds,Funds Transfer
+I have kids and I'm curious at what age could they start to use your service.,Other,Unsupported Talk
+Why do you have an identity check?,Account,Identity Verification
+Can you tell me why I have two authorization holds on my account,Funds,Funds Transfer Issues
+I recently transferred money to my account when will it show up?,Funds,Funds Transfer Info
+From which age can my kids use your service?,Account,Account Info
+"If I don't live in the UK, can I still get a card?",Card,Card Order
+pay my electric bill from my park bank account,Funds,Funds Transfer
+How do I order a card?,Card,Card Order
+I thought transfers were free of charge.  I bought something abroad and got charged a ridiculous fee. How do I get this problem fixed.,Funds,Funds Transfer Issues
+Do you know how I can verify that I did a top-up to my card?,Funds,Top Up Info
+why ca n't i access my bank account,Account,Account Issues
+Can I transfer something urgently from China? How long does it take?,Funds,Funds Transfer
+I do not recognise the card payment.,Funds,Funds Wrong Debit
+I found a transfer fee - is that correct?,Funds,Funds Fees
+Is my top up not working?,Funds,Top Up Issues
+How long does it take to verify a person's identity?,Account,Identity Verification
+Where do I scan my card?,Card,Card Info
+what is the reason i am locked out of my bank account,Account,Account Info
+Would I be able to get a second card?,Card,Card Order
+"hello, i just have 2 quick questions",Other,Small Talk
+Can you please tell me how long it takes for the transfer to be available.,Funds,Funds Transfer Info
+"Changed details is essential, what steps do I take to do so?",Funds,Funds Pending Issues
+I made a payment and it is showing up twice,Funds,Funds Fees Issues
+I got less cash than what I specified at the ATM.,Other,ATM Issues
+Please send a new card; the ATM ate mine.,Card,ATM Card Issues
+"thats right, activate it",Card,Card Activation
+Can you tell me why my transfer is pending still?,Funds,Funds Transfer Info
+How soon will I get my card?,Card,Card Delivery
+"Why am I being charged for ATM cash withdrawals? The only reason I use it is because it's been free! Now you expect me to pay for them, and how much is that going to cost me?",Funds,Funds Fees Issues
+Hi- Is this a robot or real person?,Other,Bot to Human
+My Apple Pay top up with my American Express card is not working? Please tell me why,Funds,Top Up Info
+can you put a stop on my account,Account,Account Info Change
+are you a bot or a human?,Other,Small Talk
+Where is the nearest Mastercard ATM?,Card,Card Issues
+What is your shipping policies for cards?,Card,Card Delivery
+Can I have a new card shipped to China?,Card,Card Order
+"I was using foreign currency at an ATM, but the rate was typed in wrong.",Funds,Funds Exchange Issues
+Why is there a fee when I thought there would be no fees?,Funds,Funds Fees
+"I have been waiting for my transfer, shouldn't it be here already?",Funds,Funds Transfer Info
+Is there a topping up limit?,Funds,Top Up Issues
+take 100 dollars from checking and send it to savings,Funds,Funds Transfer
+"What stopped my transfer, from being accepted?",Funds,Funds Transfer
+Why would a cash withdrawal still be pending?,Funds,Withdraw Issues
+from where are coming your exchange rates?,Funds,Funds Exchange Info
+can you transfer money from a to b,Funds,Funds Transfer
+What cards do you support,Funds,Funds Transfer Issues
+I am still waiting for a transfer I did,Funds,Funds Transfer Issues
+it is credit if i recall well,Other,Unsupported Talk
+"i see, then i will pay it after the 8th October",Funds,Funds Transfer Issues
+How do I use the app to exchange currencies?,Funds,Funds Exchange
+How can I convert currencies?,Funds,Funds Exchange Info
+what transactions happened in the last week,Funds,Funds Transaction History
+I sent payment with EU transfer and they still haven't received it. How long does it take?,Funds,Funds Transfer Info
+change my pin to 1234 on account ending with digits 4994,Account,Reset Account Password
+"Hi there, I've tried to make a transfer 5 different times and its not working. Is your system down or something?",Card,Card Delivery
+What are the steps for changing my passcode?,Account,Reset Account Password
+"I demand a refund, put me through with a real person!",Other,Bot to Human
+Which countries are you available in?,Other,Unsupported Talk
+I would like to change my personal details.,Account,Account Info Change
+Can I use SWIFT transfers?,Funds,Funds Transfer
+Is it possible to link a new card?,Card,Card Activation
+Why is my contactless not working?,Card,Card Issues
+"Yesterday, I made an incorrect payment to the wrong account for my rent payment. I need this addressed as soon as possible and the funds transferred to the correct account by no later than tomorrow.",Other,Unsupported Talk
+Can i have a virtual card?,Card,Card Order
+"No, it's not about the overdraft",Other,Unsupported Talk
+How come my card doesn't work anymore?,Card,Card Issues
+Why was a payment cancelled on my account?,Funds,Funds Transfer Issues
+Why hasn't my transaction been completed?,Funds,Funds Pending Issues
+Can I have more than one card?,Card,Card Info
+I was trying to top up my account and it isn't working,Funds,Top Up Issues
+I suspect someone used my card.,Other,Scam
+is there a limit for top up?,Funds,Top Up Info
+i would like to change the pin on my checking account,Account,Reset Account Password
+Is auto top up available?,Funds,Automatic Top Up
+I got the incorrect amount of money given to me from my account,Funds,Funds Transfer Cancel
+Which fiat currencies do you currently support? Will this change in this future?,Funds,Funds Exchange Info
+How to receive virtual card?,Card,Card Order
+"I just went through a old statement and noticed that a very large payment went through and i did not make it. It was from a few months ago, can I still dispute the payment?",Funds,Funds Wrong Debit
+"There are incorrect charges on my account, there was a WD that was made by someone else. I still have my card though.",Other,Scam
+Why does top-up need to be verified?,Account,Identity Verification
+why hasn't my virtual card come yet?,Other,Bot to Human
+Where can my card be used?,Card,Card Info
+what were my purchases on visa card last month,Funds,Funds Transaction History
+I made a cash withdrawal at an ATM but it still says pending in my account.,Funds,Withdraw Issues
+what's my top-up verification code?,Funds,Top Up Info
+Today I was out eating and my card was declined. Why's that?,Funds,Funds Transfer Issues
+I don't think the charges made when I had currency exchanged are right.,Funds,Funds Fees Issues
+How can I change my PIN without going to the bank?,Account,Reset PIN
+Do you have the best exchange rate?,Funds,Funds Exchange Info
+So how long before I’ll be speaking with a live expert,Funds,Funds Fees
+"top up google pay, is it possible?",Funds,Top Up Info
+Should I complete my security verification before I can use my account?,Account,Identity Verification
+"I thought I lost my card but I found it today, so I would like to reactivate it.",Card,Card Activation
+I think I lost my phone. Is there a way to prevent anyone from getting into my account on it?,Account,Account Info Change
+"I see a transfer fee, but to my understand, that should have been free, what happened?",Funds,Funds Fees
+How many active transactions can I make with a disposable card?,Card,Card Info
+What's taking so long for this payment to go through?,Funds,Funds Pending Issues
+It's been a week since I ordered my card and it's not here. Please help?,Funds,Funds Pending Issues
+I am planning activating my card was it possible?,Card,Card Activation
+how long should i expect to wait when i add money,Funds,Funds Pending Issues
+Are there any top-up limits involved?,Funds,Top Up Info
+How long does transfers take?,Funds,Funds Transfer Info
+My identity verification didn't work,Account,Identity Verification
+My plans may change so I may need to change from GBP to AUD.,Other,Unsupported Talk
+Why is it taking so long for my pending transaction to post as cleared?,Funds,Funds Pending Issues
+Can I have my account add money automatically in certain intervals?,Funds,Automatic Top Up
+Tell me how to renew my new card?,Card,Card Info
+How can I hold and exchange fiat currencies?,Funds,Funds Exchange
+Is it possible to have a second card?,Account,Account Restore
+Why can't I see a transfer to my account?,Funds,Funds Transfer Issues
+i think i have fraud on my account from walmart,Account,Account Issues
+After transfering some money my balance hasn't changed.,Funds,Funds Pending Issues
+can I top up an apple pay?,Funds,Top Up Info
+please show me my recent transaction,Funds,Funds Transaction History
+How can I fix my card if the contactless function didn't work this morning?,Card,Card Issues
+"that is not my name, i'm baltimore",Funds,Funds Wrong Debit
+Is it possible for me to top up with Google Pay?,Funds,Top Up Info
+What are the requirements to open an account for a minor?,Account,Account Creation
+Do I pay a fee for SEPA transfers?,Funds,Funds Fees
+Can you tell me whats going on with my card it seems to be not working?,Card,Card Issues
+You as well,Other,Unsupported Talk
+Can I order a new card? Mine is about to expire.,Card,Card Order
+Can you tell me why my credit card was declined while trying to top-up?,Funds,Top Up Issues
+Hi don't know if you can help or not,Other,Unsupported Talk
+What currencies do you accept for adding money to my account?,Funds,Top Up Info
+The ATM keeps declining my Transaction . I tried two different ATMs already Would you please check if everything is okay with my account?,Account,Account Issues
+"i have used my card online before and wasn't charged, why am i charged now",Funds,Funds Fees
+What is a pending cash withdrawal?,Funds,Funds Pending Issues
+Why are my purchases from this morning still pending?,Funds,Funds Pending Issues
+Do i have to wait to get the pin or can i set up a pin,Funds,Funds Transfer Issues
+How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.,Other,ATM Issues
+I was mistakenly charged a fee for using my card.,Funds,Funds Fees
+I need to cancel my recent transfer quickly since I made a mistake. Please help before it goes through.,Funds,Funds Transfer Cancel
+Is my country's currency supported by your system?,Funds,Funds Exchange Info
+I would like to terminate my account.,Account,Account Close
+I need to terminate my account immediately.,Account,Account Close
+i want a new pin for my savings account,Account,Reset PIN
+"I have moved to a new house and set up a rent payment to my landlord, it was supposed to be in her account a few days ago but it hasn't arrived. I definitely sent it to the right place, can you confirm where the money is?",Funds,Funds Pending Issues
+In what way can I change my PIN and where do I need to be?,Card,Reset PIN
+"I need a new card to replace an expired one. Will it cost anything, and how soon?",Card,Card Order
+I can't see a verification code anywhere,Account,Identity Verification
+I need to update my phone number.,Account,Account Info Change
+"Yeah, schedule this transaction to Saturday",Funds,Funds Transfer
+"ok, when?",Other,Unsupported Talk
+What is taking so long with my top up?,Funds,Top Up Info
+"i dont have any active standing order, not that Im aware of?",Other,Small Talk
+It looks like I was charged twice for a single transaction,Funds,Funds Fees Issues
+Hi I am so sorry. I never got a notification for this message,Other,Small Talk
+Would I have to pay anything if I need an additional card?,Card,Card Order
+Why do you need so much information about my identity?,Account,Identity Verification
+i would like to make a transfer,Funds,Funds Transfer
+I had an unexpected fee,Funds,Funds Fees
+Can turn my money into another currency?,Other,Unsupported Talk
+Why am i being charged for withdrawing cash funds?,Funds,Withdraw Issues
+"If my funds are running low, will the app top up automatically?",Funds,Automatic Top Up
+Was I charged extra for using my card?,Funds,Funds Fees
+I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?,Funds,Top Up Issues
+How long does it take for a pending cash withdrawal?,Funds,Funds Pending Issues
+My card hasn't arrived yet. What do I do?,Card,Card Delivery
+"I cannot get to my app, what should I do?",Funds,Funds Transfer Issues
+"When I got cash, my exchange rate was off.",Funds,Funds Exchange Issues
+please make my account a frozen one,Account,Account Suspend
+"how many virtual cards can i have, i want 8",Card,Card Info
+Tell me why I need top-up to be verified?,Account,Identity Verification
+What am I supposed to do if the funds haven't show up from a transfer completed this morning?,Funds,Funds Pending Issues
+Can you unblock my blocked pin?,Account,Account Issues
+"Yes, thank you, it has arrived",Other,Small Talk
+Would it be possible to activate my card?,Card,Card Activation
+I need my card to be activated right now.,Card,Card Activation
+"I transferred some money recently and saw a fee on my account, what's that for?",Funds,Funds Fees
+i would like a block put on my chase account asap,Account,Account Suspend
+I have lost my phone.,Account,Account Suspend
+i 'd like to pay my bill,Funds,Funds Transfer
+unhappy with service need to delete account,Account,Account Close
+I need more assistance with how to activate my card.,Card,Card Activation
+I need quickly transfer something from China. About how long will it take?,Funds,Funds Transfer
+What if my top up is reverted?,Funds,Top Up Issues
+Is it free for top ups?,Funds,Top Up Info
+Can you see my new balance yet?,Funds,Funds Balance
+I attempted to get cash in the ATM but it was not authorized,Funds,Funds Pending Issues
+There was a purchase on my card recently to a name that I don't recognize at all. What can be done about this? I need my money back.,Card,Card Block
+Transfer isn't working?,Card,Card Order
+Should my cash withdrawal still be pending?,Funds,Withdraw Issues
+Can you tell me the cost of a transfer?,Funds,Funds Transfer Info
+I found my lost card. Am I still able to use it?,Card,Card Activation
+Can someone assist me with explaining how I can unblock my pin?,Account,Reset PIN
+What's the limit to how much I can top up?,Funds,Top Up Info
+what do I need to do to speak with an agent?,Other,Bot to Human
+what 's the balance of my savings,Funds,Funds Balance
+No . I was just looking but thank you.,Other,Small Talk
+Where is my pin? I don't have it yet,Card,Card Info
+how can i stop transactions on my account,Funds,Funds Transfer Cancel
+Am I able to add money into my account using my American Express?,Funds,Top Up Info
+I was expecting my new card by now.,Card,Card Delivery
+Where is my new card if I haven't received it yet?,Card,Card Delivery
+I can't seem to get my virtual card to work.,Card,Card Issues
+Why hasn't my son received the transfer I sent to him earlier?,Funds,Funds Pending Issues
+"I just saw a charge for a cash withdrawal that I made! ATM withdrawals have always been free in the past, so why is there suddenly a charge? What is it going to cost me now?",Funds,Funds Fees
+"How long do EU transfers actually take? I bought something online a couple days ago, sent the money immediately online but the seller says it's still not there yet.",Funds,Funds Pending Issues
+My virtual card isn't working.,Card,Card Issues
+What exchange rates do you use?,Funds,Funds Exchange
+What fiat currencies are used for exchange?,Funds,Funds Exchange Info
+"Yes, 23 00 night is correct.",Other,Unsupported Talk
+What is the charge for receiving a SEPA transfer?,Funds,Funds Fees
+It looks like my card payment might have been reverted.,Card,Reset PIN
+Are there any fees associated with receiving money?,Funds,Funds Fees Issues
+Why has my top-up been denied?,Funds,Top Up Issues
+"I received a fee for obtaining cash, is this correct?",Funds,Funds Fees Issues
+I cannot seem to use my card.,Card,Card Issues
+i gotta pay my cable bill,Funds,Funds Transfer
+I was charged two times for the same thing.,Funds,Funds Fees Issues
+My card payment was not successful.,Funds,Funds Transfer Issues
+Can I choose when my card is delivered?,Card,Card Delivery
+"It just doesn't work, can you get someone to help me?",Card,Card Issues
+"How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",Card,ATM Card Issues
+I have been trying unsuccessfully to top-up my card.  Is the system down or not working properly?,Funds,Top Up Issues
+Why am I charged a fee for getting cash?,Funds,Funds Fees
+I need several cards per day. And I need to be able to throw away all of the cards I make.,Card,Card Order
+I would like to cancel a transfer,Funds,Funds Transfer Cancel
+"Please help me, there is a transaction in the incorrect account.",Funds,Funds Transfer Cancel
+My phone is missing or stolen.,Account,Account Info Change
+I transfered my balance a while back.  Why doesn't my account reflect this?,Funds,Funds Transfer Issues
+Am I able to open an account for my children?,Account,Account Creation
+I would like to dispute a payment I didnt make,Other,Scam
+There was a fee charged when I paid with my card.,Funds,Funds Fees Issues
+How do I dispute a debit that I didn't make?,Funds,Funds Wrong Debit
+When do i get charged a fee for using the card?,Funds,Funds Fees
+I couldn't get the money I needed.,Funds,Withdraw Issues
+I have an unknown charge.,Card,Reset PIN
+"When my card expires soon, how fast is the replacement card sent and what are the costs?",Card,Card Order
+"lost my phone, what is account security?",Other,Unsupported Talk
+Why did the ATM take my card and keep it?,Card,ATM Card Issues
+Why can't I topup my account?,Funds,Top Up Issues
+Help! In the app there is a direct debit that I don't remember.,Funds,Funds Wrong Debit
+Hey there's a fee for a transfer on my account.  Why?!,Funds,Funds Fees
+My card has been stolen what do I do?,Card,Card Block
+How much does it cost to do a transfer?,Funds,Funds Transfer Info
+"How long does it typically take a transfer to go through? I sent some money to a friend earlier today, and she really needs it. It still is a pending transfer, even though I sent it a few hours ago.",Funds,Funds Pending Issues
+Why is the transfer still pending?  Can I do something?,Funds,Funds Pending Issues
+What forms of ID should I use for verification?,Account,Identity Verification
+What is the expected delivery date of my card?,Card,Card Delivery
+what steps do i do to get a real card,Card,Card Order
+The date my card expires is coming up,Card,Card Order
+"Hi, I am trying to buy something online, but i think there is some issue in my card. As payment is reverted. Please help me in this as i am facing the same issue from last two weeks.",Funds,Funds Transfer Issues
+"No, this direct debit to M&S didn't exist before.",Funds,Funds Wrong Debit
+In regards to the PIN of the card?,Account,Reset PIN
+can i get my transactions for the date of the 23rd,Funds,Funds Transaction History
+What types of fiduciary currencies are supported for tenure and exchange?,Funds,Funds Exchange
+Can you explain to me the way to verify my top up has gone through?,Funds,Top Up Info
+Can you convert to EUR?,Funds,Funds Exchange
+"How long does it take to transfer from china? Is there a way to transfer it quickly, I need it urgently?",Funds,Funds Exchange Info
+is there a way to change name?,Other,Unsupported Talk
+Why did my payment fail?,Funds,Funds Transfer Issues
+How can I add a new card?,Card,Card Order
+Why was I charged for withdrawing cash?,Funds,Funds Fees
+What is the estimated wait time for transfers from the US?,Funds,Funds Transfer
+Would it be possible to open up an account for children?,Account,Account Creation
+I topped up but the app declined it,Funds,Top Up Issues
+Can I change my PIN online?,Account,Reset PIN
+I have yet to receive my virtual card,Card,Card Delivery
+may transactions for last 2 days,Card,Card Order
+Can I have a second card issued to another family member?,Card,Card Info
+How do I get this damn virtual card to work?,Funds,Funds Pending Issues
+i 'd like to change my pin number for my wells fargo account,Account,Reset PIN
+I thought I was going to receive more currency?,Funds,Funds Exchange Info
+i cant seem to activate card,Card,Card Activation
+"HI,Accordingly you offer crypto top up but it doesn't seem to be working? Money just disappeared from my account.What should be done now?",Other,Scam
+Thanks! That's all I needed,Other,Small Talk
+Why am I being charged to transfer funds?,Funds,Funds Transfer
+"I may need to exchange my USD for GBP, can your app do that?",Funds,Funds Exchange
+How long do I have to wait for the transfer to be finalized?,Funds,Funds Transfer
+Which countries do you work with?,Other,Unsupported Talk
+please put a stop on my back account,Account,Account Suspend
+what is the procedure for getting a new pin number,Account,Reset PIN
+Where is my card PIN?,Account,Reset PIN
+How much does it cost to exchange my balance into a foreign currency?,Funds,Funds Exchange Info
+Top up keeps failing,Account,Account Restore
+Can you tell me why the card payment came back?,Other,Unsupported Talk
+i need to report a fraudulent transaction from postmates on my account,Other,Scam
+The exchange rate looks wrong on a holiday purchase,Funds,Funds Exchange Issues
+Can you tell me where I can withdraw money?,Other,Find ATM
+where is my new card?,Account,Identity Verification
+"I am interested in giving a second card to my daughter, how can I make this happen?",Card,Card Order
+I can't,Other,Small Talk
+please set my account as frozen,Account,Account Suspend
+How long does it take to verify a cash withdraw?,Account,Identity Verification
+"When exchanging, how much are the rates?",Funds,Funds Exchange Info
+I made a transfer but my balance hasn't been updated,Funds,Funds Transfer
+place a block on my capital one account right now,Funds,Funds Transfer
+my cash balance less than what I thought,Funds,Funds Balance
+"I made a mistake on the last transfer I made, who must I speak with to cancel?",Funds,Funds Transfer Cancel
+I have an American Express that I'd like to add money to my account with.,Funds,Top Up Info
+I'm using the app and I noticed a payment that I didn't make.,Funds,Top Up Info
+Are there any express fees if i want my new card faster?,Funds,Funds Fees
+"I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",Card,Card Issues
+Reverted top up,Funds,Top Up Issues
+I need to find the top up verification code,Funds,Top Up Info
+Why did the ATM eat my card?,Card,ATM Card Issues
+How will I know when I can use the auto top-up feature?,Funds,Automatic Top Up
+Are cards issued to people living in the US?,Other,Unsupported Talk
+"I changed the currency, but why is it costing more?",Funds,Funds Exchange Info
+What if I want to add a card I already have to the app?,Other,App Info
+How is my ATM deposit not available yet?,Funds,Funds Issues
+"My PIN has been blocked, what should I do?",Account,Account Issues
+U did awesome thanks,Other,Small Talk
+Is the top-up amount unlimited?,Funds,Top Up Info
+Why is my card being declined when I try to do a top-up? How can this be immediately resolved?,Funds,Top Up Issues
+"Yes, it still shows as pending",Funds,Funds Pending Issues
+i need to report fraudulent activity on my card,Other,Scam
+What is this direct debit in my statement?,Funds,Funds Wrong Debit
+the exchange rate is wrong from something I got in another country,Funds,Funds Exchange Issues
+What does it mean to have a pending cash withdrawal?,Funds,Funds Transfer Info
+The money that I have transferred hasn't arrived yet.,Funds,Funds Transfer Issues
+Why is my transfer stuck on pending?,Funds,Funds Pending Issues
+Thank you enjoy the rest of your day,Other,Small Talk
+"Could you refund my transaction, I paid it into the wrong account. I need to be able to pay it into the right account by tomorrow.",Funds,Funds Transfer Cancel
+Is it possible to get a card outside the UK?,Card,Card Order
+"Yes, you did",Other,Small Talk
+see ya!,Other,Small Talk
+I've been waiting ages and my PIN hasn't gotten here.,Account,Reset PIN
+It's my appreciated too ,Other,Small Talk
+borrow money from a bank,Funds,Funds Fees
+Hi - I have made a transaction to my new landlord but unfortunately it shows on my end but not on the landlord's end. The numbers are correct. Can you confirm when that will go through?,Funds,Funds Transfer Issues
+It appears my top-ups have been canceled.,Funds,Top Up Issues
+Why did you revert my top-up?,Funds,Top Up Issues
+"yeah, no problem freezing that card, I'm not using it anyhow...",Card,Card Block
+"I recently transferred some cash, but the balance has not changed.",Funds,Funds Transfer Issues
+I made a cash withdrawal and it is still listed as a pending transaction.,Funds,Withdraw Issues
+Why was my payment declined? I keep trying my card but it's not working.,Funds,Funds Transfer
+Please disregard. ,Funds,Funds Exchange Info
+How can I replace an expired card?,Card,Card Order
+Do you charge a fee for topping up a card?,Funds,Top Up Info
+transfer money to another account,Funds,Funds Transfer
+why wont my american express work to add money,Funds,Top Up Issues
+How long will my top-up be pending?,Funds,Top Up Info
+My wallet was taken and I see that someone is using my card! Please help me!,Other,Scam
+My card was stolen and used to make several purchases. Please freeze my card so no one can use it.,Card,Card Block
+"I am tired of getting charged fees, and I have no idea why, please let me know what/when you charge fees for.",Funds,Funds Fees
+I was double charged at a restaurant can you take the second charge off?,Funds,Funds Fees Issues
+Is there a problem with my account? When I tried to withdraw cash at an ATM I was denied.,Card,ATM Card Issues
+Thank you I will blessing to you and your family!! ,Other,Small Talk
+I would like a virtual card...how do I get one?,Account,Reset Account Password
+I tried to withdraw cash at an ATM in the city center but my card was declined. The transaction is still showing up as pending - please cancel it!,Funds,Withdraw Issues
+I want to cancel the transaction I made earlier,Funds,Funds Transfer Cancel
+My phone is missing.,Account,Account Suspend
+What are eligible holding and exchange currencies?,Funds,Funds Exchange Info
+"My card has been declined by two separate ATM, and I'm worried something is wrong with my account. Would you please see if my account is okay?",Card,Card Issues
+How much transactions do I get with a disposable card?,Card,Card Info
+I topped up and now my money is not there anymore! What happened to it?,Funds,Top Up Issues
+Today I used my card at a restaurant and it was declined. Why?,Card,Card Issues
+The bank machine didn't give my card back how do I get a new one fast?,Card,ATM Card Issues
+I need more physical cards than I have right now!,Card,Card Order
+Why wont the ATM give me cash?,Other,ATM Issues
+"my cash withdrawal is pending, why?",Funds,Funds Pending Issues
+please help with paying my cell phone bill,Funds,Funds Fees
+What caused my cash withdrawal to be declined?,Funds,Withdraw Issues
+What is the procedure for activating this card?,Card,Card Activation
+Why can't I make multiple payments with my virtual card?,Card,Card Issues
+can you help me with my pin number,Account,Account Info
+Will I be charged a fee for a SEPA transfer?,Funds,Funds Fees
+Will there be a charge for topping up by account with a SEPA transfer?,Funds,Funds Fees
+"On my app I can see that a direct debit payment that I didn't do, appears.",Funds,Funds Transfer Issues
+I have an unusual payment in my statement,Funds,Funds Transfer Cancel
+I lost my phone and need help protecting it.,Other,Scam
+do you know why i ca n't log into my bank account,Account,Account Issues
+Please tell me why the same transaction is showing up on my account more than once.,Funds,Funds Transfer Issues
+"i want to report fraudulent activity on my visa card , please",Other,Scam
+Can I use my account although the identity verification has not been accepted yet?,Account,Account Info
+When I tried to pay in a store my card din't work,Card,Card Issues
+Is there such thing as an auto top-up option?,Funds,Automatic Top Up
+Can you tell me how many currencies I can hold?,Card,Card Info
+I have been taken care of,Funds,Funds Transfer
+My transfer is stuck pending? How do we fix it to it goes through?,Funds,Funds Pending Issues
+Will I be charged for a top off transfer?,Funds,Funds Transfer Info
+let me know the list of transaction on my first hawaiian bank,Funds,Funds Transaction History
+show me transactions related to travel,Funds,Funds Transaction History
+What US credit cards do you accept?,Card,Card Info
+requesting money transfer between accounts,Funds,Funds Transfer
+"I got double charged from something, what can I do?",Funds,Funds Fees Issues
+When will my transfer process?,Funds,Funds Transfer
+Please help me with the activation of the new card.,Card,Card Activation
+Is there a reason that my top-up is still pending?,Funds,Top Up Issues
+do this definitely before next week Friday,Other,Unsupported Talk
+My credit card was declined for top-up. Can you see if there is enough funds in my account?,Account,Account Info
+"I've been waiting for a pending transfer to go through for a while now, and don't see any reason why I've been waiting this long.  I know that I have the correct account details, so that isn't the problem.",Funds,Funds Pending Issues
+How long is the wait for a money transfer to post?,Other,Small Talk
+I can't seem to be able to use my card,Funds,Funds Transfer
+what is the balance on my bank accounts,Funds,Funds Balance
+What is the number of transactions I get with a disposable card?,Funds,Funds Pending Issues
+"hi, im a new customer",Other,Small Talk
+How do I get a card in the EU?,Card,Card Info
+I bought some things in the morning but the payment shows as pending,Funds,Funds Pending Issues
+"Over the holiday I withdrew cash from the ATM and it seems that I was severely overcharged. Had I known that I would be charged those fees, I would not have used the ATM!",Funds,Funds Fees Issues
+"Out of the blue, my card stopped working.",Card,Card Issues
+please make sure my account is frozen,Account,Account Suspend
+What do I do if my disposable virtual card doesn't work?,Card,Card Issues
+Is there a limit to the top-ups someone can do?,Funds,Top Up Info
+are multiple currencies acceptable?,Funds,Funds Exchange Info
+How do I set up my card PIN?,Account,Reset PIN
+The card PIN?,Account,Reset PIN
+When I got cash I was charged an extra fee! Explain!,Funds,Funds Fees Issues
+There is a direct debit charge on my account that I don't recognize.,Funds,Funds Wrong Debit
+What happens if the ATM gives me the wrong amount of money?,Funds,Funds Exchange Info
+What can I use to verify my identity?,Account,Identity Verification
+Do you accept any card and currency?,Other,Unsupported Talk
+Why is there an uknown charge showing on my account?,Funds,Funds Wrong Debit
+Why won't my card work.,Card,Card Issues
+"My card has an issue, the payment has been deferred.",Funds,Funds Transfer Issues
+What is the first step I need to make for being able to access my account?,Account,Account Info
+I didn't make these transactions. Is someone else using my card?,Funds,Funds Pending Issues
+Will it cost extra to add money to an international card?,Funds,Top Up Info
+How much can I top up on my card?,Funds,Top Up Info
+"Yes, this is the account",Other,Conversation Control
+is there any money left,Funds,Funds Balance
+how much do i have in savings,Funds,Funds Balance
+"Yes, I want to talk to a real person",Other,Bot to Human
+no payments on my bank account,Other,Unsupported Talk
+My statement indicates I made a payment to an unfamiliar merchant.,Funds,Funds Exchange Info
+Why isn't my top up showing? Was the money reversed?,Funds,Top Up Issues
+"When I top-up, the app reverts it.",Other,Unsupported Talk
+what is this charge on my card?,Funds,Funds Fees
+How do I open an account for my children?,Account,Account Creation
+There's a cash withdrawal I didn't make,Funds,Funds Transfer Issues
+What is this withdrawal as I do not remember making it.,Funds,Withdraw Issues
+please do a stop on my bank account,Funds,Funds Transfer Issues
+How do I top up by card?,Funds,Top Up Info
+What do I do if my phone was stolen?,Other,Unsupported Talk
+I forgot my password to get into the app!,Account,Reset Account Password
+What are the countries you support.,Other,Unsupported Talk
+Machines make mistakes too! The ATM gave me the wrong amount of money. Too much!,Funds,Funds Wrong Debit
+Are there any fiat currencies that you will not work with?,Other,Unsupported Talk
+I am having trouble with the app recognizing me.,Other,App Info
+that's not right,Other,Small Talk
+"I have checked the account information several times to be sure that it is correct, but the in country transfer I did a few days ago still has not appeared! What is the hold up?",Funds,Funds Transfer
+I haven't received my virtual card yet!!,Card,Card Delivery
+I can't use my card for anything,Card,Card Issues
+I am not satisfied with your service.  Close my account.,Account,Account Close
+I need a quick transfer from China.  How long would that take?,Card,Card Info
+I found my card again. Can I put it back into the app?,Other,App Info
+I want to open an account for my children,Account,Account Creation
+There was a charge applied when I used my card.,Funds,Funds Fees Issues
+What card or currency can I use to pay?,Funds,Funds Fees
+i need some information on a recent transaction,Funds,Funds Transaction History
+report fraudulent activity on my credit card now,Card,Card Block
+Can you elaborate on why I have an extra charge just for transferring?,Funds,Funds Fees
+I have a cash withdrawal that I don't recognize.,Funds,Withdraw Issues
+"My top up has been pending for an hour already, and I really need this to go through as soon as possible. Can you help?",Funds,Funds Pending Issues
+How long does it take for cash withdrawals to hit my account?,Funds,Withdraw Issues
+i'm pretty sure this charge is fraudulent,Other,Scam
+Do you work in Greece?,Other,Unsupported Talk
+How long will it take to get to the US?,Card,Card Delivery
+Is my card lost? I am still waiting for it to be delivered.,Card,Card Delivery
+i wish to pay my cable bill,Funds,Funds Transfer
+Can my password be reset if I do not have it?,Account,Reset Account Password
+"No, you don't need to transfer me to a real person",Other,Small Talk
+"help me please , my account is blocked",Account,Account Restore
+I noticed that there is a withdrawal in the app that is not mine.,Funds,Withdraw Issues
+Why was I charged twice for my item!,Funds,Funds Fees Issues
+i need to set up a new pin number for my college fund account,Account,Reset PIN
+"My PIN can't access my card, can you help?.",Account,Reset PIN
+When shipped to the US how long is delivery time?,Card,Card Delivery
+I wanted to take out $100 but I only got $20.,Funds,Withdraw Issues
+I don't know if it's contactless,Card,Card Block
+Please help me cancel a transaction.,Funds,Funds Transfer Cancel
+How can I edit my personal details in the app?,Account,Account Info Change
+I still want to use my account but haven't verified is that OK?,Account,Identity Verification
+I found my card. How can I put it into my app?,Other,Small Talk
+Can I use google pay for topping -up,Funds,Top Up Info
+Will there be any fees for top ups?,Funds,Funds Fees
+"I want to top up by using a credit card, which ones do you support?",Funds,Top Up Info
+I got charged a service fee on my account. Can it be waived since I didn't know about it before?,Funds,Funds Fees Issues
+Do you charge extra for duplicate cards?,Card,Card Info
+Please list what fiat currencies are supported for both holding and exchanging.,Other,Unsupported Talk
+"I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.",Card,Card Activation
+How can I tell if my card payment is reverted?,Funds,Funds Transfer Issues
+What are the current exchange rates?,Funds,Funds Exchange Info
+explain the virtual card,Card,Card Info
+Tell me about the limit for top ups.,Funds,Top Up Info
+"I've been trying to transfer funds to top-up my card, but the transaction is not going through.  Is there something I'm doing wrong?",Funds,Funds Transfer Issues
+I want a real card,Card,Card Order
+There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou,Funds,Funds Transfer Cancel
+How do I get a new card when my old one expires?,Card,Card Order
+Why am I charged a fee for withdrawing cash?,Funds,Funds Fees
+Which part of the app do I order virtual cards from?,Funds,Funds Pending Issues
+Can you tell me more about limits to disposable virtual cards?,Card,Card Info
+I'd like it for Apr 7th 2014,Other,Unsupported Talk
+"No, you don't transfer me to operator",Other,Unsupported Talk
+How do the foreign exchange rates work?,Funds,Funds Exchange Info
+I will need a new card because mine is almost expired. How fast do I get a replacement and what is the cost?,Card,Card Order
+It seems that the rate I got is incorrect.,Funds,Funds Exchange Info
+How long will it take to transfer something to China urgently?,Funds,Funds Transfer
+"I no longer have my phone with the app, what should I do?",Other,Unsupported Talk
+are you a actual representative or a bot ?,Other,Unsupported Talk
+Why didn't I get the amount I requested at the ATM?,Other,ATM Issues
+Where can I modify my details?,Funds,Funds Pending Issues
+Why is the payment showing as pending from things I bought this morning?,Funds,Funds Pending Issues
+Can I use my virtual card for recurring monthly payments?,Other,Unsupported Talk
+Someone hacked into my cards account.,Other,Scam
+I tried to make a purchase in the store but my card was declined.,Card,Card Issues
+i really need to change my pin number for my account,Account,Reset PIN
+How do I activate my card to start using it?,Card,Card Activation
+my friend has not got the money I sent last week.,Funds,Funds Pending Issues
+"no, I meant 4004$",Other,Unsupported Talk
+I didn't receive the amount of cash I requested for the ATM.,Other,ATM Issues
+This card is accepted by what businesses?,Card,Card Info
+add a block to my capital one bank account so it cannot be used any more,Account,Account Suspend
+I made a card payment but it didn't work. Why not?,Card,Card Issues
+One of my payments was doubled,Funds,Funds Fees Issues
+Why has my top up not gone through yet?,Funds,Top Up Issues
+How do I to up by card?,Funds,Top Up Info
+My new card needs activating.,Card,Card Activation
+"how to decrease it, please help me!",Other,Unsupported Talk
+Thank you! I‚Äôm sorry about that! Have. A good night!,Other,Small Talk
+Can I still use my account without verifying my identity?,Account,Identity Verification
+I have used all of my PIN tries. What should I do now?,Account,Account Issues
+Google Pay isn't working. What is wrong?,Card,Card Issues
+Where's my top up code?,Funds,Top Up Info
+Can I use my card in Austria?,Card,Card Info
+2 weeks ago I ordered my new card. It isn't here. What should I do?,Card,Card Delivery
+What does it mean if it says my card payment has been cancelled?,Funds,Funds Pending Issues
+Savings,Other,Conversation Control
+What happens when I money transaction doesn't show up on the receiving side?,Funds,Funds Pending Issues
+Tell me where I can find the auto top up feature and a little bit about it please.,Funds,Top Up Info
+Why won't you accept my payment? I keep trying with this card and it's not working.,Card,Card Issues
+"What currencies can I not hold many in, if so what are they?",Card,Card Info
+Will I be charged for topping up my account using a bank transfer?,Funds,Top Up Info
+What countries are getting support?,Account,Account Info
+I can't get my Google Pay Top to work. Are there any issues on your end?,Funds,Top Up Issues
+Can you tell me how long it takes for a new card to come?,Card,Card Delivery
+"If I'm getting my identity verified, what all do I need?",Account,Identity Verification
+Im not sure why Im being charged an extra fee just for purchasing an item from another country? I paid for the item and the shipping why am I getting charged extra?,Funds,Funds Fees
+Need to report a change of address.,Account,Account Info Change
+"If my top-up didn't transfer, what went wrong?",Funds,Top Up Issues
+"There was money taken out of my account, and I'm pretty sure I didn't do it.",Funds,Funds Wrong Debit
+I tried to get some money but the machine was not working .The transaction still seems in progress! Can you please check what's going on.I don't want to be charged for money that I did not received.,Funds,Funds Fees Issues
+Why do the top-ups need to be verified?,Funds,Top Up Info
+Yesterday I had my phone stolen. Please advise what I should do.,Account,Account Info Change
+I think my card is broke it's not working anymore,Card,Card Issues
+How would I go about getting a physical card to use in stores?,Card,Card Order
+I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?,Funds,Funds Fees
+"No, I want to speak to a normal person.",Other,Bot to Human
+I need help from someone in your department with finding my nearest ATM.,Other,Find ATM
+Why have my top ups been canceled?,Funds,Top Up Issues
+I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives,Funds,Top Up Issues
+There's a possibility that my card was compromised.,Card,Card Issues
+Would I need to pay extra for currency exchanges?,Funds,Funds Exchange Info
+Why won't the machine accept my card anymore?,Card,ATM Card Issues
+"I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?",Funds,Funds Transfer Issues
+I have a new card and I can't add money to it. I tried about 30 minutes ago and it is still pending. What do I do?,Card,Card Issues
+How do i access the auto top-up option?,Funds,Automatic Top Up
+I don't think the exchange rate was right.,Funds,Funds Exchange Issues
+I would like to activate my card.,Card,Card Activation
+The top-up card is verified how?,Funds,Top Up Info
+"What is this card payment, I do not recognize it.",Funds,Funds Wrong Debit
+Can I get a new card?,Card,Card Order
+Are you available in my country?,Other,App Info
+What is the process to activate a card,Card,Card Activation
+I tried my PIN too many times and now my card won't work!,Card,Card Issues
+Im going to need to make a transfer from a UK account but I need it to go through ASAP. Is that going to be possible or will it take forever?? Im hoping it will be a couple hours and not a couple weeks.,Funds,Funds Transfer
+i need you to send ten dollars from bank of america to capital one,Funds,Funds Transfer
+"I usually don't get charged for transfers, why was I this month?",Funds,Funds Fees
+Is there a fee for topping off by transfer?,Funds,Funds Transfer
+Is there a reason my new card hasn't arrived yet?,Card,Card Delivery
+How many digits identify the top-up verification code?,Funds,Top Up Info
+"Its been 3 days, How long will my transfer take to get to my wallet?",Funds,Funds Transfer Issues
+Help me change my PIN.,Card,Reset PIN
+"found card, how to put it back in app",Other,App Info
+I made a transfer from France two days ago now but there hasn't made it there yet. Do international transfers take longer?,Funds,Funds Transfer Issues
+Why have I been charged a fee for cash withdrawal?,Funds,Withdraw Issues
+Why haven't I gotten my new card?,Card,Card Delivery
+I am not recognized by the app.,Other,App Info
+The cash I deposited using the ATM is still pending,Other,ATM Issues
+"The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue?",Funds,Funds Transfer Issues
+I paid two weeks ago and just got refunded,Other,Unsupported Talk
+Please help my find out why there is an odd direct debit in my records.,Funds,Funds Wrong Debit
+My topping up didn't go through.,Funds,Top Up Issues
+Why is my app showing me taking money that I did not take out?,Other,Scam
+Hi im locked out of my account is there anyway you can log me in?,Account,Account Issues
+What happens if my card expires?,Card,Card Info
+Where is the closest ATM I can use?,Other,Find ATM
+"I got a message saying I made a withdrawal from the bank machine, but I did not.",Other,Scam
+"It's been two weeks and I haven't gotten my card, what do I do?",Card,Card Delivery
+What countries do your services support?,Other,Unsupported Talk
+"I want to know which currencies and cards are supported, can you provide a list?",Card,Card Info
+Just today there was a purchase on my card that wasn't done by me. Can this be reversed and my card be frozen? I can't have this continue!,Card,Card Issues
+I was able to find my card. How to I go about putting it into my app?,Funds,Funds Transfer Issues
+what is is the details of my bank account,Account,Account Info
+How can I setup automatic top-up?,Funds,Automatic Top Up
+I'm seeing a direct debit payment that is not me.,Funds,Funds Wrong Debit
+Who do I talk to about the ATM swallowing my card?,Card,ATM Card Issues
+"i see, that was super helpful, ciao",Other,Small Talk
+I did a transfer earlier but see that it failed to go through.,Funds,Funds Transfer Issues
+I didn't receive the correct amount of cash when I exchanged it overseas.,Funds,Funds Exchange Issues
+Why is it taking so long for a transfer to complete!,Funds,Funds Transfer Issues
+My disposable virtual card got rejected,Card,Card Issues
+Is there a limit to how much I can top up?,Funds,Top Up Info
+"When I got my cash, the amount was not what it should have been, based on the exchange rate.",Funds,Funds Exchange Issues
+What do I do to activate my new card?,Card,Card Activation
+It's been a pleaure bye,Other,Small Talk
+Can I top up?,Funds,Top Up Info
+top up for my american express card is not working,Funds,Top Up Issues
+I can't seem to use my card. Can you help?,Card,Card Issues
+I bought an item that I was charged a different exchange rate for.,Funds,Funds Exchange Issues
+What limits are there on the virtual cards?,Card,Card Info
+"What is the reason when I tried to pay contactless at the bus, it didnt work?",Funds,Funds Transfer Issues
+Speak to virtual assistant,Other,Bot to Human
+I have multiple of the same transaction,Funds,Funds Transfer Issues
+I was charged twice for a few things this week when I only bought one. What do I do?,Funds,Funds Fees Issues
+Can you track my card for me?,Card,Card Info
+Do I pay extra for exchange?,Funds,Funds Exchange Info
+ill do it using cash,Other,Small Talk
+I've got to have one of those virtual cards.,Other,Conversation Control
+"I am adding money, what currencies do you accept to do this?",Funds,Top Up Info
+Why is my ATM withdrawal still pending?,Funds,Funds Pending Issues
+Are you going to charge me to collect the money?,Card,Reset PIN
+I have a pending payment on my card. Why?,Funds,Funds Pending Issues
+Where is my money that I transfered?!,Funds,Funds Transfer Issues
+How many years old do I have to be?,Card,Card Info
+"When I got cash, the exchange rate applied was wrong.",Funds,Funds Exchange Issues
+The ATM is messed up. It gave me less than I wanted.,Other,ATM Issues
+I live in the EU. Can I order one of your cards?,Card,Card Order
+where do you have locations at,Other,Unsupported Talk
+When will my new card be delivered?,Card,Card Delivery
+What does it mean when it says I have a payment pending?,Funds,Funds Pending Issues
+My payment has an incorrect exchange rate.,Funds,Funds Exchange Issues
+Why am I getting charged more for using my card?,Funds,Funds Fees
+How can I top up using google pay?,Funds,Top Up Info
+"What does it mean when a transfer is ""pending""?",Funds,Funds Pending Issues
+I would like to know how much I can top-up.,Funds,Top Up Info
+Why are you charging me fees for using my card?,Funds,Funds Fees
+Can I use the card at any cash machine?,Card,Card Info
+Why is there a fee for my transfer?,Funds,Funds Fees
+Which countries can I change my PIN in?,Account,Reset PIN
+"I think that someone may be using my card, but I'm not sure,.",Other,Scam
+What do I have to do to cancel a transfer?,Funds,Funds Transfer Cancel
+I tried to withdraw cash from the ATM machine and it did not work. Can you tell me why?,Card,Card Order
+"Errors keep showing up every time I try to make this transfer and I am on a time crunch,  could you please help.",Account,Identity Verification
+"yep, 3661€",Other,Small Talk
+is there enough money in my discover account for a vacation,Other,Small Talk
+The call center is down can you assist me,Other,Small Talk
+Why is it failing to top-up?,Funds,Top Up Issues
+I want to create a new pin.,Account,Reset PIN
+I told you both were credit,Other,Unsupported Talk
+"ok, 15 35 afternoon then",Other,Unsupported Talk
+I need to do a card activation.,Card,Card Activation
+"Hey i need help urgently. I just realised I sent my payment to the wrong account number, there is a typo! Please cancel it immediately, I can't do it anymore from the app",Funds,Funds Transfer Cancel
+i want to view my balance,Funds,Funds Balance
+What proof of identification is needed?,Account,Identity Verification
+How come I can't seem to verify my id?,Account,Identity Verification
+I visited the ATM but got less money than what I requested. Why?,Other,ATM Issues
+would you please put a block on my chase account right away,Account,Account Close
+i need help paying my phone bill,Funds,Funds Transfer
+is there enough money in my account for expenses,Funds,Funds Balance
+"Hi, im trying to pay my bill but it says my account is suspended",Account,Account Issues
+Is there a fee for physical cards?,Funds,Funds Fees
+"Yes, it was around 5 50 in the afternoon.",Funds,Funds Fees Issues
+How long will a cash withdrawal be pending?,Funds,Withdraw Issues
+I see a direct debit that I didn't authorize,Funds,Funds Wrong Debit
+how much did my last purchase cost,Funds,Funds Transaction History
+Is my card activated?,Card,Card Info
+I have transferred some money but the balance hasn't changed,Funds,Funds Transfer Issues
+what 's my account balance,Funds,Funds Balance
+How can I change my old pin to a new one?,Account,Reset PIN
+"If I get a transfer from Europe, how long until it is in my account?",Funds,Funds Transfer
+Why and I being charged this fee?,Funds,Funds Fees
+Does it cost anything to do currency exchanges?,Funds,Funds Exchange Info
+Please help me. I don't know my code to get into the app.,Funds,Funds Transfer Cancel
+Will I be fined for topping up by transfer?,Funds,Funds Transfer
+I think the exchange rate on my card payment is incorrect.,Funds,Funds Exchange Issues
+can i get a card if i live in the US?,Card,Card Order
+The app doesn't think that I am myself,Account,Identity Verification
+Is my PIN recorded anywhere?,Account,Account Info
+Why am I unable to withdraw money even though in the past I've done it just fine?,Funds,Withdraw Issues
