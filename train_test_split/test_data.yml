@@ -1,7 +1,97 @@
-version: "2.0"
+version: 2.0
 
-# nlu:
-# - intent: intent1
-#   examples: |
-#     - example1
-#     - example2
+nlu:
+ - intent: exchange_info
+   examples: |
+    - What is my money worth in other countries?
+    - Will my money be of equal value when I travel abroad?
+    - Do you know the rate of exchange?
+    - What is the exchange looking like?
+    - How is the exchange rate doing?
+    - I would like to know how exchange rates are calculated when transferring funds.
+    - I would like to know what exchange rates you use?
+    - Do you know what your exchange rates are?
+    - How do I know what exchange rate I will get?
+    - What are you exchange rates?
+    - Do you have the best exchange rate?
+    - Where can I find your exchange rates?
+    - Your exchange rates come from where?
+    - I need to know what your exchange rates are.
+    - What do you think of the exchange rate?
+    - What do you use to figure out the exchange rate for the card?
+    - What's the foreign exchange rate I will receive?
+    - I need to know what foreign exchange rate I can get.
+    - What are the current exchange rates?
+    - What exchange rate will I receive?
+    - What is the basis of your exchange rates?
+    - How's the exchange rate?
+    - How do you determine your exchange rates?
+    - How do the foreign exchange rates work?
+    - Where are you getting your exchange rates from?
+    - How is the exchange rate calculated?
+    - How do you decide what the exchange rates are?
+    - What method do you use for the exchange rate?
+    - What are Interbanks current exchange rates?
+    - from where are coming your exchange rates?
+    - How do you calculate exchange rates?
+    - Why is your exchange rate different on different days?
+    - Where can I find the exchange rate for my transfer?
+    - Where can I get your exchange rates from?
+    - How do you find the exchange rate?
+    - How are exchange rates determined?
+    - What value can I get for my currency?
+    - What are your exchange rates calculated from?
+    - What is an exchange rate?
+    - What is your opinion on the exchange rate?
+    - What are the exchange rates you assign?
+    - How do you determine exchange rates?
+    - How are your exchange rates calculated?
+    - How is an exchange rate calculated?
+    - How can I find your exchange rates?
+    - Could you please tell me your exchange rates?
+    - Is there an exchange rate?
+    - How does the exchange rate work?
+    - What is the present state of the exchange rate?
+    - How's the exchange rate looking right now?
+    - Please explain the exchange rates.
+    - explain the interbank exchange rate
+    - What will my exchange rate be?
+    - how do you get exchange rates
+    - What exchange rates do you use?
+    - What factors effect the exchange rate?
+    - Where does the exchange rate stand right now?
+    - I'd like to know what the foreign exchange rate will be.
+    - Does the exchange rate change?
+    - How do your exchange rates factor in?
+    - Will I know which exchange rate I will get?
+    - How do I know what the exchange rate will be when I make an exchange.
+    - Is the exchange rate the same on weekends as the weekdays?
+    - How do you do exchanges?
+    - On what do you base your exchange rates?
+    - What factors determine your exchange rate?
+    - I would like to know what your exchange rates are.
+    - Is the exchange rate current?
+    - What are the exchange rates?
+    - How much are the rates of exchange?
+    - How do you decide what your exchange rates are?
+    - Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?
+    - How are the exchange rates for transfers calculated?
+    - How do I know how much money I will have when I travel abroad?
+    - How do you do currency exchanges?
+    - Can you explain your exchange rates basis?
+    - How did you guys get your exchange rate?
+    - Can you tell me your exchange rates?
+    - Could you tell me what your exchange rates are?
+    - Does this app have the same exchange rate as third parties?
+    - what are your exchange rates at?
+    - How is the current exchange rate?
+    - What is the system for determining the exchange rate?
+    - I am travelling and I was wondering what your exchange rates are
+    - Tell me your opinion on the exchange rate.
+    - I'd like to know what you guys look at to decide an exchange rate
+    - where do you find your exchange rates?
+    - What exchange rate is it?
+    - What is the source of your exchange rates?
+    - i need to know about exchange rates
+    - Where do you get those exchange rates?
+    - How do you determine the exchange rate?

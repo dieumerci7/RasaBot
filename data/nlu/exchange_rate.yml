@@ -1,0 +1,15 @@
+version: "2.0"
+
+#add entity currency
+nlu:
+- intent: exchange_info
+  examples: |
+    - what is the current exchange rate?
+    - what currencies are supported?
+    - what is the exchange rate for EUR?
+    - I want to know your exchange rates.
+    - what is the formula for your exchange rate?
+    - when exchanging, how much are the rates?
+    - provide currency exchange rates
+    - what are exchange rate for getting cash
+    

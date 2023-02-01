@@ -8,6 +8,18 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - exchange_rate
+
+entities:
+  - amount-of-money
+
+slots:
+  amount-of-money:
+    type: any
+    #mappings:
+    #  - type: from_entity
+    #    entity: amount-of-money
+
 
 responses:
   utter_greet:
