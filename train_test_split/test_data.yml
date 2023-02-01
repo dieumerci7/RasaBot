@@ -1,4 +1,4 @@
-version: 2.0
+version: "2.0"
 
 nlu:
  - intent: exchange_info
@@ -66,7 +66,6 @@ nlu:
     - Will I know which exchange rate I will get?
     - How do I know what the exchange rate will be when I make an exchange.
     - Is the exchange rate the same on weekends as the weekdays?
-    - How do you do exchanges?
     - On what do you base your exchange rates?
     - What factors determine your exchange rate?
     - I would like to know what your exchange rates are.
@@ -77,7 +76,6 @@ nlu:
     - Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?
     - How are the exchange rates for transfers calculated?
     - How do I know how much money I will have when I travel abroad?
-    - How do you do currency exchanges?
     - Can you explain your exchange rates basis?
     - How did you guys get your exchange rate?
     - Can you tell me your exchange rates?
@@ -95,3 +93,71 @@ nlu:
     - i need to know about exchange rates
     - Where do you get those exchange rates?
     - How do you determine the exchange rate?
+    - Show exchange rate between USD and EUR
+
+ - intent: exchange_currency
+   examples: |   
+    - Are EUR exchanges allowed?
+    - Can I change from AUD to GBP?
+    - I've been to several different countries, can I exchange the cash with a discount for a large transaction?
+    - How to exchange my currency
+    - how to exchange currencies
+    - What types of fiduciary currencies are supported for tenure and exchange?
+    - Is this app capable of exchanging currencies?
+    - Can this app exchange American and English currency?
+    - Do you have EUR currency available for me?
+    - Do you provide currency exchange to Euros?
+    - Is it possible to exchange currencies on the app?
+    - What steps do I need to take to exchange currencies?
+    - Does your app allow currency exchange from USD to GBP?
+    - I might need to exchange between USD and GBP, is this possible with your app?
+    - What do I need to do to exchange my money?
+    - How do you exchange currencies
+    - Can I exchange USD for GBP in your app?
+    - need to exchange currencies
+    - I would like to change currency
+    - Can I use your app to exchange between USD and GBP
+    - Can this app be used to exchange currencies?
+    - How can I hold and exchange fiat currencies?
+    - I want to hold and exchange fiat currencies, what can I use to do so?
+    - Can you change my currency to EUR?
+    - Can exchanged be made to EUR?
+    - Can money be exchanged from one currency to another?
+    - How do I exchange AUD for GBP?
+    - Can I change or hold different currency?
+    - Is it possible to exchange USD and GBP on the app?
+    - How can I exchange USD and GBP in the app?
+    - What's the process of changing from GBP to AUD?
+    - Which fiat currencies are compatible for exchange and holding?
+    - I may need to exchange my USD for GBP, can your app do that?
+    - Are you able to make exchanges to EUR?
+    - Will it be possible to change from USD to GBP with this App?
+    - How do I change to AUD from GBP?
+    - How can I change to another currency?
+    - Will you tell me how to exchange USD for GBP in the app?
+    - How can I trade currencies with this app?
+    - What do I do to exchange currency?
+    - I would like to change to a different currency.
+    - How do I use the app to exchange currencies?
+    - I would like to exchange currency What types are there?
+    - I need to exchange my GBP to AUD, how would I do this?
+    - What fiat currencies do you allow exchange with?
+    - I'm interested in using fiat currencies, which do you support?
+    - What flat currencies do you use for holding and exchanges.
+    - What fiat currencies can I use for holding and exchanging?
+    - How can I change the currency I'm exchanging from AUD to GBP?
+    - I no longer need AUD, I need GBP instead, how can I make this happen?
+    - Can I exchange currencies usign this app?
+    - How do I change my AUD into GBP?
+    - Can you convert to EUR?
+    - I am trying to find out how to exchange currency X with currency Y.
+    - Is it possible to change from AUD to GBP?
+    - Is it possible to exchange currencies using the app?
+    - How can I exchange to EUR?
+    - What if I need to use GBP instead of USD?
+    - I may no longer need GBP, but instead I will need AUD, how can I go about making this change?
+    - How do I start an exchange between GBP and AUD?
+    - Can I use this app to exchange between dollars and pounds?
+    - What's the procedure with currency exchange?
+    - How do you do currency exchanges?
+    - How do you do exchanges?

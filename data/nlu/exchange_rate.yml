@@ -13,3 +13,16 @@ nlu:
     - provide currency exchange rates
     - what are exchange rate for getting cash
     
+- intent: exchange_currency
+  examples: |
+    - can I exchange from USD to GBP?
+    - I need Australian dollars instead of UK currency.
+    - I would like to exchange currencies
+    - how can I exchange currencies?
+    - can I convert currency with the app?
+    - change 100 EUR to USD from my account
+    - please help me to exchange 50 GBP
+    - what should i do to change my money
+    - what currencies may i exchange
+    - want to exchange USD
+    - what currencies do you support to exchange
