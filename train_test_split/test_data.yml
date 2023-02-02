@@ -1,7 +1,549 @@
 version: "2.0"
 
-# nlu:
-# - intent: intent1
-#   examples: |
-#     - example1
-#     - example2
+nlu:
+- intent: funds_transfer
+  examples: |
+    - With my credit card i would like to transfer money.
+    - pay the red cross the monthly donation
+    - deposit ten bucks from my chase account to my ally account
+    - i want to pay my house bill
+    - send over 50 dollars between my shared and not shared accounts
+    - i need you to send 500 dollars from my high tier account to my regular checking account
+    - pay my internet bill with my discover account
+    - I know, I tried it in my online app like 10 times! send that to my debit card
+    - please pay my bill
+    - transfer money from one place to another
+    - How can I transfer money using my credit card?
+    - transfer sixty dollars to dad from my biggest accnt
+    - can you assist me in paying my electric bill
+    - make a transfer of 200 from my savings account to my checking account
+    - How do I go about transferring money using my credit card?
+    - i got to pay my cable bill
+    - please send ten dollars from bank of america to capital one
+    - Is it simple to transfer money using my credit card?
+    - need to transfer from one account to my other one
+    - i 'd like to make a payment on my credit card bill
+    - i need help paying my auto insurance bill
+    - can you transfer 5 from savings to checking
+    - please transfer x from checking to saving
+    - help me move my money
+    - Is it possible to transfer money to my credit card?
+    - i need to transfer from this account to that one
+    - i need to pay my bill
+    - i need help paying my cable bill
+    - I'd like to use my American Express to place money into my account.
+    - whats the quickest way to money from one account to another
+    - i must pay my cable bill
+    - pay the electric bill
+    - transfer 40 from account a to b
+    - can i initiate a one time transfer from my savings account to my money market account
+    - I must quickly transfer something from China, and I need to know how long it will take.
+    - pay my electric bill from my amex account
+    - i need to throw some money into that other account
+    - my water bill is due , pay it immediately
+    - please transfer 100 from my checking to my savings account
+    - use my park bank account to pay my electric bill
+    - please help me pay my cable bill
+    - I want to transfer money using my credit card.
+    - help me pay my cable bill
+    - Help! I need to transfer something to China.
+    - are you able to help me pay my mortgage
+    - use my checkings account to pay the electric bill
+    - time to move some cash from one account to another
+    - move 57 dollars from saving into mom
+    - i want to pay my bill , please
+    - please transfer s from saving to checking
+    - i got to transfer ten dollars from my bank of america account to my capital one account
+    - yes make the transfer
+    - Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.
+    - transfer 20000 from my savings account to checking account
+    - transfer 100 dollars checking to savings
+    - transfer between two accounts
+    - can you help me pay this bill
+    - i need ten dollars sent from b of a to washington mutual
+    - move my money please
+    - i need to get help paying my gas bill
+    - i want to initiate a transfer from one account to the other
+    - transfer two hundred dollars between my portfolio and my money market account
+    - will you aid me in paying my insurance premium
+    - can i pay a bill
+    - send 20 dollars from savings to checking
+    - take 20000 from savings and put it in checking
+    - i need to pay my cable bill from my checking account
+    - go ahead and pay my american express bill now
+    - send 50 dollars between bank of america and chase accounts
+    - move 40 from account b to account a
+    - I'd like to transfer funds using my credit card.
+    - pay my cable bill from my facebook account
+    - I want to transfer money with my credit card.
+    - pay electric
+    - Hoe do i use my credit card to transfer money?
+    - i must transfer ten dollars from my bank of america account to my capital one account
+    - i need help paying my water bill
+    - i need to transfer from one account to my second one
+    - please pay electric bill
+    - i want to pay my insurance bill
+    - transfer 5 from savings to checking
+    - put 20000 into my checking account from my savings account
+    - i need help to pay my electric bill
+    - move 100 dollars from checking to savings
+    - put a hundred dollars in my ally account from bluebird
+    - is there anyone available to help pay an internet bill
+    - do a car payment from my savings account
+    - What do I need to do to transfer money with my credit card?
+    - transfer 100 dollars between checking and savings
+    - What information am I going to have to have in order to do a transfer with my card?
+    - i would like to pay my cell phone bill
+    - i want to pay that bill now
+    - i need my money to be moved
+    - pay my insurance bill
+    - pay the cable bill with my visa card
+    - transfer fifty dollars between my chase and bank of america account
+    - pay my water bill with my charles schwab account
+    - can i pay my bill
+    - send my money between accounts
+    - i need to move my money
+    - take 40 and transfer it to account a from b
+    - Can I have money transferred into my account at different intervals along my trip?
+    - put 40 from account a to b
+    - transfer 200 dollars from paypal to savings
+    - can you transfer money from my account
+    - I need to transfer something from China, How long will it take?
+    - i must pay my cable bill from my checking account
+    - i need help paying my store bill
+    - pay a bribe using my money market account
+    - will you take my bill payment
+    - i want to do a payment on my water bill
+    - i have to transfer ten dollars from my bank of america account to my capital one account
+    - send money to another account
+    - i wanna pay my cable bill from my checking account
+    - transfer 10 from checking to savings
+    - send 400 dollars between city bank and usaa accounts
+    - i want to pay my car bill
+    - can you give me a hand paying my water bill
+    - help me move my money please
+    - transfer 500 from my money market savings account to my checking account
+    - help me transfer x from credit to debit
+    - I want to know how to transfer money with my credit card
+    - That's what I said, send it to terez lara today at 10:25 a.m.
+    - i need to make a bill payment
+    - i need to pay my water bill
+    - is it possible to pay my bill
+    - i want to pay my electric bill
+    - i want to pay my internet bill
+    - send money from one account to another
+    - send 100 from paypal to my bank
+    - make a payment on the electric bill
+    - please transfer 250 from checking to savings
+    - move money from one account to another
+    - i 'd really like to pay this bill
+    - pay my water bill from my checking account
+    - i need your help to pay my gas bill
+    - please transfer 50 to my checking account from credit
+    - transfer 500 from my checking to my savings
+    - i really want to pay my cable bill from my checking account
+    - pay my gas bill from my saving account
+- intent: funds_transfer_cancel
+  examples: |
+    - What do I need to do to cancel a transaction?
+    - How can I cancel a transfer I made
+    - How do I cancel a transfer?
+    - Is it possible for a transaction to be cancelled?
+    - I have a transaction and would like to know if I it's cancelable?
+    - I need to cancel a transaction please!
+    - I need to cancel a transaction immediately.
+    - Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?
+    - I don't think the transaction has gone through, so can I cancel a transfer?
+    - How do I cancel a recent transfer?
+    - I entered a typo when I was transferring money and now I've sent it to an incorrect account. This is so bad! I need it cancelled now.
+    - Please help revert my transaction from this morning.
+    - Please cancel my most recent transfer, it was a mistake. This is an emergency. It needs to be canceled
+    - yes cancel it now
+    - My transaction from earlier needs to be reversed.
+    - I did a transaction to a wrong account!
+    - I need to cancel my recent transfer as soon as possible. I made an error there. Please help before it goes through.
+    - I would like to cancel a transfer...is this possible?
+    - It is extremely important that I cancel the transfer I made yesterday and put the money into a different account. Is this possible?
+    - I made a mistake and need to cancel a transfer.
+    - I just realized I made the wrong transaction yesterday. Would you please make it correct?I need it by tomorrow Please.
+    - I would like help to revert a transaction I did this morning
+    - I needed to make a payment on my account, but I typed in the incorrect number. The app won't allow me to cancel this transaction. I need it cancelled ASAP!!
+    - Please cancel the transfer I just made. I put in the wrong account number and can't seem to stop it on the app.
+    - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app.
+    - I no longer want to transfer funds, can we cancel that transaction?
+    - How do I fix a transaction to the wrong account?
+    - Is it possible to cancel my transfer?
+    - Help me cancel a transaction.
+    - How do I cancel a transaction?
+    - I made a transaction this morning but I need to revert it now.
+    - Can you help me to quickly cancel a transaction I accidentally did to the wrong account?
+    - I want to revert a transaction I did this morning
+    - I need to cancel a transaction on my debit card.
+    - Could I please cancel my transfer, I paid it into the wrong account. I need to pay it into the right account by tomorrow.
+    - Am I able to cancel a transfer I just made
+    - I need a transfer cancelled.
+    - One of my transactions needs to be canceled.
+    - I need to cancel a transfer
+    - I need to cancel my recent transfer. I made a mistake. Please help quickly before the transfer goes through.
+    - I didn't mean to do the transfer, is there any way to cancel it?
+    - I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?
+    - I made a transaction to the wrong account!
+    - I made a transfer into my account and now I need to cancel it
+    - Can I cancel a transaction?
+    - I want to reverse a transaction I did this morning
+    - My morning transaction needs to be canceled.
+    - I didn't want to make a transaction, I want to revert it
+    - Is there a way to revert a transaction?
+    - I made a rent payment from the wrong account yesterday. It absolutely has to go through tomorrow, so can you please reroute the payment to the right account?
+    - Is there any way to cancel a recent transfer? I did not mean to make it and need to make sure it does not go through.
+    - I need to cancel a transaction.
+    - I made a mistake and did a transaction to a wrong account, can I cancel?
+    - There's been a transaction to the wrong account.
+    - Who do I call to cancel a transfer?
+    - If I make a mistake can I cancel the transaction?
+    - Is there any way to cancel my transfer
+    - I would like to cancel my previous transaction
+    - i want to cancel my loan asap let me talk to the manager
+    - I recently made a transfer that I would like to cancel
+    - stop the transaction
+    - I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow
+    - I've just made a money transfer to the wrong account, I need to stop the money from being moved as it may be going to someone I don't know. Please can you help?
+    - I need immediate assistance in canceling a transfer which was a mistake. Please help me quickly so this does not go through.
+    - I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?
+    - How fast can you fix an error in payment? I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.
+    - Please help me! A payment I made had an error on the account number and I can't cancel on my side. Can you cancel it?
+    - Please cancel my last transaction.
+    - I want to cancel a transaction from this morning.
+    - Help! I need to cancel a transaction.
+    - How do i cancel a charge?
+    - I goofed up and used the wrong account. Please help.
+    - I've made a horrible mistake! I transferred money to the wrong account by accident! I entered one of the digits wrong. I need this cancelled immediately please.
+    - How can I revert a transaction from this morning?
+    - What are the steps I need to take to cancel a transaction?
+    - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer immediately. I cannot do anything from the app.
+    - I did a transaction this morning and now I want to cancel it.
+    - I want to cancel a transaction.
+    - I need help right now. I realize I sent my payment to the wrong account number after making a typo. Please cancel the transfer now since I can't do it from the app.
+    - Under what condition will my payment revert?
+    - I need to stop a transaction that I made.
+    - I want to cancel a transfer I just made.
+    - How can I cancel a transaction to a wrong account?
+    - Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.
+    - Can I cancel a transfer I made
+    - My last ATM request did not go through due to a declined card. Please cancel the request on my account.
+    - When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM
+    - I made a terrible mistake when typing in my account number. I accidently sent money to the wrong account. I noticed the app won't allow me to void the transaction. Can someone help me with this immediately?
+    - My transfer was wrong, are you able to stop it before it goes through please?
+    - I made a transaction, but I made it to an account I didn't mean to make it to.
+    - I inadvertently completed a transaction on a wrong account.
+    - I have arranged a transfer, but no longer need to send it. How do I stop the transfer?
+    - I sent a payment to the wrong account number - can that transaction be reversed? I am worried about accidentally giving my money away.
+    - I need a transaction reversed from my account.
+    - who do I talk to, to cancel a transfer?
+    - I just initiated a transfer but I'd like to cancel it.
+    - I haven't used my card all day but there is a payment showing in the app. Please cancel it!
+    - I already made a transfer and want to cancel it, how do I do that?
+    - How do I revert a transaction?
+    - I want to take back my transaction
+    - I submitted a transaction but it was for the incorrect account.
+    - A transfer has been made in my account that I need to cancel. This was a mistake on my part and I hope we can get this resolved quickly.
+    - Help please! My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?
+    - I want to revert this mornings transaction.
+    - please cancel the transaction
+    - nope, this is not the correct name of the recipient.
+    - I need to cancel a transfer I made.
+    - How to cancel a transaction
+    - How can I cancel my transfer?
+    - I made a mistake when sending a payment, sending it to the wrong account number (with a typo) - can you please cancel the transaction?
+    - I recently made a transfer but I need to cancel it as soon as possible. Please let me know when this happens.
+    - that's not right, I actually want to send that money to someone else...
+    - Help me cancel a transfer.
+    - Am I able to stop a transfer?
+    - A transfer has to be cancelled.
+    - I made a mistake of transferring, can I cancel my previous transfer?
+    - I used the wrong account.
+    - How do I go about cancelling a transaction?
+    - Is it possible to cancel a transaction?
+    - Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?
+    - I made a mistake this morning when I did a transfer. How do I reverse it?
+    - I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?
+    - I wish to cancel a transfer
+    - I made a mistake and performed a transaction on the wrong account!
+    - I wanna revert a transaction i did this morning.
+    - is it possible to cancel transactions?
+    - I made a mistake when making my last transfer, please cancel before it goes thru.
+    - I messed up and made a transaction using the wrong account.
+    - I used the wrong account number!
+- intent: funds_transfer_issues
+  examples: |
+    - My card payment was cancelled.  Why?
+    - I see a reverted payment on my account. Why has this happened?
+    - Asked for $100 but only got $20. Why would this happen?
+    - I was unable to transfer money from my account.
+    - My card payments have stopped.
+    - why did my payment revert
+    - Why can't I complete the transfer?
+    - I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.
+    - Why didn't my transfer work?
+    - My card payment failed.
+    - How long does it take for money to transfer? I sent some to a friend and it hasn't gone through yet.
+    - Why did my card payment get declined?
+    - I can't get a contactless payment to work.
+    - I sent some money and the account hasn't recived the transfer I made.
+    - I set up a payment to a new payee and sent some money but the person I'm sending it to has not received it. Can you check where the money is?
+    - What would cause a transfer failure?
+    - Bank transfer to account did not show up, please help?
+    - The transfer I tried to make failed.
+    - Why would a merchant revert my payment?
+    - Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.
+    - I can't see a transfer to my account I made.
+    - I don't think my transfer wen through. Why?
+    - Where's the money from my transfer from Europe?
+    - Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.
+    - Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?
+    - Card payment was declined, do you know why?
+    - Card payment has be declined.
+    - Why is a transfer I did recently still processing?
+    - When are you going to transfer the money?
+    - Why did my transfer not work?
+    - Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying "they did not receive my payment" then the payment was returned to my account. so I would like to see why it did that please.
+    - My transfer failed
+    - How come the money from the merchant appeared back into my account?
+    - My card payment has failed.
+    - Why is it saying my card payment is declined when I made it?
+    - My recipient hasn't received the money
+    - Why would the app revert my payment?
+    - Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?
+    - My transfer did not work, what was the reason?
+    - I tried to make a transfer and it failed.
+    - I seem to be unable to make any transactions.
+    - Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.
+    - My payment didn't work and the money is in back in my account.
+    - What is the time frame that it usually takes for a transfer to come through? I have a friend needing it immediately but it has yet to come through.
+    - I didn't withdraw cash but I see that transaction on my app
+    - The transger I tried to make failed.
+    - I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?
+    - What does it mean if my payment has been reverted?
+    - I notice that I have a card payment that's been cancelled.
+    - I got a transfer fail message, but no explanation of why-- what happened?
+    - I'm trying to take money from my account but its not letting me. Help!
+    - Why did I not get the amount of money I requested?
+    - I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?
+    - Why was I not able to complete my transfer?
+    - Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.
+    - The transfer keeps failing - I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, I have no idea why
+    - Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?
+    - I don't see a money transfer yet
+    - Why wasn't my payment accepted by the app
+    - Can you tell me why my transfer is failing and help resolve?
+    - Card payment didn't go through.
+    - Why would my payment have been returned to my account?
+    - I tried to do a transfer but it didn't go through.
+    - A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?
+    - I've tried many times to make a payment, but it's not going through.  What's wrong?
+    - I made a payment but it was returned.
+    - I need to check status as my friend hasn't got money I sent.
+    - I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?
+    - Is there a reason that my transfer failed?
+    - Yes, my direct debit didn't go through
+    - A payment I made is for a wrong amount can you help me correct the mistake.
+    - Is it on purpose that my payment has been returned to my account?
+    - I've been trying to do a transfer multiple times and have failed? Is the system down?
+    - Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.
+    - I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?
+    - I tried to transfer money but it didn't go through
+    - Why did the funds for one of my purchase come back to my account?
+    - My transfer hasn't arrived
+    - Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.
+    - A wrong amount of cash we sent to me.
+    - I tried to pay with my card and it didn't work
+    - I sent money and the recipient has not received their money after two weeks.
+    - Why hasn't my transfer gone through
+    - Why do you keep declining my payment?I tried several times already with this card and it is just not working.
+    - Why do my transfers keep failing?
+    - The payment I made with my card is not showing up.
+    - HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?
+    - I tried to make a transfer, but it didn't work.
+    - Why do you keep declining my payment? I tried several times already with this card and it is just not working.
+    - I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?
+    - My card payment has been declined, why?
+    - I'm getting concerned here. I sent a friend some money and she isn't seeing it. What's going on?
+    - Why can't I take money from my account?
+    - The app reverted the payment I made.
+    - Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?
+    - Can you tell me why my card payment was cancelled?
+    - I transferred some money but it hasn't arrived.
+    - I think the payment from my card was revereted
+    - I have enough money in my account, so why is my card being declined?
+    - I made a transfer and the receiver said an amount was received, but not exactly the same as the right amount. I now have to transfer more to get the remainder to the receiver. Can you alert me about this. What's been happening?
+    - how come when i asked for 100 it only gave me 20.00 in the app
+    - is the a reason why my transfer has failed?
+    - My payment was put back, I think.
+    - A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?
+    - What is the reason my payment was not accepted?
+    - This morning, I tried to send money to my friends several times but each time the transfer fails.  Why does it keep failing?  The transfer gets rejected but I do not know what is causing it to be rejected.
+    - Why would a card payment be declined?
+    - A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.
+    - I have tried sending a standard transfer five times and it hasn't gone through. What is the problem?
+    - The card payment I made didn't work.
+    - Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.
+    - My card payment was reverted
+    - the money i transferred didnt arrive
+    - I was checking my statement and I think one of my card payments has reverted
+    - Your system is broken. My transfers keep failing, 5 times now.
+    - Why was my card payment reversed?
+    - how come i was declined
+    - I made a payment with my card that was cancelled?
+    - I made a transfer and the receiver said an amount was received, but less than the right amount. I now have to transfer more to get the remainder to the receiver. Can you tell me about this. What's been going on?
+    - Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?
+    - The wrong account was used during a transaction.
+    - I did a bank transfer and my balance isn't current.
+    - My transfer failed, why?
+    - i don't know if it was reverted
+    - Why wasn't my card payment accepted?
+    - When I tried to transfer funds to my friend today I was unable to do so, why?
+    - My transfer failed to process correctly. Is there a reason this would happen?
+    - I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?
+    - I think my card payment was reverted
+    - Why isn't the transfer I made to a friend showing?
+    - I purchased something and already received it, why hasn't the money taken out?
+    - I don't see the transaction I made to a friend on my account.
+    - I really wanted to buy something online but seems the card is not working as the payment suddenly came back! What's going on here, I've been trying for a good week or two.
+    - Why didn't my transfer get to the recipient?
+    - Why was my transaction not approved?
+    - I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?
+    - Some cash I didn't get shows in my app
+    - Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.
+    - My payment has been declined several times.  Can you help me?
+    - My payment was declined
+    - I do not see the money I transferred into this account
+    - I haven't been able to complete any transactions on my card today. Do you know what's wrong?
+    - Can you tell my why my funds transfer did not work properly?
+    - I put some money in my account the other day but now its gone? Why is this?
+    - Why didn;t my payment work
+    - I was so embarrassed. Why didn't my payment clear?
+    - Why is my transfer not showing
+    - About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?
+    - It looks like my card payment was sent back.
+    - Transfer has failed.
+    - Hello, I am buying a flat and need the inital payment for the mortgage to go through. It keeps showing up as error, what is going on? Can you please help me make this transfer?
+    - I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done
+    - Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?
+    - Where is my money transfer?
+    - I think a card payment I made was cancelled.
+    - My transfer has not arrived.
+    - my payment was rejected, do you know why?
+    - I don't understand why my payment was declined. I thought everything was ok.
+    - Why was I declined when I tried to get my money?
+    - I looked at my statement and found a payment I and found a mistake.
+    - I can't get google pay to work right.
+    - why was my payment reverted on the app
+- intent: funds_transfer_info
+  examples: |
+    - How long is the transfer?
+    - I am waiting for the money to enter my account. How long does it take?
+    - I transferred money from the US, How long does it take?
+    - I've made a transfer from France two days ago but I was wondering if international transfers take longer to arrive because it hasn't made it yet.
+    - How long does it take for a money transfer to show up?
+    - How long do I have to wait for my transaction to be completed?
+    - I'd like to make a SEPA transfer to my account, but will I be charged?
+    - For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.
+    - How long until transfers complete?
+    - How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.
+    - How long will it take for my money to be deposited?
+    - What happens if my card payment is cancelled?
+    - How long until the transfer is reflected on my account balance?
+    - I just noticed that I supposedly made a payment to a seller a while back. The problem is, I don't recognize the seller. There must be a way to see who it is or track the payment. Can you do that, because I don't remember this transaction?
+    - I don't recognize what this payment on my statement would be for.
+    - How long will a transfer from the US take?
+    - has my card payment been reverted?
+    - How long will it take to transfer from europe?
+    - Hi, I made a transfer from France two days ago and thought it would be here by now. Can you give me an update please?
+    - How long does it take for pending transfer transactions to post?
+    - When can I expect my transfer to reach my account?
+    - Where is the transfer that I did?
+    - I've made a transfer, how long until the money reaches my account?
+    - when will my transfer arrive
+    - I'm waiting for a transfer from the US, how much longer?
+    - Can you tell me when the transfer will be completed?
+    - What's the transfer time from Europe?
+    - Estimated time arrival for transfers?
+    - I need to know why a money transfer is available.
+    - This card payment isn't is recognition.
+    - How long will it take to receive my money from my transfer transaction?
+    - I'm not sure where this charge came from.
+    - Can I pay online with my card?
+    - how can i transfer money from american express card
+    - Do EU transfers happen quickly? I purchased something a few days ago and the seller hasn't received my money yet.
+    - Does this program take SWIFT transfers?
+    - My Bank is in Europe, how long will the transfer take?
+    - Will I receive all the money sent to my account by SEPA transfer?
+    - How many days do I have to wait for the transfer to reach my account?
+    - Can you please tell me why my cash withdrawal is still pending?
+    - I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?
+    - What does it mean if my payment is pending?
+    - I sent a transfer and it has been pending for awhile. How long will it stay pending?
+    - Can I pay for my gas using my Apple watch?
+    - How long does it take for my payment to process?
+    - Can I Transfer from SWIFT?
+    - What fiat currencies are supported?
+    - Where is the transfer to my account that I made?
+    - There has been a transfer pending in my account and I wanted to know how long it is going to take to go  through.
+    - Can third party fees affect a transfer?
+    - I noticed that there's a payment on my card that's pending.
+    - My cash withdrawal is showing as pending, why?
+    - How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.
+    - How soon will my balance be updated to reflect my transfer?
+    - Why is their a charge pending on my card still?
+    - It seems like I have been waiting forever for this international transfer. Why is it taking so long? C'mon, it's 2018, things happen at a click of a button. All of the account information is correct, so how long will this take?
+    - I didn't know there was a charge for tranferring. What is the charge?
+    - How long after I receive my statement can I dispute payments on it?
+    - How long does a payment show as pending before i should worry about it?
+    - How long does it take to make an urgent transfer from China?
+    - Does a US transfer take long
+    - How long does it take for a transfer to be in my account?
+    - When will my transfer be in my account?
+    - I bought something on line a and the seller hasn't received the money I sent could you please tell me how long an EU transfer takes?
+    - My transfer is still pending, why?
+    - Can you tell me when my money transfer will go through
+    - Why hasn't the money I transferred into my account shown up yet?
+    - When will my transfer arrive from Europe?
+    - My transfer says pending. What does that mean?
+    - Will my transfer be done soon?
+    - I don't know if I made this payment on my card.
+    - Will it take more than 3 days for my transfer to reach my account?
+    - why have I got a pending transfer? I'm confused!!
+    - When will I receive a transfer from europe?
+    - Why was I charged a fee on a cash withdrawal?
+    - How long will it take for my payment to go through?
+    - Are bank transfers immediate?
+    - Was my transaction reverted with my card?
+    - When can I expect money to be transferred to my account?
+    - How long do transfers take to go though
+    - how long will it take for my transfer to stop pending
+    - How long does it take transfers from Europe to complete?
+    - Why was I charged for transferring money?
+    - It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.
+    - How long will a transfer be pending for?
+    - How long does it take for money to reach my account?
+    - How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move
+    - what amount did i spend for food on chase visa on current bill
+    - What is the reason my cash withdrawal is still pending?
+    - How long do bank transfers take to clear
+    - How long will a transaction to a friend take?
+    - What is the time for a transfer?
+    - My money transfer has not yet occurred
+    - I got some items this morning but the payment says pending
+    - How long will it take for the money to reach my account?
+    - Why was there an extra charge when I transferred money?
+    - How long does it take for money to transfer as my balance hasn't been updated
+    - What are the additional charges for a SWIFT transfer?
+    - Why does my payment appear as pending?
+    - How long does transfer from the US take?
+    - What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.
+    - How long will my most recent transfer take to go through? The recipient needs the money urgently.
+    - How long does it take for the money to show up in my account?
+    - Are SWIFT Transfers available at this bank?
+    - How long do transfers from Europe take?
+    - How many days until my US transfer arrives?
+    - Why would a merchant revert a card payment?

@@ -1,0 +1,1050 @@
+[
+  {
+    "text": "transfer money from one place to another",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9928455948829651
+    }
+  },
+  {
+    "text": "How can I transfer money using my credit card?",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9804350137710571
+    }
+  },
+  {
+    "text": "transfer sixty dollars to dad from my biggest accnt",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9532086849212646
+    }
+  },
+  {
+    "text": "please send ten dollars from bank of america to capital one",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.680632472038269
+    }
+  },
+  {
+    "text": "I must quickly transfer something from China, and I need to know how long it will take.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999963045120239
+    }
+  },
+  {
+    "text": "Help! I need to transfer something to China.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9568156003952026
+    }
+  },
+  {
+    "text": "yes make the transfer",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6569940447807312
+    }
+  },
+  {
+    "text": "i need ten dollars sent from b of a to washington mutual",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999293088912964
+    }
+  },
+  {
+    "text": "move my money please",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.992438018321991
+    }
+  },
+  {
+    "text": "transfer fifty dollars between my chase and bank of america account",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999189376831055
+    }
+  },
+  {
+    "text": "I need to transfer something from China, How long will it take?",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "will you take my bill payment",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.5735728740692139
+    }
+  },
+  {
+    "text": "i want to do a payment on my water bill",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9712634086608887
+    }
+  },
+  {
+    "text": "make a payment on the electric bill",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.846738338470459
+    }
+  },
+  {
+    "text": "I made a rent payment from the wrong account yesterday. It absolutely has to go through tomorrow, so can you please reroute the payment to the right account?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.7851561307907104
+    }
+  },
+  {
+    "text": "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6828694939613342
+    }
+  },
+  {
+    "text": "How fast can you fix an error in payment? I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8687788248062134
+    }
+  },
+  {
+    "text": "Under what condition will my payment revert?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.694077730178833
+    }
+  },
+  {
+    "text": "My last ATM request did not go through due to a declined card. Please cancel the request on my account.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.998713493347168
+    }
+  },
+  {
+    "text": "When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9187416434288025
+    }
+  },
+  {
+    "text": "My transfer was wrong, are you able to stop it before it goes through please?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.6392062306404114
+    }
+  },
+  {
+    "text": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.997550904750824
+    }
+  },
+  {
+    "text": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8344555497169495
+    }
+  },
+  {
+    "text": "that's not right, I actually want to send that money to someone else...",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.710623025894165
+    }
+  },
+  {
+    "text": "Am I able to stop a transfer?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.5932039022445679
+    }
+  },
+  {
+    "text": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9754651188850403
+    }
+  },
+  {
+    "text": "My card payment was cancelled.  Why?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.998807430267334
+    }
+  },
+  {
+    "text": "I see a reverted payment on my account. Why has this happened?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.999922513961792
+    }
+  },
+  {
+    "text": "Asked for $100 but only got $20. Why would this happen?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9999827146530151
+    }
+  },
+  {
+    "text": "I was unable to transfer money from my account.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9999948740005493
+    }
+  },
+  {
+    "text": "My card payments have stopped.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9957269430160522
+    }
+  },
+  {
+    "text": "Why can't I complete the transfer?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9910043478012085
+    }
+  },
+  {
+    "text": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9324359893798828
+    }
+  },
+  {
+    "text": "How long does it take for money to transfer? I sent some to a friend and it hasn't gone through yet.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9998262524604797
+    }
+  },
+  {
+    "text": "I sent some money and the account hasn't recived the transfer I made.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9425102472305298
+    }
+  },
+  {
+    "text": "Bank transfer to account did not show up, please help?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9997709393501282
+    }
+  },
+  {
+    "text": "I can't see a transfer to my account I made.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9979996085166931
+    }
+  },
+  {
+    "text": "Where's the money from my transfer from Europe?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999994039535522
+    }
+  },
+  {
+    "text": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9955235719680786
+    }
+  },
+  {
+    "text": "Card payment has be declined.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.7394501566886902
+    }
+  },
+  {
+    "text": "When are you going to transfer the money?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9998726844787598
+    }
+  },
+  {
+    "text": "How come the money from the merchant appeared back into my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9555349349975586
+    }
+  },
+  {
+    "text": "My card payment has failed.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9166486263275146
+    }
+  },
+  {
+    "text": "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9856022000312805
+    }
+  },
+  {
+    "text": "I seem to be unable to make any transactions.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9974228143692017
+    }
+  },
+  {
+    "text": "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6259271502494812
+    }
+  },
+  {
+    "text": "What does it mean if my payment has been reverted?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.7104576826095581
+    }
+  },
+  {
+    "text": "I'm trying to take money from my account but its not letting me. Help!",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9999730587005615
+    }
+  },
+  {
+    "text": "I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.8168137669563293
+    }
+  },
+  {
+    "text": "Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.7388366460800171
+    }
+  },
+  {
+    "text": "Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.5998432636260986
+    }
+  },
+  {
+    "text": "Can you tell me why my transfer is failing and help resolve?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9998946189880371
+    }
+  },
+  {
+    "text": "Why would my payment have been returned to my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9919324517250061
+    }
+  },
+  {
+    "text": "I need to check status as my friend hasn't got money I sent.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9633396863937378
+    }
+  },
+  {
+    "text": "I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9850597381591797
+    }
+  },
+  {
+    "text": "A payment I made is for a wrong amount can you help me correct the mistake.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999995231628418
+    }
+  },
+  {
+    "text": "Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.544208824634552
+    }
+  },
+  {
+    "text": "Why did the funds for one of my purchase come back to my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.776527464389801
+    }
+  },
+  {
+    "text": "My transfer hasn't arrived",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9682216048240662
+    }
+  },
+  {
+    "text": "Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.39735719561576843
+    }
+  },
+  {
+    "text": "A wrong amount of cash we sent to me.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999805688858032
+    }
+  },
+  {
+    "text": "I tried to pay with my card and it didn't work",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9683599472045898
+    }
+  },
+  {
+    "text": "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9993104934692383
+    }
+  },
+  {
+    "text": "I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.732875645160675
+    }
+  },
+  {
+    "text": "Why can't I take money from my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9661240577697754
+    }
+  },
+  {
+    "text": "The app reverted the payment I made.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.4579574465751648
+    }
+  },
+  {
+    "text": "Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9995206594467163
+    }
+  },
+  {
+    "text": "Can you tell me why my card payment was cancelled?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9365978837013245
+    }
+  },
+  {
+    "text": "I think the payment from my card was revereted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.97627192735672
+    }
+  },
+  {
+    "text": "I have enough money in my account, so why is my card being declined?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9996634721755981
+    }
+  },
+  {
+    "text": "how come when i asked for 100 it only gave me 20.00 in the app",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999028444290161
+    }
+  },
+  {
+    "text": "Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9937678575515747
+    }
+  },
+  {
+    "text": "I was checking my statement and I think one of my card payments has reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9969772100448608
+    }
+  },
+  {
+    "text": "I made a payment with my card that was cancelled?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999364614486694
+    }
+  },
+  {
+    "text": "Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9489210247993469
+    }
+  },
+  {
+    "text": "The wrong account was used during a transaction.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999414682388306
+    }
+  },
+  {
+    "text": "i don't know if it was reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.999988317489624
+    }
+  },
+  {
+    "text": "When I tried to transfer funds to my friend today I was unable to do so, why?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9707321524620056
+    }
+  },
+  {
+    "text": "My transfer failed to process correctly. Is there a reason this would happen?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9953306913375854
+    }
+  },
+  {
+    "text": "I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9505372047424316
+    }
+  },
+  {
+    "text": "I think my card payment was reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9871838092803955
+    }
+  },
+  {
+    "text": "I purchased something and already received it, why hasn't the money taken out?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999961853027344
+    }
+  },
+  {
+    "text": "I don't see the transaction I made to a friend on my account.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999176263809204
+    }
+  },
+  {
+    "text": "I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9906156063079834
+    }
+  },
+  {
+    "text": "Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9916581511497498
+    }
+  },
+  {
+    "text": "My payment has been declined several times.  Can you help me?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.8755695819854736
+    }
+  },
+  {
+    "text": "I do not see the money I transferred into this account",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9717035889625549
+    }
+  },
+  {
+    "text": "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9690367579460144
+    }
+  },
+  {
+    "text": "About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "I think a card payment I made was cancelled.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "I looked at my statement and found a payment I and found a mistake.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9398147463798523
+    }
+  },
+  {
+    "text": "I can't get google pay to work right.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.730130136013031
+    }
+  },
+  {
+    "text": "How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9301366209983826
+    }
+  },
+  {
+    "text": "What happens if my card payment is cancelled?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.4671773314476013
+    }
+  },
+  {
+    "text": "How long until the transfer is reflected on my account balance?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9879922866821289
+    }
+  },
+  {
+    "text": "I just noticed that I supposedly made a payment to a seller a while back. The problem is, I don't recognize the seller. There must be a way to see who it is or track the payment. Can you do that, because I don't remember this transaction?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9989842772483826
+    }
+  },
+  {
+    "text": "I don't recognize what this payment on my statement would be for.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999988079071045
+    }
+  },
+  {
+    "text": "When can I expect my transfer to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9891351461410522
+    }
+  },
+  {
+    "text": "Where is the transfer that I did?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999920129776001
+    }
+  },
+  {
+    "text": "I need to know why a money transfer is available.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.7189198732376099
+    }
+  },
+  {
+    "text": "This card payment isn't is recognition.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9980884194374084
+    }
+  },
+  {
+    "text": "Can I pay online with my card?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9968051910400391
+    }
+  },
+  {
+    "text": "how can i transfer money from american express card",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9877723455429077
+    }
+  },
+  {
+    "text": "Will I receive all the money sent to my account by SEPA transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9995390176773071
+    }
+  },
+  {
+    "text": "How many days do I have to wait for the transfer to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.7333778738975525
+    }
+  },
+  {
+    "text": "Can you please tell me why my cash withdrawal is still pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9993682503700256
+    }
+  },
+  {
+    "text": "What does it mean if my payment is pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.999679684638977
+    }
+  },
+  {
+    "text": "Can I pay for my gas using my Apple watch?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9999239444732666
+    }
+  },
+  {
+    "text": "What fiat currencies are supported?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9256830215454102
+    }
+  },
+  {
+    "text": "Where is the transfer to my account that I made?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9956186413764954
+    }
+  },
+  {
+    "text": "Can third party fees affect a transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.5940053462982178
+    }
+  },
+  {
+    "text": "I noticed that there's a payment on my card that's pending.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9998177886009216
+    }
+  },
+  {
+    "text": "My cash withdrawal is showing as pending, why?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6378055810928345
+    }
+  },
+  {
+    "text": "I didn't know there was a charge for tranferring. What is the charge?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9971464276313782
+    }
+  },
+  {
+    "text": "How long after I receive my statement can I dispute payments on it?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999434947967529
+    }
+  },
+  {
+    "text": "My transfer is still pending, why?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9480849504470825
+    }
+  },
+  {
+    "text": "Why hasn't the money I transferred into my account shown up yet?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9785811305046082
+    }
+  },
+  {
+    "text": "My transfer says pending. What does that mean?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9998669624328613
+    }
+  },
+  {
+    "text": "I don't know if I made this payment on my card.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999420642852783
+    }
+  },
+  {
+    "text": "Will it take more than 3 days for my transfer to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9993476271629333
+    }
+  },
+  {
+    "text": "why have I got a pending transfer? I'm confused!!",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9588207602500916
+    }
+  },
+  {
+    "text": "Was my transaction reverted with my card?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9999985694885254
+    }
+  },
+  {
+    "text": "When can I expect money to be transferred to my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9714250564575195
+    }
+  },
+  {
+    "text": "Why was I charged for transferring money?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9808948636054993
+    }
+  },
+  {
+    "text": "what amount did i spend for food on chase visa on current bill",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999927282333374
+    }
+  },
+  {
+    "text": "What is the reason my cash withdrawal is still pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9996597766876221
+    }
+  },
+  {
+    "text": "What is the time for a transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "My money transfer has not yet occurred",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999995231628418
+    }
+  },
+  {
+    "text": "I got some items this morning but the payment says pending",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "Why would a merchant revert a card payment?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9515164494514465
+    }
+  }
+]
