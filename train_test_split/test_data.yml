@@ -1,7 +1,146 @@
 version: "2.0"
 
-# nlu:
-# - intent: intent1
-#   examples: |
-#     - example1
-#     - example2
+nlu:
+- intent: card_order
+  examples: |
+    - I live in the EU - can I get a card?
+    - How do I get my virtual card?
+    - How do I get a virtual card on my device?
+    - Is there a way to order a new card while in China?
+    - I don't live in the UK. Can I still get a card?
+    - How do I get to the virtual cards?
+    - How do I get a card if I live in the US?
+    - How can I sign up for a virtual card?
+    - How can I order a card?
+    - "My card is expiring, how do I get a new one?"
+    - My card is about to expire. How do I get a new card?
+    - How do I replace a card that's going to expire?
+    - "i am not a premium customer but i want a virtual card, how do i get it"
+    - "I need an actual card that I can hold in my hand, how do I do that?"
+    - Can I order a card?
+    - How do I go about getting an actual card?
+    - "I have a card that expires in the coming month, do I have to specifically ask for the updated card?"
+    - How do I order a new card when my old one is ready to expire?
+    - Where are cards available to order?
+    - How do I order a replacement for stolen card?
+    - How do I get another card
+    - I want a backup second card. Is this possible?
+    - "The expiration date for my card is coming up, how do I get a new card?"
+    - Do I get a real card?
+    - Where can I order my virtual card?
+    - Can I get a card even though I live in the US
+    - Where can I order a card?
+    - How much does it cost to get more cards?
+    - Can I have more disposable cards?
+    - "I am overseas in China, can I get a replacement card?"
+    - "If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?"
+    - How do I re-order a damaged card?
+    - Will it cost me to get a second card?
+    - I'd like to have extra cards. Will I have to pay for that?
+    - How can I go about ordering a virtual card?
+    - I want to get a virtual card!
+    - Can I get a physical card
+    - want a new card what are the fees
+    - Can I get a disposable card? How many can I have? How often can I use them?
+    - Are you only able to get a card if you're in the UK?
+    - I'd like like to know where I can order a virtual card?
+    - How will I get my card?
+    - Is ordering a new card from China available?
+    - Where do you need to live to receive card
+    - How long will it take to receive a virtual card?
+    - I'm in China and need a new card. Please help.
+
+- intent: card_delivery
+  examples: |
+    - My card is needed soon
+    - I need to find out where the card is that I ordered.
+    - How long does it take for deliver to the US?
+    - Can the card was sen to me be tracked?
+    - Can I track my card while it is in the process of delivery?
+    - "I would like to track a card sent to me, how do I do that?"
+    - How long does it take for cards to be delivered after ordering them?
+    - How long does it take to receive my card?
+    - "i am express delivering my card to the us, how long will that take"
+    - I need my card delivered as soon as possible.
+    - Can i choose a specific delivery date?
+    - How long until my new card gets here?
+    - Can you tell me why I haven't received my new card yet?
+    - Why has my new card still not come?
+    - Can I have it delivered on a specific date?
+    - Could you send me and up date on the arrival of my card?
+    - It's been a week since you sent my card and I still don't have it.
+    - Am I able to track a card that has already been sent?
+    - What is the wait time for delivery to the US?
+    - Can I specify a day for my card to be delivered?
+    - When can I expect my card? I live in the US.
+    - What locations are cards delivered to?
+    - I have been waiting over a week. Is the card still coming?
+    - I haven't gotten my new card.
+    - How long does it take for a new card to ship?
+    - Why hasn't my card arrived yet?
+    - "To deliver to the US, how long will it take?"
+    - I need my card to be delivered fast
+    - I would like to make sure it is delivered on a certain date.
+    - What's the earliest time to receive my card?
+    - I'm still waiting on my new card to be delivered!
+    - Will I have to wait much longer for my new card to arrive?
+    - When can I expect my card to arrive?
+    - Is there a way to track my card?
+    - How long does it take for my physical card to be delivered.
+    - My card still hasn't been delivered
+    - Please send my card as quickly as possible.
+    - Send me my card now! ASAP
+    - Can cards be dispatched on a specific date?
+    - can you share card tracking number?
+    - How long will it take to have my card mailed to me?
+    - I am still waiting on my card?
+    - Can it be delivered on a certain date?
+    - IS there anywhere that a card cannot be delivered?
+    
+- intent: card_activation
+  examples: |
+    - I want to activate the card.
+    - I already have a card and want to link it
+    - "I got a new card, how do I link it?"
+    - My new card came in. How do I activate?
+    - "I want to reactivate my card, I thought I had lost it but I found it."
+    - How can my new card be activated?
+    - How do I link a new card in the app?
+    - "I want to reactivate my card, I thought I had lost it but found it again in my jacket."
+    - Please help me with my card. It won't activate.
+    - "I found my card, how can I use it again?"
+    - how long should i wait ti activate my card
+    - How can I activate the new card i got?
+    - How do I get my card active?
+    - How do I activate my card that just arrived?
+    - What do I have to do to activate my card?
+    - Could you please tell me how to activate my new card?
+    - I need some help linking my new card.
+    - Can I activate my card?
+    - Activate my card
+    - "How do I activate my card, so that I can start using it?"
+    - "With my new card, how may I activate it?"
+    - How can I activate my new card? I didn't recieve any information with it about how to do so.
+    - I tried activating my card and it doesn't work how do I solve this problem?
+    - I just received my card and I'd like to activate it.
+    - "The activation process did not work, please help?"
+    - I tired but an unable to activate my card.
+    - "I am unable to activate my card, it won't let me."
+    - "I've obtained the card, how do I enable it on the app?"
+    - I have a card that was deactivated can I reactivate it?
+    - How do I activate my new card
+    - I would like to reactivate a card and wondered if that could be done?
+    - I need assistance to activate the card on my account.
+    - "I found my card that I thought I had lost, I need to reactive it, please help."
+    - "I found the card that I thought I lost, and I would like to reactivate it."
+    - How do I activate a card?
+    - Can I activate my card with the app?
+    - Show me how to activate my card
+    - Where do I go to activate my card?
+    - What are the steps that I need to take to activate a new card?
+    - "I blocked my card by mistake, how do I unblock it?"
+    - "I want to reactivate my card, I found it after thinking it was lost."
+    - "I want to activate my card, how do I do it?"
+    - How do I turn on my new card?
+    - Can I get some help to get me card activated?
+    - I would like my card activated.

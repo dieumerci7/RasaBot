@@ -1,0 +1,53 @@
+version: "2.0"
+
+nlu:
+- intent: card_order
+  examples: |
+    - Where in the European Union can I get a card?
+    - I need a new card before it expires.
+    - I need another card
+    - I live in the UK. Can I get a card?
+    - What is the process to get a new card when your old one expires?
+    - I'd like more info on getting a virtual card.
+    - Are new cards available from China?
+    - "I need to order a new card, can you please direct me to the virtual cards?"
+    - I want to request a physical card
+    - I need another card for a member of my family. Is this possible? How soon can I get one?
+    - Can I get a new card with new expiration date in China?
+    - how to get new card?
+    - Can I get a new card in China?
+    
+- intent: card_delivery
+  examples: |
+    - how long does delivery take?
+    - "My card was supposed to arrive, but hasn't?"
+    - How long does it take for a card to arrive?
+    - "I have not received my card and it's been a week, what do I do?"
+    - How long does it take for me to get my new card?
+    - How can I periodically check the delivery of the card you sent?
+    - I ordered my card a couple weeks ago and haven't received it yet. When can I expect it?
+    - If I order a card when does it arrive?
+    - "If I need delivery on a certain day, is that something that could be accommodated?"
+    - When will I receive the card?
+    - When will my new card arrive?
+    - I need to track the card sent to me.
+    - are you sending me my card?
+    
+- intent: card_activation
+  examples: |
+    - Can I get some help activating my new card?
+    - I want to use my card. How do I activate it?
+    - I need info on activating my card?
+    - How do I link my new card?
+    - I cannot activate my card.
+    - "My new card is here, what's the process for activating it?"
+    - I finally got my card. Now I want to link it. Is that something you have to do or can I do that?
+    - What is the process for activating my new card?
+    - "May I reactivate my card? I previously reported it lost, but have now found it safe and sound."
+    - I want to link my new card. Can you help?
+    - How do I reactivate a card I thought I lost?
+    - How do I add my new card?
+    - Can I link my card I previously received?
+    - How can I activate my new card?
+    - My card needs to be activated.
+    - "How long does it take to activate the card, as it does not look like its working?"

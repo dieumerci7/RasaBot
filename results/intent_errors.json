@@ -1,0 +1,154 @@
+[
+  {
+    "text": "\"I need an actual card that I can hold in my hand, how do I do that?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.9652916193008423
+    }
+  },
+  {
+    "text": "\"I have a card that expires in the coming month, do I have to specifically ask for the updated card?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5585514903068542
+    }
+  },
+  {
+    "text": "How do I order a replacement for stolen card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999973177909851
+    }
+  },
+  {
+    "text": "\"If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9977394342422485
+    }
+  },
+  {
+    "text": "How do I re-order a damaged card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.984626293182373
+    }
+  },
+  {
+    "text": "Will it cost me to get a second card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999905824661255
+    }
+  },
+  {
+    "text": "I'd like to have extra cards. Will I have to pay for that?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999893307685852
+    }
+  },
+  {
+    "text": "How will I get my card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.999950647354126
+    }
+  },
+  {
+    "text": "Where do you need to live to receive card",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999999403953552
+    }
+  },
+  {
+    "text": "How long will it take to receive a virtual card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999991655349731
+    }
+  },
+  {
+    "text": "My card is needed soon",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9992808699607849
+    }
+  },
+  {
+    "text": "I need to find out where the card is that I ordered.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5427893996238708
+    }
+  },
+  {
+    "text": "I need my card delivered as soon as possible.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999929070472717
+    }
+  },
+  {
+    "text": "How long until my new card gets here?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5049082636833191
+    }
+  },
+  {
+    "text": "Please send my card as quickly as possible.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999983310699463
+    }
+  },
+  {
+    "text": "Can cards be dispatched on a specific date?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "I am still waiting on my card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.999251127243042
+    }
+  },
+  {
+    "text": "\"I've obtained the card, how do I enable it on the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9692431092262268
+    }
+  },
+  {
+    "text": "I would like to reactivate a card and wondered if that could be done?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8290247321128845
+    }
+  }
+]
