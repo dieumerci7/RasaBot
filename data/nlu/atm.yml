@@ -1,0 +1,56 @@
+version "2.0"
+
+nlu:
+- intent: find_atm
+  examples: |
+    - Which ATM's can I use to make a withdrawal?
+    - What locations allow me to withdraw money?
+    - Where can I do a cash withdrawal?
+    - Which ATMs am I allowed to get money from?
+    - What ATMs can I use my card?
+    - Where is the closest ATM to me?
+    - need to know places i can withdraw money
+    - Where can I withdraw money from?
+    - what are the locations i can withdraw money
+    - What ATM locations are near me?
+    - How far is the closest ATM from me?
+    - How can I find an ATM that accepts this card?
+    - Which ATM's am i able to change my PIN?
+    - At which ATMs can I use this card?
+    - Where is this card accepted?
+
+- intent: atm_issues
+  examples: |
+    - I could not get the ATM to work
+    - In my account I noticed my ATM withdrawal is still pending
+    - The ATM wouldn't let me have my money.
+    - Why is my withdrawal from the ATM still showing as pending?
+    - The ATM would not give me cash,why?
+    - I can't get cash from the ATM!
+    - Why couldn't I get cash from an ATM?
+    - Why wouldn't the ATM give me cash?
+    - I visited the ATM but got less money than what I requested. Why?
+    - I received the wrong amount of cash.
+    - Hey I am standing in front of an ATM here, it only gave me 10 pounds even though I wanted to withdraw 30! Seems like the app has 30 pounds, what do I do??
+    - Is there something wrong with the ATM? It would not let me pull cash out of my account.
+    - Why didn't I receive the right amount of cash at the ATM?
+    - I attempted to get cash in the ATM but I was denied
+    - The ATM didnt let me get cash
+
+- intent: atm_card_issues
+  examples: |
+    - Hi, I am unable to use my card in ATM. I had tried my card in two ATMs but both ATMs declined it. Could you please check my account?
+    - I can't get my card out of the ATM, what should I do now?
+    - My card got trapped inside an ATM, what should I do?
+    - Why did the ATM take my card and keep it?
+    - how can the money machine keep my card what do i need to do?
+    - How do I get my card back quickly from a bank machine that it?
+    - The ATM machine would not give my card back
+    - My card is stuck in an ATM machine, how do I get it back quickly?
+    - My card is stuck inside the ATM, what am I supposed to do?
+    - lost my card in atm
+    - What do I do?  The ATM took my card!
+    - Will you please help me get my card back?
+    - The ATM stole my card!
+    - Who do I talk to about the ATM swallowing my card?
+    - The ATM ate my card; how do I get a new one?
