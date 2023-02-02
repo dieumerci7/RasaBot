@@ -1,163 +1,429 @@
 version: "2.0"
 
 nlu:
- - intent: exchange_info
-   examples: |
-    - What is my money worth in other countries?
-    - Will my money be of equal value when I travel abroad?
-    - Do you know the rate of exchange?
-    - What is the exchange looking like?
-    - How is the exchange rate doing?
-    - I would like to know how exchange rates are calculated when transferring funds.
-    - I would like to know what exchange rates you use?
-    - Do you know what your exchange rates are?
-    - How do I know what exchange rate I will get?
-    - What are you exchange rates?
-    - Do you have the best exchange rate?
-    - Where can I find your exchange rates?
-    - Your exchange rates come from where?
-    - I need to know what your exchange rates are.
-    - What do you think of the exchange rate?
-    - What do you use to figure out the exchange rate for the card?
-    - What's the foreign exchange rate I will receive?
-    - I need to know what foreign exchange rate I can get.
-    - What are the current exchange rates?
-    - What exchange rate will I receive?
-    - What is the basis of your exchange rates?
-    - How's the exchange rate?
-    - How do you determine your exchange rates?
-    - How do the foreign exchange rates work?
-    - Where are you getting your exchange rates from?
-    - How is the exchange rate calculated?
-    - How do you decide what the exchange rates are?
-    - What method do you use for the exchange rate?
-    - What are Interbanks current exchange rates?
-    - from where are coming your exchange rates?
-    - How do you calculate exchange rates?
-    - Why is your exchange rate different on different days?
-    - Where can I find the exchange rate for my transfer?
-    - Where can I get your exchange rates from?
-    - How do you find the exchange rate?
-    - How are exchange rates determined?
-    - What value can I get for my currency?
-    - What are your exchange rates calculated from?
-    - What is an exchange rate?
-    - What is your opinion on the exchange rate?
-    - What are the exchange rates you assign?
-    - How do you determine exchange rates?
-    - How are your exchange rates calculated?
-    - How is an exchange rate calculated?
-    - How can I find your exchange rates?
-    - Could you please tell me your exchange rates?
-    - Is there an exchange rate?
-    - How does the exchange rate work?
-    - What is the present state of the exchange rate?
-    - How's the exchange rate looking right now?
-    - Please explain the exchange rates.
-    - explain the interbank exchange rate
-    - What will my exchange rate be?
-    - how do you get exchange rates
-    - What exchange rates do you use?
-    - What factors effect the exchange rate?
-    - Where does the exchange rate stand right now?
-    - I'd like to know what the foreign exchange rate will be.
-    - Does the exchange rate change?
-    - How do your exchange rates factor in?
-    - Will I know which exchange rate I will get?
-    - How do I know what the exchange rate will be when I make an exchange.
-    - Is the exchange rate the same on weekends as the weekdays?
-    - On what do you base your exchange rates?
-    - What factors determine your exchange rate?
-    - I would like to know what your exchange rates are.
-    - Is the exchange rate current?
-    - What are the exchange rates?
-    - How much are the rates of exchange?
-    - How do you decide what your exchange rates are?
-    - Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?
-    - How are the exchange rates for transfers calculated?
-    - How do I know how much money I will have when I travel abroad?
-    - Can you explain your exchange rates basis?
-    - How did you guys get your exchange rate?
-    - Can you tell me your exchange rates?
-    - Could you tell me what your exchange rates are?
-    - Does this app have the same exchange rate as third parties?
-    - what are your exchange rates at?
-    - How is the current exchange rate?
-    - What is the system for determining the exchange rate?
-    - I am travelling and I was wondering what your exchange rates are
-    - Tell me your opinion on the exchange rate.
-    - I'd like to know what you guys look at to decide an exchange rate
-    - where do you find your exchange rates?
-    - What exchange rate is it?
-    - What is the source of your exchange rates?
-    - i need to know about exchange rates
-    - Where do you get those exchange rates?
-    - How do you determine the exchange rate?
-    - Show exchange rate between USD and EUR
+  - intent: exchange_info
+    examples: |
+      - What is my money worth in other countries?
+      - Will my money be of equal value when I travel abroad?
+      - Do you know the rate of exchange?
+      - What is the exchange looking like?
+      - How is the exchange rate doing?
+      - I would like to know how exchange rates are calculated when transferring funds.
+      - I would like to know what exchange rates you use?
+      - Do you know what your exchange rates are?
+      - How do I know what exchange rate I will get?
+      - What are you exchange rates?
+      - Do you have the best exchange rate?
+      - Where can I find your exchange rates?
+      - Your exchange rates come from where?
+      - I need to know what your exchange rates are.
+      - What do you think of the exchange rate?
+      - What do you use to figure out the exchange rate for the card?
+      - What's the foreign exchange rate I will receive?
+      - I need to know what foreign exchange rate I can get.
+      - What are the current exchange rates?
+      - What exchange rate will I receive?
+      - What is the basis of your exchange rates?
+      - How's the exchange rate?
+      - How do you determine your exchange rates?
+      - How do the foreign exchange rates work?
+      - Where are you getting your exchange rates from?
+      - How is the exchange rate calculated?
+      - How do you decide what the exchange rates are?
+      - What method do you use for the exchange rate?
+      - What are Interbanks current exchange rates?
+      - from where are coming your exchange rates?
+      - How do you calculate exchange rates?
+      - Why is your exchange rate different on different days?
+      - Where can I find the exchange rate for my transfer?
+      - Where can I get your exchange rates from?
+      - How do you find the exchange rate?
+      - How are exchange rates determined?
+      - What value can I get for my currency?
+      - What are your exchange rates calculated from?
+      - What is an exchange rate?
+      - What is your opinion on the exchange rate?
+      - What are the exchange rates you assign?
+      - How do you determine exchange rates?
+      - How are your exchange rates calculated?
+      - How is an exchange rate calculated?
+      - How can I find your exchange rates?
+      - Could you please tell me your exchange rates?
+      - Is there an exchange rate?
+      - How does the exchange rate work?
+      - What is the present state of the exchange rate?
+      - How's the exchange rate looking right now?
+      - Please explain the exchange rates.
+      - explain the interbank exchange rate
+      - What will my exchange rate be?
+      - how do you get exchange rates
+      - What exchange rates do you use?
+      - What factors effect the exchange rate?
+      - Where does the exchange rate stand right now?
+      - I'd like to know what the foreign exchange rate will be.
+      - Does the exchange rate change?
+      - How do your exchange rates factor in?
+      - Will I know which exchange rate I will get?
+      - How do I know what the exchange rate will be when I make an exchange.
+      - Is the exchange rate the same on weekends as the weekdays?
+      - On what do you base your exchange rates?
+      - What factors determine your exchange rate?
+      - I would like to know what your exchange rates are.
+      - Is the exchange rate current?
+      - What are the exchange rates?
+      - How much are the rates of exchange?
+      - How do you decide what your exchange rates are?
+      - Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?
+      - How are the exchange rates for transfers calculated?
+      - How do I know how much money I will have when I travel abroad?
+      - Can you explain your exchange rates basis?
+      - How did you guys get your exchange rate?
+      - Can you tell me your exchange rates?
+      - Could you tell me what your exchange rates are?
+      - Does this app have the same exchange rate as third parties?
+      - what are your exchange rates at?
+      - How is the current exchange rate?
+      - What is the system for determining the exchange rate?
+      - I am travelling and I was wondering what your exchange rates are
+      - Tell me your opinion on the exchange rate.
+      - I'd like to know what you guys look at to decide an exchange rate
+      - where do you find your exchange rates?
+      - What exchange rate is it?
+      - What is the source of your exchange rates?
+      - i need to know about exchange rates
+      - Where do you get those exchange rates?
+      - How do you determine the exchange rate?
+      - Show exchange rate between USD and EUR
+      - What is an exchange rate for GBP?
+      - what is the euro to dollar exchange rate
+      - what is the USD to EUR rate
+      - tell currency rate between AUD and USD
+      - where can I find official exchange rate
 
- - intent: exchange_currency
-   examples: |   
-    - Are EUR exchanges allowed?
-    - Can I change from AUD to GBP?
-    - I've been to several different countries, can I exchange the cash with a discount for a large transaction?
-    - How to exchange my currency
-    - how to exchange currencies
-    - What types of fiduciary currencies are supported for tenure and exchange?
-    - Is this app capable of exchanging currencies?
-    - Can this app exchange American and English currency?
-    - Do you have EUR currency available for me?
-    - Do you provide currency exchange to Euros?
-    - Is it possible to exchange currencies on the app?
-    - What steps do I need to take to exchange currencies?
-    - Does your app allow currency exchange from USD to GBP?
-    - I might need to exchange between USD and GBP, is this possible with your app?
-    - What do I need to do to exchange my money?
-    - How do you exchange currencies
-    - Can I exchange USD for GBP in your app?
-    - need to exchange currencies
-    - I would like to change currency
-    - Can I use your app to exchange between USD and GBP
-    - Can this app be used to exchange currencies?
-    - How can I hold and exchange fiat currencies?
-    - I want to hold and exchange fiat currencies, what can I use to do so?
-    - Can you change my currency to EUR?
-    - Can exchanged be made to EUR?
-    - Can money be exchanged from one currency to another?
-    - How do I exchange AUD for GBP?
-    - Can I change or hold different currency?
-    - Is it possible to exchange USD and GBP on the app?
-    - How can I exchange USD and GBP in the app?
-    - What's the process of changing from GBP to AUD?
-    - Which fiat currencies are compatible for exchange and holding?
-    - I may need to exchange my USD for GBP, can your app do that?
-    - Are you able to make exchanges to EUR?
-    - Will it be possible to change from USD to GBP with this App?
-    - How do I change to AUD from GBP?
-    - How can I change to another currency?
-    - Will you tell me how to exchange USD for GBP in the app?
-    - How can I trade currencies with this app?
-    - What do I do to exchange currency?
-    - I would like to change to a different currency.
-    - How do I use the app to exchange currencies?
-    - I would like to exchange currency What types are there?
-    - I need to exchange my GBP to AUD, how would I do this?
-    - What fiat currencies do you allow exchange with?
-    - I'm interested in using fiat currencies, which do you support?
-    - What flat currencies do you use for holding and exchanges.
-    - What fiat currencies can I use for holding and exchanging?
-    - How can I change the currency I'm exchanging from AUD to GBP?
-    - I no longer need AUD, I need GBP instead, how can I make this happen?
-    - Can I exchange currencies usign this app?
-    - How do I change my AUD into GBP?
-    - Can you convert to EUR?
-    - I am trying to find out how to exchange currency X with currency Y.
-    - Is it possible to change from AUD to GBP?
-    - Is it possible to exchange currencies using the app?
-    - How can I exchange to EUR?
-    - What if I need to use GBP instead of USD?
-    - I may no longer need GBP, but instead I will need AUD, how can I go about making this change?
-    - How do I start an exchange between GBP and AUD?
-    - Can I use this app to exchange between dollars and pounds?
-    - What's the procedure with currency exchange?
-    - How do you do currency exchanges?
-    - How do you do exchanges?
+  - intent: exchange_currency
+    examples: |
+      - Are EUR exchanges allowed?
+      - Can I change from AUD to GBP?
+      - I've been to several different countries, can I exchange the cash with a discount for a large transaction?
+      - How to exchange my currency
+      - how to exchange currencies
+      - What types of fiduciary currencies are supported for tenure and exchange?
+      - Is this app capable of exchanging currencies?
+      - Can this app exchange American and English currency?
+      - Do you have EUR currency available for me?
+      - Do you provide currency exchange to Euros?
+      - Is it possible to exchange currencies on the app?
+      - What steps do I need to take to exchange currencies?
+      - Does your app allow currency exchange from USD to GBP?
+      - I might need to exchange between USD and GBP, is this possible with your app?
+      - What do I need to do to exchange my money?
+      - How do you exchange currencies
+      - Can I exchange USD for GBP in your app?
+      - need to exchange currencies
+      - I would like to change currency
+      - Can I use your app to exchange between USD and GBP
+      - Can this app be used to exchange currencies?
+      - How can I hold and exchange fiat currencies?
+      - I want to hold and exchange fiat currencies, what can I use to do so?
+      - Can you change my currency to EUR?
+      - Can exchanged be made to EUR?
+      - Can money be exchanged from one currency to another?
+      - How do I exchange AUD for GBP?
+      - Can I change or hold different currency?
+      - Is it possible to exchange USD and GBP on the app?
+      - How can I exchange USD and GBP in the app?
+      - What's the process of changing from GBP to AUD?
+      - Which fiat currencies are compatible for exchange and holding?
+      - I may need to exchange my USD for GBP, can your app do that?
+      - Are you able to make exchanges to EUR?
+      - Will it be possible to change from USD to GBP with this App?
+      - How do I change to AUD from GBP?
+      - How can I change to another currency?
+      - Will you tell me how to exchange USD for GBP in the app?
+      - How can I trade currencies with this app?
+      - What do I do to exchange currency?
+      - I would like to change to a different currency.
+      - How do I use the app to exchange currencies?
+      - I would like to exchange currency What types are there?
+      - I need to exchange my GBP to AUD, how would I do this?
+      - What fiat currencies do you allow exchange with?
+      - I'm interested in using fiat currencies, which do you support?
+      - What flat currencies do you use for holding and exchanges.
+      - What fiat currencies can I use for holding and exchanging?
+      - How can I change the currency I'm exchanging from AUD to GBP?
+      - I no longer need AUD, I need GBP instead, how can I make this happen?
+      - Can I exchange currencies usign this app?
+      - How do I change my AUD into GBP?
+      - Can you convert to EUR?
+      - I am trying to find out how to exchange currency X with currency Y.
+      - Is it possible to change from AUD to GBP?
+      - Is it possible to exchange currencies using the app?
+      - How can I exchange to EUR?
+      - What if I need to use GBP instead of USD?
+      - I may no longer need GBP, but instead I will need AUD, how can I go about making this change?
+      - How do I start an exchange between GBP and AUD?
+      - Can I use this app to exchange between dollars and pounds?
+      - What's the procedure with currency exchange?
+      - How do you do currency exchanges?
+      - How do you do exchanges?
+      - What's the process for exchanges?
+      - I need to exchange between different currencies, like GBP and USD. Can I do that with your app?
+      - Does the app allowing exchanges between USD and GBP
+      - I am from X but am traveling to Y - how do I get currency for Y?
+      - What currencies can be exchanged in the app?
+      - Can i add a new currency to my account?
+      - Can I possibly change my currency to another?
+      - I would like to exchange currencies on the app. How do I do this?
+      - Is it possible to exchange currencies?
+      - Can turn my money into another currency?
+      - How can I change currency type?
+      - Instead of GBP, how do I exchange for AUD?
+      - Using your app, would I be able to exchange between USD and GBP?
+      - Can I use this app for both USD and GBP?
+      - Does your app allow currency exchanges between USD and GBP?
+      - How do I change my currency to another?
+      - How do I exchange currencies using the app?
+      - Does this app allow currencies to be exchanged?
+      - How do I exchange currencies using this app?
+      - I want to exchange USD and GBP with the app
+      - How can I convert currencies?
+      - I need to get some Euros for my holiday. Am I able to exchange some of my money?
+      - Can currencies be exchanged on this app?
+      - Is exchanging currencies a feature of the app?
+      - Where can I get my currencies exchanged?
+      - Is exchanging currencies one of your app services?
+      - Do you support changing the currency I use?
+      - Can I convert money into different currencies?
+      - Where can i exchange between GBP and USD
+      - I am trying to exchange AUD for GBP, how do I do that?
+      - How do I exchange USD to GBP?
+      - Is there a way to make my money usable in another country?
+      - Can I use this app to exchange currencies?
+      - How do I go about exchanging currencies with this app?
+      - What currences are available for exchange?
+      - Is it possible to change from USD to GBP with your App?
+      - Will this app allow me to exchange currencies?
+      - How do I exchange currencies with this
+      - I need Australian dollars instead of UK currency.
+      - I'm having difficulties changing AUD for GBP. How do I do this?
+      - How can I exchange GBP for AUD?
+      - Can I exchange currency for different types?
+      - How do I switch to a different currency?
+      - How to I switch my money for the money used in another country?
+      - How do I make a currency exchange?
+      - I can't figure out how to change GBP to AUD, what do I do?
+      - I need to exchange a currency - can I do that here?
+      - I would like to exchange currencies, how do I go upon it?
+      - What different currencies can I get?
+      - Can I use your app to exchange USD for GBP?
+      - Can this convert money?
+      - Can you tell me how to get AUD not GBP?
+      - Whats types of currency can I exchange?
+      - how can i exchange currencies
+      - Can I exchange USD and GBP from the app?
+      - What other currencies are available to change to?
+      - what currencies can i exchange between on your app?
+      - My plans may change so I may need to change from GBP to AUD.
+      - Does the app allow for exchanges between currencies?
+      - Can I use this app to change money?
+
+
+  - intent: exchange_issues
+    examples: |
+      - The exchange rate is incorrect for something I bought
+      - I made an international purchase, but the exchange rate was wrong
+      - I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.
+      - When I received my money, it was not in the correct amount. The exchange rate was not what it should have been.
+      - I bought something in another country but the exchange rate is wrong
+      - When I received my cash, the exchange rate was wrong.
+      - The wrong exchange rate was used when I purchased an item.
+      - I'm unhappy with the exchange rate your cash transactions.
+      - I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!
+      - Can you change the rate for the item I bought in a different currency as it is wrong?
+      - I have been charged more than I should for the presents I bought when abroad, the problem seems to be the exchange rate.
+      - the exchange rate is wrong from something I got in another country
+      - what is the exchange rate when i get cash
+      - Whats wrong with my currency exchange?
+      - Help me! When I was abroad, the exchange rate was wrong.
+      - I noticed the exchange rate for cash withdrawal isn't right.
+      - The exchange rate for my withdrawal was wrong.
+      - An incorrect exchange rate was applied to an item I bought.
+      - I had the wrong exchange rate applied to some cash I got abroad.
+      - I purchased an item and the exchange rate was wrong
+      - I think the rate that was applied to my purchase using foreign currency is wrong. Help!
+      - The cash abroad exchange rate is applied wrong.
+      - The ATM I used for foreign currency provided the wrong exchange rate.
+      - I noticed the currency exchange rate was incorrect after paying for something in a foreign country.
+      - The rate of exchange for my cash withdrawal is wrong.
+      - I bought an item at the wrong exchange rate.
+      - My purchase used the wrong exchange rate
+      - I was needing you to see if the exchange rate is correct from when i got cash
+      - Why was the exchange wrong for the item I purchased?
+      - I was charged extra. Was the exchange rate for my payment last Saturday wrong?
+      - I think the exchange rate on my card payment is incorrect.
+      - I did not receive the correct amount for the exchange rate.
+      - Exchange rate on a purchase was incorrect
+      - My payment has an incorrect exchange rate.
+      - I had trouble with an incorrect rate being applied when using the ATM with foreign currency.
+      - I bought an item and the exchange rate was wrong.
+      - I think there has been a mistake on my exchange rate for this purchase.
+      - Why was I charged a higher exchange rate when I bought something abroad?
+      - I purchased something overseas and the incorrect exchange rate was applied.
+      - The exchange rate I was charged for a purchase was not right.
+      - I tried to use the ATM with foreign currency. The conversion rate applied was wrong.
+      - I guess exchange rate for my payment was not correct, as i charged extra on the last saturday.
+      - Can you please explain why the exchange rate for the item I bought is wrong?
+      - My foreign currency exchange has been applied incorrectly.
+      - I bought an item then noticed the exchange rate was wrong.
+      - The currency exchange rate was wrong for a purchase I made.
+      - My card payment had the wrong exchange rate
+      - I got money overseas and the exchange rate was wrong
+      - I am reluctant to use ATMs international because I don't get an accurate exchange rate
+      - It seems that something went wrong with my exchange. I changed dollars into UK pounds but have been charged entirely too much!
+      - I exchanged cash when traveling and the rate was incorrect.
+      - The exchange rate was wrong?
+      - The exchange rate for my electronic payment is incorrect.
+      - What do i do if the exchange rate was wrong for the item i bought overseas?
+      - My payment had a wrong exchange rate.
+      - The exchange rate for my cash withdrawal was incorrect
+      - I purchased something while traveling, and the exchange rate applied was wrong.
+      - I bough an item and the exchange rate was incorrect.
+      - Foreign currency rates were put in wrong at an ATM i used.
+      - I got charged for with a fee for paying with my card.
+      - The cash withdrawal I took seems to be off. The exchange rate is wrong.
+      - When I bought something abroad, the exchange rate was wrong.
+      - I think the exchange rate was incorrect.
+      - Using international ATMs messes up the exchange rate.
+      - There's an error in regards to the exchange rate for an item I bought.
+      - This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!
+      - I was charged the wrong exchange rate on a purchase
+      - you got the exchange rate wrong for my cash withdrawal
+      - I believe I got a wrong exchange rate when I got cash.
+      - I didn't receive the correct exchange rate for an item that I bought.
+      - I tried withdrawing money in another country and the exchange rate was wrong.
+      - I wasn't charged the correct exchange rate for an item I purchased.
+      - I found the exchange rate for my cash withdrawal is wrong
+      - I recently purchased something, and the exchange rate was wrong.
+      - I don't think the exchange rate was right.
+      - Why isn't my purchase exchange rate correct?
+      - The exchange rate is incorrect on an item I recently purchased in a foreign country.
+      - Rates were applied wrong while using foreign currency at an ATM.
+      - My card payment has the wrong exchange rate
+      - I purchased something abroad and the incorrect exchange rate was applied.
+      - There's an error with the rate that is charged.
+      - I withdrew cash and I think the exchange rate is wrong.
+      - The rate applied to my purchase in a foreign currency was wrong.
+      - My client was converting their dollars into UK pound currency when they noticed their bill was much too high for the exchange. What happened?
+      - The exchange rate for me was wrong when I was abroad.
+      - Last Saturday, I made a payment and the exchange rate was wrong. I was charged too much.
+      - When I was abroad the exchange rate for me was wrong.
+      - I think the currency exchange that's been applied is wrong.
+      - The exchange rate applied was incorrect when I was traveling outside the country.
+      - I noticed my exchange rate was incorrect when I got cash.
+      - I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?
+      - The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.
+      - Why was I charged extra on my last UK pound to dollars exchange?
+      - My ATM transaction shorted me on cash, and I think the exchange rate was wrong. Did I receive the correct rate?
+      - I made a purchase and was charged at the wrong foreign exchange rate.
+      - The exchange rate was messed up from the ATM
+      - The exchange rate for foreign ATM currency is wrong.
+      - I tried using a foreign currency at an ATM, but the ATM provided me an incorrect rate. Why is that?
+      - I was using foreign currency at an ATM, but the rate was typed in wrong.
+      - I was charged an incorrect exchange rate for a withdrawal.
+      - I have been overcharged. I just changed over dollars to UK pounds and it was too much. It seems something was wrong with my exchange.
+      - I didn't receive the correct amount of cash when I exchanged it overseas.
+      - I received the wrong exchange rate for an item i bought.
+      - On my last trip, I received the incorrect exchange rate.
+      - I am not receiving the correct exchange rate on my card.
+      - The exchange rate was incorrect for an item I bought.
+      - The wrong exchange rate applied to my cash withdrawal.
+      - Why is my exchange rate wrong?
+      - I was abroad and needed some cash, but I think the wrong exchange rate was applied to the transaction.
+      - The exchange rate given to me after a purchase, was incorrect
+      - They used the wrong rate when I made a purchase with foreign currency.
+      - My currency rate is inaccurate.
+      - After purchasing an item I noticed the exchange rate was incorrect.
+      - I want to change the wrong exchange rate.
+      - I bought something abroad and the exchange rate applied is wrong
+      - I withdrew some cash and the exchange rate seems to be wrong.
+      - my exchange rate looks wrong for my last payment
+      - Why was the exchange rate so wrong when I bought something!
+      - I think the exchange rate for the cash I withdrew was wrong.
+      - When I purchased a product in another country the currency exchange was incorrect.
+      - I purchased something abroad but the exchange rate is incorrect.
+      - Why is the exchange rate for my payment incorrect?
+      - I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.
+      - something is wrong with my exchange rate charge
+      - Do you have a problem with EUR exchanges?
+      - When I got my cash, the amount was not what it should have been, based on the exchange rate.
+      - This exchange rate on my purchase is wrong.
+      - While abroad I got cash, and a wrong exchange rate was applied.
+      - I think the exchange rate for the cash I withdrew wasn't correct.
+      - My cash withdrawl has the wrong rate of exchange.
+      - The exchange rate from my card payment isn't right.
+      - The exchange rate that was applied for an international purchase was wrong.
+      - When I was traveling abroad, the exchange rate was applied wrong.
+      - I recently bought something abroad but the exchange rate is incorrect. Why?
+      - I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.
+      - The exchange rate you are using is bad.This can't be the official interbank exchange rate.
+      - The exchange rate is incorrect for my payment.
+      - I am perplexed. Why is it that I received an extremely wrong rate when I tried to use an ATM using a foreign currency?
+      - The exchange rate is bad. Are you sure this is the exchange rate?
+      - An item I bought had the wrong exchange rate applied.
+      - The wrong exchange rate was used for my cash withdrawal
+      - I think there was an error in your exchange rate.
+      - I withdrew cash abroad and the exchange rate applied is wrong.
+      - I found my card, am I able to put it back into the app?
+      - The currency exchange for my purchase in foreign currency is incorrect.
+      - What is wrong with the exchange rate? This should have been a much higher amount of cash for that to apply.
+      - I needed some cash while abroad, and I'm pretty sure the wrong exchange rate was applied.
+      - While abroad, I got cash, and the exchange rate applied is wrong.
+      - I believe a wrong exchange rate was applied towards a cash transaction I made abroad.
+      - The exchange rate for the money I took out in a foreign country is wrong.
+      - After I got my cash, I found out my exchange rate was wrong.
+      - I think something went wrong with my exchange between dollars and UK pounds. I was overcharged during the swap.
+      - what is going on with my cash withdrawal? the exchange rate is wrong
+      - I believe that the rate of exchange for my cash withdrawl is incorrect.
+      - When I got cash I believe that the exchange rate was wrong
+      - Why was my cash withdrawal given the wrong exchange rate?
+      - My exchange rate isn't correct.
+      - The exchange rate is incorrect for my cash withdrawal transaction.
+      - In regards to my card payment, the exchange rate is incorrect.
+      - I got less cash because of the exchange rate.
+      - the exchange rate at which my card payment is at is wrong
+      - The exchange rate applied is wrong for my international purchase.
+      - I was given the wrong exchange rate when getting cash
+      - the exchange rate for my withdrawal is wrong
+      - I think that there was an error in calculating the exchange rate. I recently withdrew cash and received much less than expected.
+      - I made a purchase but the exchange rate is wrong?
+      - The wrong exchange rate was applied to me while pulling out cash.
+      - I didnt get the correct exchange rate for getting cash
+      - I think when I withdrew money when out of country the exchange rate was wrong.
+      - The exchange rate was different when I got cash
+      - The applied exchange rate is wrong for the cash I got abroad.
+      - My exchange rate is wrong when I get cash.
+      - the exchange rate on my payment was wrong
+      - The exchange rate you are using is really bad.This can't be the official interbank exchange rate.
+      - I wasn't applied the correct exchange rate when getting cash
+      - Why is the exchange rate on my card wrong?
+      - I bought something in another currency, but the exchange rate was incorrect.
+      - I did not get the right exchange rate while getting my cash out.
+      - I used foreign currency to buy something and I think the rate applied is incorrect.
+      - When I received my cash; they had my exchange rate incorrect.
+      - The item i bought exchanged rate was incorrect.
+      - The rate applied to my foreign currency at an ATM was incorrect.
+      - I was using a foreign currecy to make a payment and the applied the wrong rate.
+      - What if there is an error on the exchange rate?
+      - Why was the wrong rate applied when I bought something in a different currency?
+      - I believe my exchange rate is incorrect
+      - I got cash abroad and the exchange rate applied is wrong
+      - Your foreign exchange rate is wrong.
+      - Why didn't I receive the correct exchange rate for an item that I purchased?
+      - The exchange rate looks wrong on a holiday purchase
+      - It looks like the exchange rates on my card payment are wrong
+      - When I got cash the exchange rate was wrong
+      - The exchange rate was wrong in the foreign country I got cash in.
+      - Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?
+      - When I made a cash transfer abroad the wrong exchange rate was applied
+      - How do you figure out the exchange rate? Can you explain why I got less money than expected?
+      - Someone may have made an error in figuring out the rate of exchange. I should have received more cash than I did on my most recent withdrawal.

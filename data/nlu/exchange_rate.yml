@@ -26,3 +26,21 @@ nlu:
     - what currencies may i exchange
     - want to exchange USD
     - what currencies do you support to exchange
+    - what currencies are allowed to swap
+    
+
+- intent: exchange_issues
+  examples: |
+    - when i received my cash my exchange rate was wrong
+    - my payment has incorrect exchange rate
+    - i bought in shop but it is seemed the currency exchange was mistaken
+    - i have problems with currency exchange 
+    - you applied wrong exchange rate to my payment
+    - I expected more money after exchanging currencies
+    - check why exchange rate on my card is incorrect
+    - my purchase in foreign currency doesn't look right
+    - when i got cash abroad i was applied strange exchange rate 
+    - there is an error in currency exchange
+    - I don't get an accurate exchange rate for cash withdrawal
+    - Are you sure this is the interbank exchange rate? This rate is really bad
+    - exchange rate was messed up
