@@ -4,23 +4,15 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_activation",
-      "confidence": 0.9652916193008423
+      "confidence": 0.9432490468025208
     }
   },
   {
-    "text": "\"I have a card that expires in the coming month, do I have to specifically ask for the updated card?\"",
+    "text": "I want a backup second card. Is this possible?",
     "intent": "card_order",
     "intent_prediction": {
-      "name": "card_delivery",
-      "confidence": 0.5585514903068542
-    }
-  },
-  {
-    "text": "How do I order a replacement for stolen card?",
-    "intent": "card_order",
-    "intent_prediction": {
-      "name": "card_delivery",
-      "confidence": 0.9999973177909851
+      "name": "card_activation",
+      "confidence": 0.9548435211181641
     }
   },
   {
@@ -28,15 +20,7 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.9977394342422485
-    }
-  },
-  {
-    "text": "How do I re-order a damaged card?",
-    "intent": "card_order",
-    "intent_prediction": {
-      "name": "card_delivery",
-      "confidence": 0.984626293182373
+      "confidence": 0.9928807020187378
     }
   },
   {
@@ -44,15 +28,7 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.9999905824661255
-    }
-  },
-  {
-    "text": "I'd like to have extra cards. Will I have to pay for that?",
-    "intent": "card_order",
-    "intent_prediction": {
-      "name": "card_delivery",
-      "confidence": 0.9999893307685852
+      "confidence": 0.9925909638404846
     }
   },
   {
@@ -60,7 +36,7 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.999950647354126
+      "confidence": 0.999609649181366
     }
   },
   {
@@ -68,7 +44,7 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.9999999403953552
+      "confidence": 0.9999986886978149
     }
   },
   {
@@ -76,7 +52,95 @@
     "intent": "card_order",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.9999991655349731
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "\"I lost my card and need a new one, will it cost me?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9962562322616577
+    }
+  },
+  {
+    "text": "Will I be charged if I add more cards to the account?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.999836802482605
+    }
+  },
+  {
+    "text": "Is it possible for me to give my daughter a second card for this account?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9996767044067383
+    }
+  },
+  {
+    "text": "Am I allowed to carry an additional card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.5904226899147034
+    }
+  },
+  {
+    "text": "How do I obtain a second card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5686184167861938
+    }
+  },
+  {
+    "text": "Will I receive a new card when mine expires?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9331532120704651
+    }
+  },
+  {
+    "text": "How much does it cost for additional cards?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.8887244462966919
+    }
+  },
+  {
+    "text": "How long will it take for me to get my card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "If my card is about to expire how long would it take to receive a new one and how much would that cost me?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.6932047605514526
+    }
+  },
+  {
+    "text": "I need a second card on this account for my daughter.",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9995896816253662
+    }
+  },
+  {
+    "text": "What's the process to receive a second card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9999800324440002
     }
   },
   {
@@ -84,7 +148,7 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_order",
-      "confidence": 0.9992808699607849
+      "confidence": 0.9433130621910095
     }
   },
   {
@@ -92,15 +156,7 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_order",
-      "confidence": 0.5427893996238708
-    }
-  },
-  {
-    "text": "I need my card delivered as soon as possible.",
-    "intent": "card_delivery",
-    "intent_prediction": {
-      "name": "card_order",
-      "confidence": 0.9999929070472717
+      "confidence": 0.9999665021896362
     }
   },
   {
@@ -108,7 +164,7 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_order",
-      "confidence": 0.5049082636833191
+      "confidence": 0.9991129040718079
     }
   },
   {
@@ -116,7 +172,7 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_order",
-      "confidence": 0.9999983310699463
+      "confidence": 0.9170499444007874
     }
   },
   {
@@ -124,7 +180,15 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_order",
-      "confidence": 0.9999997615814209
+      "confidence": 0.9999687075614929
+    }
+  },
+  {
+    "text": "can you share card tracking number?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5693520307540894
     }
   },
   {
@@ -132,23 +196,223 @@
     "intent": "card_delivery",
     "intent_prediction": {
       "name": "card_activation",
-      "confidence": 0.999251127243042
+      "confidence": 0.9941903948783875
+    }
+  },
+  {
+    "text": "When can I expect my new card to get here?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999815225601196
+    }
+  },
+  {
+    "text": "Where do your cards get delivered to?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9991112351417542
+    }
+  },
+  {
+    "text": "I am still waiting for my card.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.9988162517547607
+    }
+  },
+  {
+    "text": "Where can I have a new bank card sent to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999188184738159
+    }
+  },
+  {
+    "text": "Was there a number to track that I could get?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.8993965983390808
+    }
+  },
+  {
+    "text": "Where do we mail the card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.996035635471344
+    }
+  },
+  {
+    "text": "Is there anywhere In the Eu this card can not be delivered in",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.998803973197937
+    }
+  },
+  {
+    "text": "Where is the tracking number for the card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9860944151878357
+    }
+  },
+  {
+    "text": "why have i not got my new card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.9943673014640808
+    }
+  },
+  {
+    "text": "Can I pay more to get it deliver quicker?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999796152114868
+    }
+  },
+  {
+    "text": "what is the leadtime for a new card to show up in the mail?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999704360961914
+    }
+  },
+  {
+    "text": "Am I able to get this shipped to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "What do I do to get ahold of my own card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999969005584717
+    }
+  },
+  {
+    "text": "How do I get a new card sent to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "\"What's go on, where is my new card?\"",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999973773956299
+    }
+  },
+  {
+    "text": "Where are the cards transported to?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "I know I'm getting a new card but would like know when I can expect to receive it.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9943694472312927
+    }
+  },
+  {
+    "text": "I need to get my card quickly",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.998562753200531
+    }
+  },
+  {
+    "text": "I'm still waiting for my card.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.9936723709106445
+    }
+  },
+  {
+    "text": "Where are your cards delivered to?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5555354356765747
+    }
+  },
+  {
+    "text": "Where do you mail physical cards?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 1.0
     }
   },
   {
     "text": "\"I've obtained the card, how do I enable it on the app?\"",
     "intent": "card_activation",
     "intent_prediction": {
-      "name": "card_order",
-      "confidence": 0.9692431092262268
+      "name": "card_delivery",
+      "confidence": 0.9808911085128784
     }
   },
   {
-    "text": "I would like to reactivate a card and wondered if that could be done?",
+    "text": "What do I need to do in order to use my card I just got?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.8840492367744446
+    }
+  },
+  {
+    "text": "What's the process to receive a second card?\"I received my card, how do I get it to show in the app?\"",
     "intent": "card_activation",
     "intent_prediction": {
       "name": "card_delivery",
-      "confidence": 0.8290247321128845
+      "confidence": 0.9994317293167114
+    }
+  },
+  {
+    "text": "Where can I link a new card?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999957084655762
+    }
+  },
+  {
+    "text": "How do I get started when I get my card?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9892500638961792
+    }
+  },
+  {
+    "text": "\"Card has been received, how will it show up on the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 1.0
     }
   }
 ]

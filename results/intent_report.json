@@ -1,45 +1,45 @@
 {
-  "card_delivery": {
-    "precision": 0.7872340425531915,
-    "recall": 0.8409090909090909,
-    "f1-score": 0.8131868131868133,
-    "support": 44,
+  "card_activation": {
+    "precision": 0.9459459459459459,
+    "recall": 0.958904109589041,
+    "f1-score": 0.9523809523809523,
+    "support": 146,
     "confused_with": {
-      "card_order": 6,
-      "card_activation": 1
+      "card_order": 3,
+      "card_delivery": 3
     }
   },
   "card_order": {
-    "precision": 0.8372093023255814,
-    "recall": 0.782608695652174,
-    "f1-score": 0.8089887640449438,
-    "support": 46,
+    "precision": 0.8175675675675675,
+    "recall": 0.8705035971223022,
+    "f1-score": 0.843205574912892,
+    "support": 139,
     "confused_with": {
-      "card_delivery": 9,
-      "card_activation": 1
+      "card_delivery": 14,
+      "card_activation": 4
     }
   },
-  "card_activation": {
-    "precision": 0.9555555555555556,
-    "recall": 0.9555555555555556,
-    "f1-score": 0.9555555555555556,
-    "support": 45,
+  "card_delivery": {
+    "precision": 0.8835616438356164,
+    "recall": 0.821656050955414,
+    "f1-score": 0.8514851485148515,
+    "support": 157,
     "confused_with": {
-      "card_order": 1,
-      "card_delivery": 1
+      "card_order": 24,
+      "card_activation": 4
     }
   },
-  "accuracy": 0.8592592592592593,
+  "accuracy": 0.8823529411764706,
   "macro avg": {
-    "precision": 0.8599996334781096,
-    "recall": 0.8596911140389402,
-    "f1-score": 0.8592437109291042,
-    "support": 135
+    "precision": 0.8823583857830434,
+    "recall": 0.8836879192222525,
+    "f1-score": 0.8823572252695652,
+    "support": 442
   },
   "weighted avg": {
-    "precision": 0.8603698205875346,
-    "recall": 0.8592592592592593,
-    "f1-score": 0.859212614268794,
-    "support": 135
+    "precision": 0.8834144300502076,
+    "recall": 0.8823529411764706,
+    "f1-score": 0.8822089644283772,
+    "support": 442
   }
 }

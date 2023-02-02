@@ -3,6 +3,15 @@ version: "2.0"
 nlu:
 - intent: card_order
   examples: |
+    - I need more physical cards.
+    - How can i get new card?
+    - How do I replace my card before it expires next month?
+    - Any chance of getting the card outside the UK?
+    - Where do I go to order my card?
+    - I would like to get some extra cards?
+    - Do I have to pay for a physical card?
+    - I'm interested in getting a card. How does one go about doing that?
+    - What is the cost and time frame of getting a new card?
     - Where in the European Union can I get a card?
     - I need a new card before it expires.
     - I need another card
@@ -19,6 +28,10 @@ nlu:
     
 - intent: card_delivery
   examples: |
+    - My new card has not been delivered to my home yet. What is going on?
+    - I'm worried my card might be lost in the mail? How long does it usually take to arrive?
+    - Can I have my card delivered on Tuesday?
+    - When will it be delivered to the US?
     - how long does delivery take?
     - "My card was supposed to arrive, but hasn't?"
     - How long does it take for a card to arrive?
@@ -35,6 +48,16 @@ nlu:
     
 - intent: card_activation
   examples: |
+    - Help me activate my card.
+    - Is it possible to reactivate the card I thought I lost but found this morning in my jacket?
+    - Help my activate my card.
+    - I want to start using my card.
+    - "I found my card in my jacket this morning, so can I reactivate it?"
+    - I would like to have assistance with activating my card.
+    - I have my card now how do I activate it?
+    - I would like to be assisted with the activation of my card.
+    - "I want to link to my card card with you, how?"
+    - What steps do I have to take to activate my card?
     - Can I get some help activating my new card?
     - I want to use my card. How do I activate it?
     - I need info on activating my card?
