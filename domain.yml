@@ -1,6 +1,7 @@
 version: "2.0"
 
 intents:
+  - find_atm
   - greet
   - goodbye
   - affirm

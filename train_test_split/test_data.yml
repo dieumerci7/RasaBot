@@ -226,6 +226,218 @@ nlu:
       - My plans may change so I may need to change from GBP to AUD.
       - Does the app allow for exchanges between currencies?
       - Can I use this app to change money?
+nlu:
+- intent: find_atm
+  examples: |
+    - Do I have to use bank approved ATM's
+    - How do I know it is a Mastercard ATM?
+    - Which ATMs accept this bill of fare ?
+    - Is the closest ATM to me within 2 miles?
+    - What is the closest ATM?
+    - How can I find an ATM that accepts this card?
+    - Are there specific ATM's I can use with this card?
+    - What ATMs accept my card?
+    - Which ATM's am i able to change my PIN?
+    - The card can be used at which ATMs?
+    - Tell me what ATMs take this card.
+    - At which ATMs can I use this card?"
+    - Where can money withdrawals be made?
+    - Where is this card accepted?
+    - What ATMs use this card?
+    - What ATMs can I use this card at?
+    - Is there a Mastercard ATM nearby?
+    - What ATMs can I use this card?
+    - ATMs, which ones will accept this card?
+    - Will this card work at any ATM?
+    - Where is an ATM?
+    - Where can I find an ATM?
+    - Can you tell me where I can withdraw money?
+    - Do all ATMs accept this card?
+    - Where is the closest ATM I can use?
+    - What cash stations take this card?
+    - Do I have to use a bank approved ATM to withdraw money?
+    - Where should I withdraw money from?
+    - Are there any ATM's near me that accept this card?
+    - Are there only certain ATM machines where I can use this card?
+    - Where is the nearest ATM?
+    - Can I get cash from an ATM?
+    - Are there any ATMs around here?
+    - How do I find an ATM?
+    - What banks have ATMs close by?
+    - Where can I deposit money?
+    - How do I withdraw money from an ATM?
+    - Is there an ATM nearby?
+    - What ATMs are in my area?
+    - Can I find an ATM near me?
+    - Where can I find an ATM machine?
+    - What is the closest ATM machine?
+    - Where can I get cash from an ATM?
+    - Where can I find an ATM to deposit money?
+    - Is there a cash machine nearby?
+    - Is there an ATM I can use?
+    - What ATM can I use?
+    - Can I withdraw money from an ATM?
+    - What banks have ATMs near me?
+    - Are there any ATMs nearby?
+    - Is there an ATM that accepts my card?
+    - Is there a bank with an ATM nearby?
+    - Is there a cashpoint near me?
+    - Is there an ATM I can use to withdraw money?
+    - How can I find an ATM?
+    - Where can I get cash from my card?
+    - Where can I find an ATM to change my PIN?
+    - Where is the nearest ATM machine?
+    - Are there any ATMs that accept my card?
+    - Where can I find a cash machine?
+    - Are there any ATMs that I can use?
+    - How do I find a cash machine?
+    - Can I deposit money in an ATM?
+    - How do I find a bank with an ATM?
+    - Is there a cash machine I can use?
+    - Where is the nearest ATM that accepts my card?
+    - Where can I get cash from my debit card?
+    - What ATMs are in my area that accept my card?
+    - Where can I find an ATM to withdraw cash?
+    - Are there any ATMs around here that I can use?
+    - Is there a cash machine nearby that I can use?
+    - Is there an ATM I can use to deposit money?
+    - Where is the closest ATM?
+    - Can I use my card at an ATM?
+    - Where can I find a cashpoint to withdraw money?
+    - How can I locate an ATM near me?
+    - Where can I find an ATM to transfer money?
+    - What ATMs are available in my area?
+    - Where is the closest ATM to withdraw cash?
+    - Can I find an ATM to withdraw money?
+    - Is there an ATM I can use to transfer money?
+    - Are there any banks with ATMs near me?
+    - Is there a cash machine close by?
+    - How do I find an ATM to withdraw money?
+    - Where can I find an ATM to get cash?
+    - Are there any ATMs close by?
+    - Is there an ATM nearby that I can use?
+    - What ATMs accept my debit card?
+    - Are there any ATM's nearby?
+    - Can I change my PIN at an ATM?
+    - How can I find an ATM to deposit money?
+    - Where can I find an ATM to get cash from my card?
+    - Are there any ATMs around here that accept my card?
+    - What ATMs are open near me?
+    - Is there an ATM I can use to get cash?
+
+- intent: atm_issues
+  examples: |
+    - I requested money from the ATM and it didn't give me as much as I requested.
+    - totally unacceptable. I'm stranded with no cash because the ATM wouldn't give me any money!
+    - The cash I deposited using the ATM is still pending
+    - Why was my withdrawal requested cancelled by the ATM?
+    - I took out cash from the ATM, but something must have went wrong, My account shows the correct amount of cash I took out, but the ATM didn't give me that amount. How do I get my money back?
+    - Earlier today I took money out the ATM. After checking the app the amount is so much higher than the amount I received.
+    - Tried using my ATM card earlier at one of your locations for the first time. It didn't work. What is going on?
+    - I am so angry right now! I went to the ATM and did not get the correct amount of money I chose to withdraw. How could this happen? I need my money and want to know how I can get it ASAP!
+    - I was denied cash at an ATM
+    - I am unable to get cash from the ATM
+    - Why am I not able to get cash from the ATM?
+    - My ATM withdrawal is taking forever
+    - The ATM didn't give me the full requested amount
+    - I could not get money from an ATM
+    - How can I fix this? The ATM gave me more cash than I'd asked for.
+    - Why can I not get cash from the ATM?
+    - I was just giving the wrong amount by the ATM. How do I request cash back at this point? The app is showing the amount that I actually requested even though that's not what I got.
+    - I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it
+    - I tried to get funds in hard cash but it was rejected!
+    - How can I request cash back? The ATM gave me the wrong amount that I've been charged though...
+    - I received less cash than the amount I specified in the ATM.
+    - I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did. Help!
+    - I normally don't use ATMs, but I was in a rush today and had to withdraw some cash. The ATM gave me the wrong amount of money and now my app is not showing the same amount as it should. What do I do?
+    - The ATM gave me less cash than requested
+    - I did not get the right amount of cash from the ATM.
+    - Why was I not able to take cash from the ATM?
+    - What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.
+    - Can I use a different bank ATM than my own?
+    - I got less cash than what I specified at the ATM.
+    - The ATM didn't give me what I asked for but my balance says it did
+    - What happens if the ATM doesn't give the right amount of money?
+    - Is the ATM broken? I can't get cash from it.
+    - It kept my cash
+    - I couldnt get cash in an ATM
+    - This is the first time I've tried to get my money out of an ATM and it didn't work. Please give me my money
+    - Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?
+    - Why wont the ATM give me cash?
+    - I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy?
+    - The ATM is messed up. It gave me less than I wanted.
+    - Why did I not get the amount I specified at the ATM?
+    - my atm transaction was wrong
+    - The ATM didn't give me enough money.
+    - The ATM did not give me as much cash as I requested.
+    - My card will not work
+    - That's what I said, 23:55 night
+    - Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.
+    - I got some cash in the ATM but its still pending
+    - My card payment might have been reverted.
+    - What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.
+    - I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!
+    - Hello, I didn't receive the right amount on my ATM transaction, the app shows the correct amount how can we fix this
+    - The ATM is showing it gave me the money I requested but I didn't get that amount.
+    - According to the app, I got cash from an ATM but I haven't made any transactions.
+    - I asked for a certain amount of money from the ATM, but it gave me a different amount. Less than what I asked for.
+    - The amount of money I pushed at the atm machine did not come out of the machine.
+    - Help, the ATM didn't give me all the money I requested
+    - Why didn't I get the amount I requested at the ATM?
+    - I received incorrect amount of cash from an ATM today. It was more than I wanted. What do I do now?
+    - Where'd the rest of my cash go from the ATM
+    - ATM apparently not working? Couldn't access funds in my account?
+    - Did a WD earlier at an ATM. The amount showing in the App is more than I got though.
+    - I received the wrong amount of cash from the ATM. Can you help?
+    - I did not get all the cash at ATM.
+    - I can't get the ATM to give me any cash
+    - atm refused to give me money
+    - I got less cash at the ATM than I asked for. Why?
+    - The atm didn'y give me all the cash
+    - I was only given $20 when I tried to get $100
+    - The ATM didn't give me the amount I asked for
+    - What should I do with my stuck ATM?
+    - I am calling because the ATM didn't give me the right amount of cash, but my app shows the actual amount I wanted to withdraw. What should I do to get my money back?
+    - I couldn't get money from the ATM
+    - The machine only paid me a hundred when I wanted 20
+    - How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...
+    - I am at the ATM and tried to withdraw 30 pounds and it only gave me 10 pounds, what do I do?
+    - Can you please tell me why I cant get money from the ATM?
+    - My balance is not what I thought it was following an ATM withdrawal
+    - The app is showing that I received alot more money than I actually received from the ATM. This occurred earlier today.
+    - I could not access my money at the ATM
+    - I didn't get the correct amount of money from the ATM machine
+    - Why can't I withdraw cash?
+    - How come I can't get money at the ATM
+    - Why can't I take cash out of the ATM?
+    - I was getting some cash out of the ATM but it cancelled on me without warning.
+    - I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.
+    - Can you explain why the ATM is giving me less money than what I asked for?
+    - I didn't get the all the cash i wanted from the atm
+    - I could not get the cash I wanted
+    - My account shows up as pending after I received cash from the ATM earlier. How can this be still pending? I've got the cash already.
+    - The ATM wouldn't allow me to withdraw money
+    - How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.
+    - Can i get money in my home currency at some ATM ? As I am on holiday and bit concerned because i do not have any cash with me . Is it possible to withdraw without any additional cost.
+    - There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.
+    - When I went to $100, all the machine would give me was $20.
+    - I needed cash from the ATM but I couldn't get it.
+    - My ATM transaction was cancelled.
+    - Why can't I get cash from the ATM?
+    - Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working. I didn't actually receive the money, but I just checked and it says that the transaction is still pending. Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?
+    - The ATM didn't give me enough money! I asked for more than it gave. What do I do?
+    - The cash I got at the ATM is still in my account.
+    - Why can't I withdraw cash from this ATM?
+    - Cash withdrawal was incorrect at ATM.
+    - I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!
+    - ATM withdrawal not working.
+    - The ATM won't let me take out cash
+    - Some cash was missing at ATM.
+    - Where did my money go? I'm not able to withdraw it from my ATM.
+    - i asked for 100 only got 80
+    - I was not able to use the ATM to get cash
+    - Why was my cash withdrawal cancelled at the ATM?
+    - I tried pulling out money at the ATM and it gave me an incorrect amount back.
 
 
   - intent: exchange_issues
@@ -427,3 +639,89 @@ nlu:
       - When I made a cash transfer abroad the wrong exchange rate was applied
       - How do you figure out the exchange rate? Can you explain why I got less money than expected?
       - Someone may have made an error in figuring out the rate of exchange. I should have received more cash than I did on my most recent withdrawal.
+- intent: atm_card_issues
+  examples: |
+    - The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?
+    - Can I use my card in another institutions ATM?
+    - The ATM didnt return my card!
+    - While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?
+    - What do I do now my credit card has been swallowed by the ATM?
+    - My card wont work at an ATM
+    - The ATM did not give me my card back?
+    - Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.
+    - Will any ATM's decline my card?
+    - What do I do if the ATM took my card?
+    - What ATMs take this card?
+    - A Bank ATM did not give my card back. What do I do now?
+    - My card was eaten by the cash machine what do I do?
+    - My card doesn't work. I can't get cash out at an ATM
+    - I tried to use the ATM today but it would not accept my card.
+    - what do I need to do if the ATM kept my card?
+    - What ATMs can I use my card at?
+    - Please provide me a list of ATMs that accept my card.
+    - My card was rejected
+    - Why won't the machine accept my card anymore?
+    - Is my card broken? I can't get cash out of the ATM
+    - What should I do since my card is trapped in the ATM?
+    - Where are the ATMs that I can use Mastercard?
+    - Where are the Mastercard ATMs?
+    - The ATM kept my card?
+    - My card is stuck in the ATM?
+    - How do I get a new card as your machine swallowed mine!
+    - Please send a new card; the ATM ate mine.
+    - I can't get my card out of the ATM
+    - How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.
+    - how to get new card after atm eats it
+    - The ATM sucked my card in.
+    - The bank machine didn't give my card back how do I get a new one fast?
+    - I cant get money out of the ATM with my card. I just put my card in the ATM but it will not allow me to take any money out. What do I need to do to fix this?
+    - I cannot get my card out of the ATM.
+    - Why has my top up been cancelled
+    - Am I limited to what ATM I can use my card?
+    - Which ATMs accept Mastercard?
+    - My card is stuck inside the ATM.
+    - What do I do after the ATM takes my card.
+    - What are the steps to get my card back that was kept by the ATM?
+    - How do I get my card back after the ATM swallowed it.
+    - I need a new card because the ATM took mine.
+    - The ATM keeps declining my card! I tried two different ATMs already can you please check if everything is alright with my account??
+    - I just had my card get declined at the ATM! I need to get money out but I am unable to. Why has this happened?
+    - Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.
+    - How do I get my card out of the ATM?
+    - The ATM machine ate my card.
+    - Why did the ATM swallow my card?
+    - I was getting cash and the card got stuck inside
+    - My card got stuck in an ATM.
+    - What are the steps I should take to recover my swallowed card?
+    - An ATM machine didn't return my card.
+    - I didn't get my card back from the ATM.
+    - An ATM machine didn't give me back my card.
+    - My card didn't work at the ATM in Notting Hill. Is my card working?
+    - The ATM won't give me my card back. I need it back now!
+    - What do I do if I can't get my card out of the ATM?
+    - I have lost my credit card in the ATM!
+    - How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?
+    - Why am I having trouble withdrawing cash?
+    - I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it
+    - atm ate my card
+    - Has my account been frozen? I tried to use my card but the ATM would not dispense cash.
+    - I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!
+    - I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?
+    - I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.
+    - Why was I blocked from withdrawing from the ATM?
+    - Is there a problem with my account? When I tried to withdraw cash at an ATM I was denied.
+    - How can I get my card out of the ATM?
+    - Your machine took my card. How do I get it back?
+    - Why did the ATM eat my card?
+    - My ATM card isn't working for a withdrawl
+    - What do I do if the ATM swallowed my card?
+    - Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?
+    - What should I do if the atm eats my card?
+    - An ATM swallowed my credit card!
+    - Why does the ATM continually decline my card? I've tried multiple times on different machines with the same results. I thought I had enough funds for this, so please help me understand why this is happening.
+    - Why is my card being declined at the ATM? I have tried multiple ATMs and i keep running into the same problem. Could you verify that everything is okay with my account?
+    - When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?
+    - I tried to get cash in the ATM but it was not approved
+    - What do I do if the machine rejects my card?
+    - I can't withdraw any money from my account. Ive tried a couple different ATM machines and both of them wouldn't give me my money. What's going on? Is my account frozen or something?
+    - How can I get my card out of the stupid ATM that ate it?
