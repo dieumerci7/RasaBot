@@ -1,8 +1,12 @@
 version: "2.0"
 
 intents:
+  - atm_card_issues
   - find_atm
-  - exchange_rate
+  - atm_issues
+  - exchange_info
+  - exchange_currency
+  - exchange_issues
   - card_order
   - card_delivery
   - card_activation
