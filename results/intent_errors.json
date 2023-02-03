@@ -1,10 +1,466 @@
 [
   {
+    "text": "What is my money worth in other countries?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.28510648012161255
+    }
+  },
+  {
+    "text": "Will my money be of equal value when I travel abroad?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.49690577387809753
+    }
+  },
+  {
+    "text": "What is the exchange looking like?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.8869861960411072
+    }
+  },
+  {
+    "text": "How is the exchange rate doing?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.5055955648422241
+    }
+  },
+  {
+    "text": "Do you have the best exchange rate?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.8336737155914307
+    }
+  },
+  {
+    "text": "What do you think of the exchange rate?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.29644182324409485
+    }
+  },
+  {
+    "text": "What's the foreign exchange rate I will receive?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6413013935089111
+    }
+  },
+  {
+    "text": "Why is your exchange rate different on different days?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.42333438992500305
+    }
+  },
+  {
+    "text": "How do you find the exchange rate?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6019570231437683
+    }
+  },
+  {
+    "text": "How is an exchange rate calculated?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.7654317021369934
+    }
+  },
+  {
+    "text": "Is there an exchange rate?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.9554521441459656
+    }
+  },
+  {
+    "text": "How does the exchange rate work?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.7035003304481506
+    }
+  },
+  {
+    "text": "How's the exchange rate looking right now?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.8665863871574402
+    }
+  },
+  {
+    "text": "explain the interbank exchange rate",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.9957889914512634
+    }
+  },
+  {
+    "text": "Where does the exchange rate stand right now?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.5769875049591064
+    }
+  },
+  {
+    "text": "Does the exchange rate change?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.7939703464508057
+    }
+  },
+  {
+    "text": "How do I know what the exchange rate will be when I make an exchange.",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6414716839790344
+    }
+  },
+  {
+    "text": "Is the exchange rate the same on weekends as the weekdays?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6248803734779358
+    }
+  },
+  {
+    "text": "Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.46086788177490234
+    }
+  },
+  {
+    "text": "Does this app have the same exchange rate as third parties?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6892837285995483
+    }
+  },
+  {
+    "text": "How do you determine the exchange rate?",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.5220506191253662
+    }
+  },
+  {
+    "text": "Show exchange rate between USD and EUR",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.7542747259140015
+    }
+  },
+  {
+    "text": "tell currency rate between AUD and USD",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.3246071934700012
+    }
+  },
+  {
+    "text": "where can I find official exchange rate",
+    "intent": "exchange_info",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.6169334053993225
+    }
+  },
+  {
+    "text": "I've been to several different countries, can I exchange the cash with a discount for a large transaction?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.30160680413246155
+    }
+  },
+  {
+    "text": "What types of fiduciary currencies are supported for tenure and exchange?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.9699285626411438
+    }
+  },
+  {
+    "text": "Do you have EUR currency available for me?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.517540693283081
+    }
+  },
+  {
+    "text": "I am from X but am traveling to Y - how do I get currency for Y?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.4381710886955261
+    }
+  },
+  {
+    "text": "Is there a way to make my money usable in another country?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.40611425042152405
+    }
+  },
+  {
+    "text": "What currences are available for exchange?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.8910444378852844
+    }
+  },
+  {
+    "text": "Can I exchange currency for different types?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.3282046616077423
+    }
+  },
+  {
+    "text": "How to I switch my money for the money used in another country?",
+    "intent": "exchange_currency",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6315283179283142
+    }
+  },
+  {
+    "text": "\"If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.35286179184913635
+    }
+  },
+  {
+    "text": "want a new card what are the fees",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.7937912940979004
+    }
+  },
+  {
+    "text": "Where do you need to live to receive card",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9186957478523254
+    }
+  },
+  {
+    "text": "How long will it take to receive a virtual card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9728857278823853
+    }
+  },
+  {
+    "text": "\"If I need an additional card, is there a fee for that?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9132516384124756
+    }
+  },
+  {
+    "text": "\"I lost my card and need a new one, will it cost me?\"",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.6233541369438171
+    }
+  },
+  {
+    "text": "how is it possible to add another card to account",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.6045128107070923
+    }
+  },
+  {
+    "text": "Will I be charged if I add more cards to the account?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.262756884098053
+    }
+  },
+  {
+    "text": "Is it possible for me to give my daughter a second card for this account?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.6754516363143921
+    }
+  },
+  {
+    "text": "Am I allowed to carry an additional card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.4538109600543976
+    }
+  },
+  {
+    "text": "At which locations can I order a card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9827125072479248
+    }
+  },
+  {
+    "text": "How much does it cost for additional cards?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.42065683007240295
+    }
+  },
+  {
+    "text": "How long will it take for me to get my card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9965853095054626
+    }
+  },
+  {
+    "text": "If my card is about to expire how long would it take to receive a new one and how much would that cost me?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5124145150184631
+    }
+  },
+  {
+    "text": "I need a second card on this account for my daughter.",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6169624328613281
+    }
+  },
+  {
+    "text": "What's the process to receive a second card?",
+    "intent": "card_order",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5711113214492798
+    }
+  },
+  {
+    "text": "I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.6437140703201294
+    }
+  },
+  {
+    "text": "The ATM I used for foreign currency provided the wrong exchange rate.",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.7742191553115845
+    }
+  },
+  {
+    "text": "I did not receive the correct amount for the exchange rate.",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.41076749563217163
+    }
+  },
+  {
+    "text": "I got charged for with a fee for paying with my card.",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.690673828125
+    }
+  },
+  {
+    "text": "My client was converting their dollars into UK pound currency when they noticed their bill was much too high for the exchange. What happened?",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.5123339891433716
+    }
+  },
+  {
+    "text": "I didn't receive the correct amount of cash when I exchanged it overseas.",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.994655191898346
+    }
+  },
+  {
+    "text": "I found my card, am I able to put it back into the app?",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9945725798606873
+    }
+  },
+  {
+    "text": "What is wrong with the exchange rate? This should have been a much higher amount of cash for that to apply.",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.5435214042663574
+    }
+  },
+  {
+    "text": "I didnt get the correct exchange rate for getting cash",
+    "intent": "exchange_issues",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.8052247762680054
+    }
+  },
+  {
     "text": "Do I have to use bank approved ATM's",
     "intent": "find_atm",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.6081975698471069
+      "name": "atm_card_issues",
+      "confidence": 0.5788276791572571
     }
   },
   {
@@ -12,7 +468,7 @@
     "intent": "find_atm",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 0.9998580813407898
+      "confidence": 0.9340886473655701
     }
   },
   {
@@ -20,7 +476,15 @@
     "intent": "find_atm",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9999998211860657
+      "confidence": 0.9976935982704163
+    }
+  },
+  {
+    "text": "Where can I get cash from an ATM?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.6740478277206421
     }
   },
   {
@@ -28,7 +492,31 @@
     "intent": "find_atm",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 0.9997574090957642
+      "confidence": 0.8330068588256836
+    }
+  },
+  {
+    "text": "Is there a cashpoint near me?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9444785714149475
+    }
+  },
+  {
+    "text": "Where can I get cash from my card?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5413082242012024
+    }
+  },
+  {
+    "text": "Where is the nearest ATM machine?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.8702412843704224
     }
   },
   {
@@ -36,23 +524,39 @@
     "intent": "find_atm",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 1.0
+      "confidence": 0.961198627948761
     }
   },
   {
-    "text": "How do I find a bank with an ATM?",
+    "text": "Where can I get cash from my debit card?",
     "intent": "find_atm",
     "intent_prediction": {
-      "name": "atm_card_issues",
-      "confidence": 0.987500011920929
+      "name": "card_order",
+      "confidence": 0.29467177391052246
+    }
+  },
+  {
+    "text": "Is there an ATM I can use to get cash?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9319660663604736
     }
   },
   {
     "text": "Tried using my ATM card earlier at one of your locations for the first time. It didn't work. What is going on?",
     "intent": "atm_issues",
     "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.4697248637676239
+    }
+  },
+  {
+    "text": "I am unable to get cash from the ATM",
+    "intent": "atm_issues",
+    "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 0.945655345916748
+      "confidence": 0.5536715388298035
     }
   },
   {
@@ -60,15 +564,15 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.999997615814209
+      "confidence": 0.9928039908409119
     }
   },
   {
     "text": "I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it",
     "intent": "atm_issues",
     "intent_prediction": {
-      "name": "atm_card_issues",
-      "confidence": 0.7392988204956055
+      "name": "card_activation",
+      "confidence": 0.8758629560470581
     }
   },
   {
@@ -76,7 +580,15 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.999963641166687
+      "confidence": 0.9139947891235352
+    }
+  },
+  {
+    "text": "The ATM didn't give me what I asked for but my balance says it did",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9960132241249084
     }
   },
   {
@@ -84,23 +596,31 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 0.9819239974021912
+      "confidence": 0.768485426902771
     }
   },
   {
-    "text": "My card will not work",
+    "text": "my atm transaction was wrong",
     "intent": "atm_issues",
     "intent_prediction": {
-      "name": "atm_card_issues",
-      "confidence": 0.9999786615371704
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9971142411231995
     }
   },
   {
     "text": "That's what I said, 23:55 night",
     "intent": "atm_issues",
     "intent_prediction": {
-      "name": "find_atm",
-      "confidence": 0.6296845078468323
+      "name": "funds_transfer",
+      "confidence": 0.968923807144165
+    }
+  },
+  {
+    "text": "My card payment might have been reverted.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9802928566932678
     }
   },
   {
@@ -108,15 +628,7 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 0.9999703168869019
-    }
-  },
-  {
-    "text": "Where'd the rest of my cash go from the ATM",
-    "intent": "atm_issues",
-    "intent_prediction": {
-      "name": "find_atm",
-      "confidence": 0.9763436913490295
+      "confidence": 0.9944201111793518
     }
   },
   {
@@ -124,7 +636,15 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9999179244041443
+      "confidence": 0.9349274039268494
+    }
+  },
+  {
+    "text": "I was only given $20 when I tried to get $100",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6966845989227295
     }
   },
   {
@@ -132,15 +652,39 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "atm_card_issues",
-      "confidence": 1.0
+      "confidence": 0.9939133524894714
     }
   },
   {
-    "text": "The ATM wouldn't allow me to withdraw money",
+    "text": "The machine only paid me a hundred when I wanted 20",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.25556880235671997
+    }
+  },
+  {
+    "text": "My balance is not what I thought it was following an ATM withdrawal",
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9984235763549805
+      "confidence": 0.772485077381134
+    }
+  },
+  {
+    "text": "I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.36549222469329834
+    }
+  },
+  {
+    "text": "How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.5505350828170776
     }
   },
   {
@@ -148,15 +692,55 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.99993896484375
+      "confidence": 0.9705995321273804
+    }
+  },
+  {
+    "text": "When I went to $100, all the machine would give me was $20.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.4688476026058197
     }
   },
   {
     "text": "My ATM transaction was cancelled.",
     "intent": "atm_issues",
     "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9996028542518616
+    }
+  },
+  {
+    "text": "Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working. I didn't actually receive the money, but I just checked and it says that the transaction is still pending. Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.4538615047931671
+    }
+  },
+  {
+    "text": "Cash withdrawal was incorrect at ATM.",
+    "intent": "atm_issues",
+    "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9999191164970398
+      "confidence": 0.6088379621505737
+    }
+  },
+  {
+    "text": "I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.6214023232460022
+    }
+  },
+  {
+    "text": "ATM withdrawal not working.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9874469041824341
     }
   },
   {
@@ -164,15 +748,23 @@
     "intent": "atm_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9996907711029053
+      "confidence": 0.996654212474823
+    }
+  },
+  {
+    "text": "i asked for 100 only got 80",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9956874251365662
     }
   },
   {
     "text": "Can I use my card in another institutions ATM?",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "find_atm",
-      "confidence": 0.9979362487792969
+      "name": "card_order",
+      "confidence": 0.5285292267799377
     }
   },
   {
@@ -180,7 +772,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9128113389015198
+      "confidence": 0.9288524985313416
     }
   },
   {
@@ -188,7 +780,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 1.0
+      "confidence": 0.993316113948822
     }
   },
   {
@@ -196,7 +788,15 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9938029646873474
+      "confidence": 0.9857935309410095
+    }
+  },
+  {
+    "text": "I tried to use the ATM today but it would not accept my card.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.46169665455818176
     }
   },
   {
@@ -204,7 +804,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 1.0
+      "confidence": 0.9985077977180481
     }
   },
   {
@@ -212,7 +812,15 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9994159936904907
+      "confidence": 0.9808967709541321
+    }
+  },
+  {
+    "text": "My card was rejected",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.468241810798645
     }
   },
   {
@@ -220,7 +828,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 1.0
+      "confidence": 0.998816967010498
     }
   },
   {
@@ -228,15 +836,23 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 1.0
+      "confidence": 0.9911448955535889
+    }
+  },
+  {
+    "text": "How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.924634575843811
     }
   },
   {
     "text": "Why has my top up been cancelled",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.999956488609314
+      "name": "funds_transfer_cancel",
+      "confidence": 0.3939551115036011
     }
   },
   {
@@ -244,7 +860,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 0.9999982118606567
+      "confidence": 0.7687225937843323
     }
   },
   {
@@ -252,15 +868,39 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "find_atm",
-      "confidence": 1.0
+      "confidence": 0.999717652797699
+    }
+  },
+  {
+    "text": "Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.34784960746765137
+    }
+  },
+  {
+    "text": "I was getting cash and the card got stuck inside",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5883477330207825
     }
   },
   {
     "text": "My card didn't work at the ATM in Notting Hill. Is my card working?",
     "intent": "atm_card_issues",
     "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.734431266784668
+    }
+  },
+  {
+    "text": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9462858438491821
+      "confidence": 0.3362071216106415
     }
   },
   {
@@ -268,15 +908,15 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 1.0
+      "confidence": 0.9994178414344788
     }
   },
   {
     "text": "I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.9629621505737305
+      "name": "funds_transfer_issues",
+      "confidence": 0.6117352247238159
     }
   },
   {
@@ -284,7 +924,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9999933242797852
+      "confidence": 0.8779793381690979
     }
   },
   {
@@ -292,7 +932,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.999496340751648
+      "confidence": 0.6699573993682861
     }
   },
   {
@@ -300,23 +940,23 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9999996423721313
+      "confidence": 0.7844276428222656
     }
   },
   {
     "text": "I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.6689444184303284
+      "name": "card_order",
+      "confidence": 0.5632559061050415
     }
   },
   {
     "text": "Why was I blocked from withdrawing from the ATM?",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.9864329099655151
+      "name": "find_atm",
+      "confidence": 0.5428823232650757
     }
   },
   {
@@ -324,15 +964,23 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.999907374382019
+      "confidence": 0.7233906388282776
+    }
+  },
+  {
+    "text": "My ATM card isn't working for a withdrawl",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.7055725455284119
     }
   },
   {
     "text": "Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?",
     "intent": "atm_card_issues",
     "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.9999677538871765
+      "name": "card_delivery",
+      "confidence": 0.3428614139556885
     }
   },
   {
@@ -340,15 +988,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9943236112594604
-    }
-  },
-  {
-    "text": "Why is my card being declined at the ATM? I have tried multiple ATMs and i keep running into the same problem. Could you verify that everything is okay with my account?",
-    "intent": "atm_card_issues",
-    "intent_prediction": {
-      "name": "atm_issues",
-      "confidence": 0.9983578324317932
+      "confidence": 0.21540997922420502
     }
   },
   {
@@ -356,7 +996,7 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9999997615814209
+      "confidence": 0.9841386675834656
     }
   },
   {
@@ -364,7 +1004,1751 @@
     "intent": "atm_card_issues",
     "intent_prediction": {
       "name": "atm_issues",
-      "confidence": 0.9999951124191284
+      "confidence": 0.5323248505592346
+    }
+  },
+  {
+    "text": "My card is needed soon",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9712581038475037
+    }
+  },
+  {
+    "text": "I need to find out where the card is that I ordered.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9850227236747742
+    }
+  },
+  {
+    "text": "How long until my new card gets here?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9792982339859009
+    }
+  },
+  {
+    "text": "Why has my new card still not come?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9225614070892334
+    }
+  },
+  {
+    "text": "Am I able to track a card that has already been sent?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.7709958553314209
+    }
+  },
+  {
+    "text": "Please send my card as quickly as possible.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9815676212310791
+    }
+  },
+  {
+    "text": "Can cards be dispatched on a specific date?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9651747941970825
+    }
+  },
+  {
+    "text": "I am still waiting on my card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.6764949560165405
+    }
+  },
+  {
+    "text": "When can I expect my new card to get here?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.7407582402229309
+    }
+  },
+  {
+    "text": "I am still waiting for my card.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.571738600730896
+    }
+  },
+  {
+    "text": "Where can I have a new bank card sent to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9991269707679749
+    }
+  },
+  {
+    "text": "Where is my credit card that was to be mailed?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.3960484564304352
+    }
+  },
+  {
+    "text": "When will my card come? I need it as soon as possible!",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.8730971813201904
+    }
+  },
+  {
+    "text": "Was there a number to track that I could get?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.33795636892318726
+    }
+  },
+  {
+    "text": "Where do we mail the card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.39245137572288513
+    }
+  },
+  {
+    "text": "I lost track of my card",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9121394157409668
+    }
+  },
+  {
+    "text": "Where is the tracking number for the card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.5198254585266113
+    }
+  },
+  {
+    "text": "why have i not got my new card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.49804365634918213
+    }
+  },
+  {
+    "text": "what is the leadtime for a new card to show up in the mail?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9852139949798584
+    }
+  },
+  {
+    "text": "Am I able to get this shipped to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9539083242416382
+    }
+  },
+  {
+    "text": "What do I do to get ahold of my own card?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9244657158851624
+    }
+  },
+  {
+    "text": "How do I get a new card sent to China?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9996839761734009
+    }
+  },
+  {
+    "text": "\"What's go on, where is my new card?\"",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.8883360624313354
+    }
+  },
+  {
+    "text": "Where are the cards transported to?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.6296287178993225
+    }
+  },
+  {
+    "text": "I need to get my card quickly",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9696508646011353
+    }
+  },
+  {
+    "text": "I'm still waiting for my card.",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.7985998392105103
+    }
+  },
+  {
+    "text": "Where do you mail physical cards?",
+    "intent": "card_delivery",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9999417662620544
+    }
+  },
+  {
+    "text": "\"I've obtained the card, how do I enable it on the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.6350402235984802
+    }
+  },
+  {
+    "text": "\"I blocked my card by mistake, how do I unblock it?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9375218152999878
+    }
+  },
+  {
+    "text": "How can I make my card ready to use?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.5509518384933472
+    }
+  },
+  {
+    "text": "What do I need to do in order to use my card I just got?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9845086336135864
+    }
+  },
+  {
+    "text": "What's the process to receive a second card?\"I received my card, how do I get it to show in the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.34631550312042236
+    }
+  },
+  {
+    "text": "\"lost card found, want to put it back in app\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9867565631866455
+    }
+  },
+  {
+    "text": "\"Okay, I found my card, can I put it back in the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9912063479423523
+    }
+  },
+  {
+    "text": "if i found a lost card can i put it back in app",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9947234392166138
+    }
+  },
+  {
+    "text": "How do I add the card I just received to show up in the app?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.35335251688957214
+    }
+  },
+  {
+    "text": "How do I get started when I get my card?",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.7974512577056885
+    }
+  },
+  {
+    "text": "\"Card has been received, how will it show up on the app?\"",
+    "intent": "card_activation",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.45816946029663086
+    }
+  },
+  {
+    "text": "transfer money from one place to another",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.4671030044555664
+    }
+  },
+  {
+    "text": "transfer sixty dollars to dad from my biggest accnt",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.5134466290473938
+    }
+  },
+  {
+    "text": "please send ten dollars from bank of america to capital one",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.3907012343406677
+    }
+  },
+  {
+    "text": "I'd like to use my American Express to place money into my account.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.7235240340232849
+    }
+  },
+  {
+    "text": "whats the quickest way to money from one account to another",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.6469452977180481
+    }
+  },
+  {
+    "text": "I must quickly transfer something from China, and I need to know how long it will take.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.5717165470123291
+    }
+  },
+  {
+    "text": "i need to throw some money into that other account",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.35734373331069946
+    }
+  },
+  {
+    "text": "Help! I need to transfer something to China.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.5727257132530212
+    }
+  },
+  {
+    "text": "time to move some cash from one account to another",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.8493335247039795
+    }
+  },
+  {
+    "text": "yes make the transfer",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.7699830532073975
+    }
+  },
+  {
+    "text": "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.30058780312538147
+    }
+  },
+  {
+    "text": "i need ten dollars sent from b of a to washington mutual",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.38941049575805664
+    }
+  },
+  {
+    "text": "move my money please",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.8299496173858643
+    }
+  },
+  {
+    "text": "i want to initiate a transfer from one account to the other",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4235481917858124
+    }
+  },
+  {
+    "text": "I'd like to transfer funds using my credit card.",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.7748563289642334
+    }
+  },
+  {
+    "text": "is there anyone available to help pay an internet bill",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.7314653992652893
+    }
+  },
+  {
+    "text": "What information am I going to have to have in order to do a transfer with my card?",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.9738752841949463
+    }
+  },
+  {
+    "text": "i need my money to be moved",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5031945705413818
+    }
+  },
+  {
+    "text": "transfer fifty dollars between my chase and bank of america account",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6013872027397156
+    }
+  },
+  {
+    "text": "Can I have money transferred into my account at different intervals along my trip?",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.8510352969169617
+    }
+  },
+  {
+    "text": "I need to transfer something from China, How long will it take?",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9888802766799927
+    }
+  },
+  {
+    "text": "i want to do a payment on my water bill",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.3877805173397064
+    }
+  },
+  {
+    "text": "help me move my money please",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.29437175393104553
+    }
+  },
+  {
+    "text": "make a payment on the electric bill",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.8753827810287476
+    }
+  },
+  {
+    "text": "move money from one account to another",
+    "intent": "funds_transfer",
+    "intent_prediction": {
+      "name": "exchange_currency",
+      "confidence": 0.33253055810928345
+    }
+  },
+  {
+    "text": "I made a rent payment from the wrong account yesterday. It absolutely has to go through tomorrow, so can you please reroute the payment to the right account?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.2724880576133728
+    }
+  },
+  {
+    "text": "Is there any way to cancel a recent transfer? I did not mean to make it and need to make sure it does not go through.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.897087574005127
+    }
+  },
+  {
+    "text": "I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.8460751175880432
+    }
+  },
+  {
+    "text": "I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.5470753312110901
+    }
+  },
+  {
+    "text": "How fast can you fix an error in payment? I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.4221172630786896
+    }
+  },
+  {
+    "text": "Under what condition will my payment revert?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.35648125410079956
+    }
+  },
+  {
+    "text": "My last ATM request did not go through due to a declined card. Please cancel the request on my account.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.7929584383964539
+    }
+  },
+  {
+    "text": "My transfer was wrong, are you able to stop it before it goes through please?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.5878265500068665
+    }
+  },
+  {
+    "text": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.49184706807136536
+    }
+  },
+  {
+    "text": "I haven't used my card all day but there is a payment showing in the app. Please cancel it!",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.2845553159713745
+    }
+  },
+  {
+    "text": "nope, this is not the correct name of the recipient.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.8491147756576538
+    }
+  },
+  {
+    "text": "that's not right, I actually want to send that money to someone else...",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6861793398857117
+    }
+  },
+  {
+    "text": "Am I able to stop a transfer?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.5613840818405151
+    }
+  },
+  {
+    "text": "I used the wrong account.",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.917037844657898
+    }
+  },
+  {
+    "text": "I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.5436894297599792
+    }
+  },
+  {
+    "text": "I used the wrong account number!",
+    "intent": "funds_transfer_cancel",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9002869129180908
+    }
+  },
+  {
+    "text": "My card payment was cancelled.  Why?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.506962776184082
+    }
+  },
+  {
+    "text": "I see a reverted payment on my account. Why has this happened?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8600964546203613
+    }
+  },
+  {
+    "text": "Asked for $100 but only got $20. Why would this happen?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.7021142840385437
+    }
+  },
+  {
+    "text": "I was unable to transfer money from my account.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.41720086336135864
+    }
+  },
+  {
+    "text": "My card payments have stopped.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.3052041232585907
+    }
+  },
+  {
+    "text": "Why can't I complete the transfer?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9166271686553955
+    }
+  },
+  {
+    "text": "I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.43138641119003296
+    }
+  },
+  {
+    "text": "How long does it take for money to transfer? I sent some to a friend and it hasn't gone through yet.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5606696009635925
+    }
+  },
+  {
+    "text": "I can't get a contactless payment to work.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.7131909728050232
+    }
+  },
+  {
+    "text": "I sent some money and the account hasn't recived the transfer I made.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.6123266220092773
+    }
+  },
+  {
+    "text": "Why would a merchant revert my payment?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.7952234148979187
+    }
+  },
+  {
+    "text": "I can't see a transfer to my account I made.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.45864444971084595
+    }
+  },
+  {
+    "text": "Where's the money from my transfer from Europe?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6454699635505676
+    }
+  },
+  {
+    "text": "Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.8562840819358826
+    }
+  },
+  {
+    "text": "Card payment has be declined.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6341891884803772
+    }
+  },
+  {
+    "text": "When are you going to transfer the money?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.4193214178085327
+    }
+  },
+  {
+    "text": "How come the money from the merchant appeared back into my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.7884342074394226
+    }
+  },
+  {
+    "text": "My card payment has failed.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.4922967553138733
+    }
+  },
+  {
+    "text": "My recipient hasn't received the money",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.7252962589263916
+    }
+  },
+  {
+    "text": "Why would the app revert my payment?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.6204984784126282
+    }
+  },
+  {
+    "text": "Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8338212370872498
+    }
+  },
+  {
+    "text": "I seem to be unable to make any transactions.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.4647957682609558
+    }
+  },
+  {
+    "text": "Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6771838068962097
+    }
+  },
+  {
+    "text": "My payment didn't work and the money is in back in my account.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4028468430042267
+    }
+  },
+  {
+    "text": "What does it mean if my payment has been reverted?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8092256188392639
+    }
+  },
+  {
+    "text": "I notice that I have a card payment that's been cancelled.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8157183527946472
+    }
+  },
+  {
+    "text": "I got a transfer fail message, but no explanation of why-- what happened?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9773206114768982
+    }
+  },
+  {
+    "text": "I'm trying to take money from my account but its not letting me. Help!",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.6887174248695374
+    }
+  },
+  {
+    "text": "Why did I not get the amount of money I requested?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9889732003211975
+    }
+  },
+  {
+    "text": "I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.34247225522994995
+    }
+  },
+  {
+    "text": "Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.48563313484191895
+    }
+  },
+  {
+    "text": "Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.5436444878578186
+    }
+  },
+  {
+    "text": "I don't see a money transfer yet",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.39784377813339233
+    }
+  },
+  {
+    "text": "I need to check status as my friend hasn't got money I sent.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.4225255846977234
+    }
+  },
+  {
+    "text": "I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.3949880301952362
+    }
+  },
+  {
+    "text": "A payment I made is for a wrong amount can you help me correct the mistake.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9102604389190674
+    }
+  },
+  {
+    "text": "Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.3273138701915741
+    }
+  },
+  {
+    "text": "I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5609625577926636
+    }
+  },
+  {
+    "text": "Why did the funds for one of my purchase come back to my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.667297899723053
+    }
+  },
+  {
+    "text": "My transfer hasn't arrived",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9442915320396423
+    }
+  },
+  {
+    "text": "A wrong amount of cash we sent to me.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9993020296096802
+    }
+  },
+  {
+    "text": "I sent money and the recipient has not received their money after two weeks.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8250843286514282
+    }
+  },
+  {
+    "text": "Why do you keep declining my payment?I tried several times already with this card and it is just not working.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.3063112199306488
+    }
+  },
+  {
+    "text": "The payment I made with my card is not showing up.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.3997463881969452
+    }
+  },
+  {
+    "text": "HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.5547033548355103
+    }
+  },
+  {
+    "text": "Why do you keep declining my payment? I tried several times already with this card and it is just not working.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.28692489862442017
+    }
+  },
+  {
+    "text": "I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.46308842301368713
+    }
+  },
+  {
+    "text": "My card payment has been declined, why?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.6985805034637451
+    }
+  },
+  {
+    "text": "Why can't I take money from my account?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.8280048370361328
+    }
+  },
+  {
+    "text": "Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4619758427143097
+    }
+  },
+  {
+    "text": "Can you tell me why my card payment was cancelled?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.459287166595459
+    }
+  },
+  {
+    "text": "I think the payment from my card was revereted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.583173394203186
+    }
+  },
+  {
+    "text": "I have enough money in my account, so why is my card being declined?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.2654854357242584
+    }
+  },
+  {
+    "text": "how come when i asked for 100 it only gave me 20.00 in the app",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.8216087818145752
+    }
+  },
+  {
+    "text": "My payment was put back, I think.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.2826094627380371
+    }
+  },
+  {
+    "text": "A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8540926575660706
+    }
+  },
+  {
+    "text": "I was checking my statement and I think one of my card payments has reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.5976272225379944
+    }
+  },
+  {
+    "text": "Why was my card payment reversed?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.6774255037307739
+    }
+  },
+  {
+    "text": "I made a payment with my card that was cancelled?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.7469257116317749
+    }
+  },
+  {
+    "text": "Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.39402270317077637
+    }
+  },
+  {
+    "text": "The wrong account was used during a transaction.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9946783781051636
+    }
+  },
+  {
+    "text": "i don't know if it was reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.8709539175033569
+    }
+  },
+  {
+    "text": "Why wasn't my card payment accepted?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4273742437362671
+    }
+  },
+  {
+    "text": "My transfer failed to process correctly. Is there a reason this would happen?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.8356363773345947
+    }
+  },
+  {
+    "text": "I think my card payment was reverted",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.3188234567642212
+    }
+  },
+  {
+    "text": "I purchased something and already received it, why hasn't the money taken out?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.7092936038970947
+    }
+  },
+  {
+    "text": "I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.34481972455978394
+    }
+  },
+  {
+    "text": "Some cash I didn't get shows in my app",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4558699429035187
+    }
+  },
+  {
+    "text": "Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.715924084186554
+    }
+  },
+  {
+    "text": "My payment has been declined several times.  Can you help me?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.49948054552078247
+    }
+  },
+  {
+    "text": "I haven't been able to complete any transactions on my card today. Do you know what's wrong?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.45069390535354614
+    }
+  },
+  {
+    "text": "I put some money in my account the other day but now its gone? Why is this?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.7732742428779602
+    }
+  },
+  {
+    "text": "Why is my transfer not showing",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.5872184634208679
+    }
+  },
+  {
+    "text": "About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_info",
+      "confidence": 0.9639892578125
+    }
+  },
+  {
+    "text": "It looks like my card payment was sent back.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.353641152381897
+    }
+  },
+  {
+    "text": "I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.4213835597038269
+    }
+  },
+  {
+    "text": "Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.7527586221694946
+    }
+  },
+  {
+    "text": "I think a card payment I made was cancelled.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9855819344520569
+    }
+  },
+  {
+    "text": "My transfer has not arrived.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5553323030471802
+    }
+  },
+  {
+    "text": "my payment was rejected, do you know why?",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.7931742668151855
+    }
+  },
+  {
+    "text": "I looked at my statement and found a payment I and found a mistake.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.737805962562561
+    }
+  },
+  {
+    "text": "I can't get google pay to work right.",
+    "intent": "funds_transfer_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.936789870262146
+    }
+  },
+  {
+    "text": "I am waiting for the money to enter my account. How long does it take?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5757110714912415
+    }
+  },
+  {
+    "text": "How long do I have to wait for my transaction to be completed?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_activation",
+      "confidence": 0.5031706094741821
+    }
+  },
+  {
+    "text": "How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.38329747319221497
+    }
+  },
+  {
+    "text": "How long will it take for my money to be deposited?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8854430913925171
+    }
+  },
+  {
+    "text": "How long until the transfer is reflected on my account balance?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.6997872591018677
+    }
+  },
+  {
+    "text": "I just noticed that I supposedly made a payment to a seller a while back. The problem is, I don't recognize the seller. There must be a way to see who it is or track the payment. Can you do that, because I don't remember this transaction?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.6849880814552307
+    }
+  },
+  {
+    "text": "I don't recognize what this payment on my statement would be for.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.8173648118972778
+    }
+  },
+  {
+    "text": "has my card payment been reverted?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5612165331840515
+    }
+  },
+  {
+    "text": "How long does it take for pending transfer transactions to post?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.4930678904056549
+    }
+  },
+  {
+    "text": "When can I expect my transfer to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.471985787153244
+    }
+  },
+  {
+    "text": "Where is the transfer that I did?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.987071692943573
+    }
+  },
+  {
+    "text": "I've made a transfer, how long until the money reaches my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.49108827114105225
+    }
+  },
+  {
+    "text": "when will my transfer arrive",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.9797031283378601
+    }
+  },
+  {
+    "text": "I'm waiting for a transfer from the US, how much longer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.4290173351764679
+    }
+  },
+  {
+    "text": "Estimated time arrival for transfers?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.605099081993103
+    }
+  },
+  {
+    "text": "I need to know why a money transfer is available.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_order",
+      "confidence": 0.3458937108516693
+    }
+  },
+  {
+    "text": "This card payment isn't is recognition.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.7231341600418091
+    }
+  },
+  {
+    "text": "How long will it take to receive my money from my transfer transaction?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.46288418769836426
+    }
+  },
+  {
+    "text": "I'm not sure where this charge came from.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.774387538433075
+    }
+  },
+  {
+    "text": "Can I pay online with my card?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6764455437660217
+    }
+  },
+  {
+    "text": "how can i transfer money from american express card",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.322359174489975
+    }
+  },
+  {
+    "text": "Will I receive all the money sent to my account by SEPA transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.3866693377494812
+    }
+  },
+  {
+    "text": "Can you please tell me why my cash withdrawal is still pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9981921315193176
+    }
+  },
+  {
+    "text": "What does it mean if my payment is pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.49618497490882874
+    }
+  },
+  {
+    "text": "Can I pay for my gas using my Apple watch?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.9166255593299866
+    }
+  },
+  {
+    "text": "How long does it take for my payment to process?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5532429814338684
+    }
+  },
+  {
+    "text": "What fiat currencies are supported?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "exchange_info",
+      "confidence": 0.9948745965957642
+    }
+  },
+  {
+    "text": "Where is the transfer to my account that I made?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.49667617678642273
+    }
+  },
+  {
+    "text": "Can third party fees affect a transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.7809516787528992
+    }
+  },
+  {
+    "text": "I noticed that there's a payment on my card that's pending.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.44931694865226746
+    }
+  },
+  {
+    "text": "My cash withdrawal is showing as pending, why?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9994598031044006
+    }
+  },
+  {
+    "text": "Why is their a charge pending on my card still?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9300329089164734
+    }
+  },
+  {
+    "text": "I didn't know there was a charge for tranferring. What is the charge?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.7763811349868774
+    }
+  },
+  {
+    "text": "How long after I receive my statement can I dispute payments on it?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.356393426656723
+    }
+  },
+  {
+    "text": "My transfer is still pending, why?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9699524641036987
+    }
+  },
+  {
+    "text": "Can you tell me when my money transfer will go through",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.6082282066345215
+    }
+  },
+  {
+    "text": "Why hasn't the money I transferred into my account shown up yet?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.629207968711853
+    }
+  },
+  {
+    "text": "When will my transfer arrive from Europe?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.8217595219612122
+    }
+  },
+  {
+    "text": "My transfer says pending. What does that mean?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9794661402702332
+    }
+  },
+  {
+    "text": "Will it take more than 3 days for my transfer to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.8482135534286499
+    }
+  },
+  {
+    "text": "why have I got a pending transfer? I'm confused!!",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9452801942825317
+    }
+  },
+  {
+    "text": "Why was I charged a fee on a cash withdrawal?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.35886603593826294
+    }
+  },
+  {
+    "text": "How long will it take for my payment to go through?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.48049432039260864
+    }
+  },
+  {
+    "text": "Are bank transfers immediate?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer",
+      "confidence": 0.6588775515556335
+    }
+  },
+  {
+    "text": "Was my transaction reverted with my card?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.9963133931159973
+    }
+  },
+  {
+    "text": "When can I expect money to be transferred to my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "exchange_issues",
+      "confidence": 0.27321958541870117
+    }
+  },
+  {
+    "text": "Why was I charged for transferring money?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_cancel",
+      "confidence": 0.36860111355781555
+    }
+  },
+  {
+    "text": "How long does it take for money to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.5568673014640808
+    }
+  },
+  {
+    "text": "what amount did i spend for food on chase visa on current bill",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.5040802955627441
+    }
+  },
+  {
+    "text": "What is the reason my cash withdrawal is still pending?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9987242221832275
+    }
+  },
+  {
+    "text": "What is the time for a transfer?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.8204194903373718
+    }
+  },
+  {
+    "text": "My money transfer has not yet occurred",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.5852380990982056
+    }
+  },
+  {
+    "text": "I got some items this morning but the payment says pending",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.9192620515823364
+    }
+  },
+  {
+    "text": "How long will it take for the money to reach my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.3532504439353943
+    }
+  },
+  {
+    "text": "How long will my most recent transfer take to go through? The recipient needs the money urgently.",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "funds_transfer_issues",
+      "confidence": 0.825429379940033
+    }
+  },
+  {
+    "text": "How long does it take for the money to show up in my account?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "card_delivery",
+      "confidence": 0.32566195726394653
+    }
+  },
+  {
+    "text": "Why would a merchant revert a card payment?",
+    "intent": "funds_transfer_info",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.7151452898979187
     }
   }
 ]

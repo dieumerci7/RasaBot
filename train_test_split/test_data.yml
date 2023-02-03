@@ -227,147 +227,147 @@ nlu:
       - Does the app allow for exchanges between currencies?
       - Can I use this app to change money?
 
-- intent: card_order
-  examples: |
-    - I live in the EU - can I get a card?
-    - How do I get my virtual card?
-    - How do I get a virtual card on my device?
-    - Is there a way to order a new card while in China?
-    - I don't live in the UK. Can I still get a card?
-    - How do I get to the virtual cards?
-    - How do I get a card if I live in the US?
-    - How can I sign up for a virtual card?
-    - How can I order a card?
-    - "My card is expiring, how do I get a new one?"
-    - My card is about to expire. How do I get a new card?
-    - How do I replace a card that's going to expire?
-    - "i am not a premium customer but i want a virtual card, how do i get it"
-    - "I need an actual card that I can hold in my hand, how do I do that?"
-    - Can I order a card?
-    - How do I go about getting an actual card?
-    - "I have a card that expires in the coming month, do I have to specifically ask for the updated card?"
-    - How do I order a new card when my old one is ready to expire?
-    - Where are cards available to order?
-    - How do I order a replacement for stolen card?
-    - How do I get another card
-    - I want a backup second card. Is this possible?
-    - "The expiration date for my card is coming up, how do I get a new card?"
-    - Do I get a real card?
-    - Where can I order my virtual card?
-    - Can I get a card even though I live in the US
-    - Where can I order a card?
-    - How much does it cost to get more cards?
-    - Can I have more disposable cards?
-    - "I am overseas in China, can I get a replacement card?"
-    - "If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?"
-    - How do I re-order a damaged card?
-    - Will it cost me to get a second card?
-    - I'd like to have extra cards. Will I have to pay for that?
-    - How can I go about ordering a virtual card?
-    - I want to get a virtual card!
-    - Can I get a physical card
-    - want a new card what are the fees
-    - Can I get a disposable card? How many can I have? How often can I use them?
-    - Are you only able to get a card if you're in the UK?
-    - I'd like like to know where I can order a virtual card?
-    - How will I get my card?
-    - Is ordering a new card from China available?
-    - Where do you need to live to receive card
-    - How long will it take to receive a virtual card?
-    - I'm in China and need a new card. Please help.
-    - My card is almost expired. How fast will I get a new one and what is the cost?
-    - I would like to get additional physical cards at this time
-    - "If I need an additional card, is there a fee for that?"
-    - Would it be possible for me to get a second card?
-    - Do I need to order a new card before it expires?
-    - can usa residents get a card?
-    - Help me order a new card that's going to be expired soon.
-    - "I lost my card and need a new one, will it cost me?"
-    - "I have my residency in the US, but I would love to get a card."
-    - How do I go about getting a virtual card?
-    - Do I need to order a new card if mine is expiring?
-    - Can I get a second card for free?
-    - "If my card expires next month, will I need to order a new one?"
-    - how is it possible to add another card to account
-    - I would like to purchase another card.
-    - Is it possible to get a physical card?
-    - I would like to request a card.
-    - "I want to get a new card before my current one expires, how much will it cost me and how long will it take to get here."
-    - Is a new debit card free?
-    - "I live in the EU, can I get one of your cards?"
-    - I would like to get your card in EU. Is that possible?
-    - "My card will expire soon, do I need to order a new one?"
-    - My card expires very soon. What is the cost and delivery time to get a new one?
-    - How do I receive a virtual card?
-    - How do I get a real card?
-    - I need a new card and I live in the United States.
-    - I would like a second card.
-    - Where do I find our how to get a physical card?
-    - What do I need to do in order to get a new card?
-    - Will I be charged if I add more cards to the account?
-    - I want to get few more physical cards
-    - how much for a physical card?
-    - Can I wait for you to send me a new card when mine's about to expire?
-    - Is it possible for me to give my daughter a second card for this account?
-    - "My card's expiring a month from now, should I place an order for the new card?"
-    - can i use my app to get a virtual card
-    - Am I allowed to carry an additional card?
-    - i want to get a card but i live in the US
-    - want to know how to get virtual card
-    - Is it possible to order another card?
-    - How can I receive a virtual card?
-    - At which locations can I order a card?
-    - Please tell me how I can receive a physical card
-    - How do I obtain a second card?
-    - Can I have a third card?
-    - Will I receive a new card when mine expires?
-    - My card is about to expire. Do I have to go to a branch to order a new card?
-    - Can I get another card?
-    - Is it possible to get a new card in China?
-    - Show me where to order my card.
-    - "I reside in the US, but I want a card."
-    - I live in the US and I would like to get a card. How do I go about getting one?
-    - Is it possible to get another card?
-    - When my card expires what is the cost of a replacement and how fast?
-    - Where can I get a physical card?
-    - I would like an extra card.
-    - Who can request disposable cards?
-    - Please tell me how to get a card if I reside in the US.
-    - Please let me know how to place an order for a virtual card
-    - Is it free to send out more cards?
-    - What is the procedure for me to get more cards on my account?
-    - How much does it cost for additional cards?
-    - I just moved to the US how do I get a card?
-    - Where can I sign up for a virtual card?
-    - Does it cost anyting to get my own card?
-    - How long will it take for me to get my card?
-    - "If I don't live in the UK, can I get a card?"
-    - "My card's expiration is approaching, how do I replace it."
-    - What do I owe for a new card?
-    - Can I get a card in person?
-    - Do I need to do something to get a new card once it expires?
-    - What is the cost for physical cards?
-    - I need to order a new card as my old one will expire soon. Can you tell me how to order a new one?
-    - What do I need to do to get a card?
-    - If my card is about to expire how long would it take to receive a new one and how much would that cost me?
-    - I would like to have a physical card to carry around and use. How can I get one?
-    - May I get one of your cards? I live in the EU.
-    - How do I order another card?
-    - I need a second card on this account for my daughter.
-    - I don't have a virtual card - how do I get one?
-    - I need more than one disposable card
-    - How do I get extra cards?
-    - I want some extra physical cards.
-    - "The expiration date on my card is very soon, and I need to get a new one. What are the price and delivery options for my replacement card?"
-    - I lost my card n need a new one.
-    - Do I get to have one of those virtual cards I've heard about?
-    - Where do I order additional cards?
-    - how to i go about getting my virtual card
-    - Can I request a card?
-    - Can I get a card that works in other countries like Africa and Indonesia?
-    - can i get a physical card online
-    - How do I order my card?
-    - What's the process to receive a second card?
+  - intent: card_order
+    examples: |
+      - I live in the EU - can I get a card?
+      - How do I get my virtual card?
+      - How do I get a virtual card on my device?
+      - Is there a way to order a new card while in China?
+      - I don't live in the UK. Can I still get a card?
+      - How do I get to the virtual cards?
+      - How do I get a card if I live in the US?
+      - How can I sign up for a virtual card?
+      - How can I order a card?
+      - "My card is expiring, how do I get a new one?"
+      - My card is about to expire. How do I get a new card?
+      - How do I replace a card that's going to expire?
+      - "i am not a premium customer but i want a virtual card, how do i get it"
+      - "I need an actual card that I can hold in my hand, how do I do that?"
+      - Can I order a card?
+      - How do I go about getting an actual card?
+      - "I have a card that expires in the coming month, do I have to specifically ask for the updated card?"
+      - How do I order a new card when my old one is ready to expire?
+      - Where are cards available to order?
+      - How do I order a replacement for stolen card?
+      - How do I get another card
+      - I want a backup second card. Is this possible?
+      - "The expiration date for my card is coming up, how do I get a new card?"
+      - Do I get a real card?
+      - Where can I order my virtual card?
+      - Can I get a card even though I live in the US
+      - Where can I order a card?
+      - How much does it cost to get more cards?
+      - Can I have more disposable cards?
+      - "I am overseas in China, can I get a replacement card?"
+      - "If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?"
+      - How do I re-order a damaged card?
+      - Will it cost me to get a second card?
+      - I'd like to have extra cards. Will I have to pay for that?
+      - How can I go about ordering a virtual card?
+      - I want to get a virtual card!
+      - Can I get a physical card
+      - want a new card what are the fees
+      - Can I get a disposable card? How many can I have? How often can I use them?
+      - Are you only able to get a card if you're in the UK?
+      - I'd like like to know where I can order a virtual card?
+      - How will I get my card?
+      - Is ordering a new card from China available?
+      - Where do you need to live to receive card
+      - How long will it take to receive a virtual card?
+      - I'm in China and need a new card. Please help.
+      - My card is almost expired. How fast will I get a new one and what is the cost?
+      - I would like to get additional physical cards at this time
+      - "If I need an additional card, is there a fee for that?"
+      - Would it be possible for me to get a second card?
+      - Do I need to order a new card before it expires?
+      - can usa residents get a card?
+      - Help me order a new card that's going to be expired soon.
+      - "I lost my card and need a new one, will it cost me?"
+      - "I have my residency in the US, but I would love to get a card."
+      - How do I go about getting a virtual card?
+      - Do I need to order a new card if mine is expiring?
+      - Can I get a second card for free?
+      - "If my card expires next month, will I need to order a new one?"
+      - how is it possible to add another card to account
+      - I would like to purchase another card.
+      - Is it possible to get a physical card?
+      - I would like to request a card.
+      - "I want to get a new card before my current one expires, how much will it cost me and how long will it take to get here."
+      - Is a new debit card free?
+      - "I live in the EU, can I get one of your cards?"
+      - I would like to get your card in EU. Is that possible?
+      - "My card will expire soon, do I need to order a new one?"
+      - My card expires very soon. What is the cost and delivery time to get a new one?
+      - How do I receive a virtual card?
+      - How do I get a real card?
+      - I need a new card and I live in the United States.
+      - I would like a second card.
+      - Where do I find our how to get a physical card?
+      - What do I need to do in order to get a new card?
+      - Will I be charged if I add more cards to the account?
+      - I want to get few more physical cards
+      - how much for a physical card?
+      - Can I wait for you to send me a new card when mine's about to expire?
+      - Is it possible for me to give my daughter a second card for this account?
+      - "My card's expiring a month from now, should I place an order for the new card?"
+      - can i use my app to get a virtual card
+      - Am I allowed to carry an additional card?
+      - i want to get a card but i live in the US
+      - want to know how to get virtual card
+      - Is it possible to order another card?
+      - How can I receive a virtual card?
+      - At which locations can I order a card?
+      - Please tell me how I can receive a physical card
+      - How do I obtain a second card?
+      - Can I have a third card?
+      - Will I receive a new card when mine expires?
+      - My card is about to expire. Do I have to go to a branch to order a new card?
+      - Can I get another card?
+      - Is it possible to get a new card in China?
+      - Show me where to order my card.
+      - "I reside in the US, but I want a card."
+      - I live in the US and I would like to get a card. How do I go about getting one?
+      - Is it possible to get another card?
+      - When my card expires what is the cost of a replacement and how fast?
+      - Where can I get a physical card?
+      - I would like an extra card.
+      - Who can request disposable cards?
+      - Please tell me how to get a card if I reside in the US.
+      - Please let me know how to place an order for a virtual card
+      - Is it free to send out more cards?
+      - What is the procedure for me to get more cards on my account?
+      - How much does it cost for additional cards?
+      - I just moved to the US how do I get a card?
+      - Where can I sign up for a virtual card?
+      - Does it cost anyting to get my own card?
+      - How long will it take for me to get my card?
+      - "If I don't live in the UK, can I get a card?"
+      - "My card's expiration is approaching, how do I replace it."
+      - What do I owe for a new card?
+      - Can I get a card in person?
+      - Do I need to do something to get a new card once it expires?
+      - What is the cost for physical cards?
+      - I need to order a new card as my old one will expire soon. Can you tell me how to order a new one?
+      - What do I need to do to get a card?
+      - If my card is about to expire how long would it take to receive a new one and how much would that cost me?
+      - I would like to have a physical card to carry around and use. How can I get one?
+      - May I get one of your cards? I live in the EU.
+      - How do I order another card?
+      - I need a second card on this account for my daughter.
+      - I don't have a virtual card - how do I get one?
+      - I need more than one disposable card
+      - How do I get extra cards?
+      - I want some extra physical cards.
+      - "The expiration date on my card is very soon, and I need to get a new one. What are the price and delivery options for my replacement card?"
+      - I lost my card n need a new one.
+      - Do I get to have one of those virtual cards I've heard about?
+      - Where do I order additional cards?
+      - how to i go about getting my virtual card
+      - Can I request a card?
+      - Can I get a card that works in other countries like Africa and Indonesia?
+      - can i get a physical card online
+      - How do I order my card?
+      - What's the process to receive a second card?
 
 
   - intent: exchange_issues
@@ -570,1156 +570,1156 @@ nlu:
       - How do you figure out the exchange rate? Can you explain why I got less money than expected?
       - Someone may have made an error in figuring out the rate of exchange. I should have received more cash than I did on my most recent withdrawal.
 
-- intent: find_atm
-  examples: |
-    - Do I have to use bank approved ATM's
-    - How do I know it is a Mastercard ATM?
-    - Which ATMs accept this bill of fare ?
-    - Is the closest ATM to me within 2 miles?
-    - What is the closest ATM?
-    - How can I find an ATM that accepts this card?
-    - Are there specific ATM's I can use with this card?
-    - What ATMs accept my card?
-    - Which ATM's am i able to change my PIN?
-    - The card can be used at which ATMs?
-    - Tell me what ATMs take this card.
-    - At which ATMs can I use this card?"
-    - Where can money withdrawals be made?
-    - Where is this card accepted?
-    - What ATMs use this card?
-    - What ATMs can I use this card at?
-    - Is there a Mastercard ATM nearby?
-    - What ATMs can I use this card?
-    - ATMs, which ones will accept this card?
-    - Will this card work at any ATM?
-    - Where is an ATM?
-    - Where can I find an ATM?
-    - Can you tell me where I can withdraw money?
-    - Do all ATMs accept this card?
-    - Where is the closest ATM I can use?
-    - What cash stations take this card?
-    - Do I have to use a bank approved ATM to withdraw money?
-    - Where should I withdraw money from?
-    - Are there any ATM's near me that accept this card?
-    - Are there only certain ATM machines where I can use this card?
-    - Where is the nearest ATM?
-    - Can I get cash from an ATM?
-    - Are there any ATMs around here?
-    - How do I find an ATM?
-    - What banks have ATMs close by?
-    - Where can I deposit money?
-    - How do I withdraw money from an ATM?
-    - Is there an ATM nearby?
-    - What ATMs are in my area?
-    - Can I find an ATM near me?
-    - Where can I find an ATM machine?
-    - What is the closest ATM machine?
-    - Where can I get cash from an ATM?
-    - Where can I find an ATM to deposit money?
-    - Is there a cash machine nearby?
-    - Is there an ATM I can use?
-    - What ATM can I use?
-    - Can I withdraw money from an ATM?
-    - What banks have ATMs near me?
-    - Are there any ATMs nearby?
-    - Is there an ATM that accepts my card?
-    - Is there a bank with an ATM nearby?
-    - Is there a cashpoint near me?
-    - Is there an ATM I can use to withdraw money?
-    - How can I find an ATM?
-    - Where can I get cash from my card?
-    - Where can I find an ATM to change my PIN?
-    - Where is the nearest ATM machine?
-    - Are there any ATMs that accept my card?
-    - Where can I find a cash machine?
-    - Are there any ATMs that I can use?
-    - How do I find a cash machine?
-    - Can I deposit money in an ATM?
-    - How do I find a bank with an ATM?
-    - Is there a cash machine I can use?
-    - Where is the nearest ATM that accepts my card?
-    - Where can I get cash from my debit card?
-    - What ATMs are in my area that accept my card?
-    - Where can I find an ATM to withdraw cash?
-    - Are there any ATMs around here that I can use?
-    - Is there a cash machine nearby that I can use?
-    - Is there an ATM I can use to deposit money?
-    - Where is the closest ATM?
-    - Can I use my card at an ATM?
-    - Where can I find a cashpoint to withdraw money?
-    - How can I locate an ATM near me?
-    - Where can I find an ATM to transfer money?
-    - What ATMs are available in my area?
-    - Where is the closest ATM to withdraw cash?
-    - Can I find an ATM to withdraw money?
-    - Is there an ATM I can use to transfer money?
-    - Are there any banks with ATMs near me?
-    - Is there a cash machine close by?
-    - How do I find an ATM to withdraw money?
-    - Where can I find an ATM to get cash?
-    - Are there any ATMs close by?
-    - Is there an ATM nearby that I can use?
-    - What ATMs accept my debit card?
-    - Are there any ATM's nearby?
-    - Can I change my PIN at an ATM?
-    - How can I find an ATM to deposit money?
-    - Where can I find an ATM to get cash from my card?
-    - Are there any ATMs around here that accept my card?
-    - What ATMs are open near me?
-    - Is there an ATM I can use to get cash?
+  - intent: find_atm
+    examples: |
+      - Do I have to use bank approved ATM's
+      - How do I know it is a Mastercard ATM?
+      - Which ATMs accept this bill of fare ?
+      - Is the closest ATM to me within 2 miles?
+      - What is the closest ATM?
+      - How can I find an ATM that accepts this card?
+      - Are there specific ATM's I can use with this card?
+      - What ATMs accept my card?
+      - Which ATM's am i able to change my PIN?
+      - The card can be used at which ATMs?
+      - Tell me what ATMs take this card.
+      - At which ATMs can I use this card?"
+      - Where can money withdrawals be made?
+      - Where is this card accepted?
+      - What ATMs use this card?
+      - What ATMs can I use this card at?
+      - Is there a Mastercard ATM nearby?
+      - What ATMs can I use this card?
+      - ATMs, which ones will accept this card?
+      - Will this card work at any ATM?
+      - Where is an ATM?
+      - Where can I find an ATM?
+      - Can you tell me where I can withdraw money?
+      - Do all ATMs accept this card?
+      - Where is the closest ATM I can use?
+      - What cash stations take this card?
+      - Do I have to use a bank approved ATM to withdraw money?
+      - Where should I withdraw money from?
+      - Are there any ATM's near me that accept this card?
+      - Are there only certain ATM machines where I can use this card?
+      - Where is the nearest ATM?
+      - Can I get cash from an ATM?
+      - Are there any ATMs around here?
+      - How do I find an ATM?
+      - What banks have ATMs close by?
+      - Where can I deposit money?
+      - How do I withdraw money from an ATM?
+      - Is there an ATM nearby?
+      - What ATMs are in my area?
+      - Can I find an ATM near me?
+      - Where can I find an ATM machine?
+      - What is the closest ATM machine?
+      - Where can I get cash from an ATM?
+      - Where can I find an ATM to deposit money?
+      - Is there a cash machine nearby?
+      - Is there an ATM I can use?
+      - What ATM can I use?
+      - Can I withdraw money from an ATM?
+      - What banks have ATMs near me?
+      - Are there any ATMs nearby?
+      - Is there an ATM that accepts my card?
+      - Is there a bank with an ATM nearby?
+      - Is there a cashpoint near me?
+      - Is there an ATM I can use to withdraw money?
+      - How can I find an ATM?
+      - Where can I get cash from my card?
+      - Where can I find an ATM to change my PIN?
+      - Where is the nearest ATM machine?
+      - Are there any ATMs that accept my card?
+      - Where can I find a cash machine?
+      - Are there any ATMs that I can use?
+      - How do I find a cash machine?
+      - Can I deposit money in an ATM?
+      - How do I find a bank with an ATM?
+      - Is there a cash machine I can use?
+      - Where is the nearest ATM that accepts my card?
+      - Where can I get cash from my debit card?
+      - What ATMs are in my area that accept my card?
+      - Where can I find an ATM to withdraw cash?
+      - Are there any ATMs around here that I can use?
+      - Is there a cash machine nearby that I can use?
+      - Is there an ATM I can use to deposit money?
+      - Where is the closest ATM?
+      - Can I use my card at an ATM?
+      - Where can I find a cashpoint to withdraw money?
+      - How can I locate an ATM near me?
+      - Where can I find an ATM to transfer money?
+      - What ATMs are available in my area?
+      - Where is the closest ATM to withdraw cash?
+      - Can I find an ATM to withdraw money?
+      - Is there an ATM I can use to transfer money?
+      - Are there any banks with ATMs near me?
+      - Is there a cash machine close by?
+      - How do I find an ATM to withdraw money?
+      - Where can I find an ATM to get cash?
+      - Are there any ATMs close by?
+      - Is there an ATM nearby that I can use?
+      - What ATMs accept my debit card?
+      - Are there any ATM's nearby?
+      - Can I change my PIN at an ATM?
+      - How can I find an ATM to deposit money?
+      - Where can I find an ATM to get cash from my card?
+      - Are there any ATMs around here that accept my card?
+      - What ATMs are open near me?
+      - Is there an ATM I can use to get cash?
 
-- intent: atm_issues
-  examples: |
-    - I requested money from the ATM and it didn't give me as much as I requested.
-    - totally unacceptable. I'm stranded with no cash because the ATM wouldn't give me any money!
-    - The cash I deposited using the ATM is still pending
-    - Why was my withdrawal requested cancelled by the ATM?
-    - I took out cash from the ATM, but something must have went wrong, My account shows the correct amount of cash I took out, but the ATM didn't give me that amount. How do I get my money back?
-    - Earlier today I took money out the ATM. After checking the app the amount is so much higher than the amount I received.
-    - Tried using my ATM card earlier at one of your locations for the first time. It didn't work. What is going on?
-    - I am so angry right now! I went to the ATM and did not get the correct amount of money I chose to withdraw. How could this happen? I need my money and want to know how I can get it ASAP!
-    - I was denied cash at an ATM
-    - I am unable to get cash from the ATM
-    - Why am I not able to get cash from the ATM?
-    - My ATM withdrawal is taking forever
-    - The ATM didn't give me the full requested amount
-    - I could not get money from an ATM
-    - How can I fix this? The ATM gave me more cash than I'd asked for.
-    - Why can I not get cash from the ATM?
-    - I was just giving the wrong amount by the ATM. How do I request cash back at this point? The app is showing the amount that I actually requested even though that's not what I got.
-    - I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it
-    - I tried to get funds in hard cash but it was rejected!
-    - How can I request cash back? The ATM gave me the wrong amount that I've been charged though...
-    - I received less cash than the amount I specified in the ATM.
-    - I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did. Help!
-    - I normally don't use ATMs, but I was in a rush today and had to withdraw some cash. The ATM gave me the wrong amount of money and now my app is not showing the same amount as it should. What do I do?
-    - The ATM gave me less cash than requested
-    - I did not get the right amount of cash from the ATM.
-    - Why was I not able to take cash from the ATM?
-    - What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.
-    - Can I use a different bank ATM than my own?
-    - I got less cash than what I specified at the ATM.
-    - The ATM didn't give me what I asked for but my balance says it did
-    - What happens if the ATM doesn't give the right amount of money?
-    - Is the ATM broken? I can't get cash from it.
-    - It kept my cash
-    - I couldnt get cash in an ATM
-    - This is the first time I've tried to get my money out of an ATM and it didn't work. Please give me my money
-    - Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?
-    - Why wont the ATM give me cash?
-    - I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy?
-    - The ATM is messed up. It gave me less than I wanted.
-    - Why did I not get the amount I specified at the ATM?
-    - my atm transaction was wrong
-    - The ATM didn't give me enough money.
-    - The ATM did not give me as much cash as I requested.
-    - My card will not work
-    - That's what I said, 23:55 night
-    - Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.
-    - I got some cash in the ATM but its still pending
-    - My card payment might have been reverted.
-    - What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.
-    - I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!
-    - Hello, I didn't receive the right amount on my ATM transaction, the app shows the correct amount how can we fix this
-    - The ATM is showing it gave me the money I requested but I didn't get that amount.
-    - According to the app, I got cash from an ATM but I haven't made any transactions.
-    - I asked for a certain amount of money from the ATM, but it gave me a different amount. Less than what I asked for.
-    - The amount of money I pushed at the atm machine did not come out of the machine.
-    - Help, the ATM didn't give me all the money I requested
-    - Why didn't I get the amount I requested at the ATM?
-    - I received incorrect amount of cash from an ATM today. It was more than I wanted. What do I do now?
-    - Where'd the rest of my cash go from the ATM
-    - ATM apparently not working? Couldn't access funds in my account?
-    - Did a WD earlier at an ATM. The amount showing in the App is more than I got though.
-    - I received the wrong amount of cash from the ATM. Can you help?
-    - I did not get all the cash at ATM.
-    - I can't get the ATM to give me any cash
-    - atm refused to give me money
-    - I got less cash at the ATM than I asked for. Why?
-    - The atm didn'y give me all the cash
-    - I was only given $20 when I tried to get $100
-    - The ATM didn't give me the amount I asked for
-    - What should I do with my stuck ATM?
-    - I am calling because the ATM didn't give me the right amount of cash, but my app shows the actual amount I wanted to withdraw. What should I do to get my money back?
-    - I couldn't get money from the ATM
-    - The machine only paid me a hundred when I wanted 20
-    - How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...
-    - I am at the ATM and tried to withdraw 30 pounds and it only gave me 10 pounds, what do I do?
-    - Can you please tell me why I cant get money from the ATM?
-    - My balance is not what I thought it was following an ATM withdrawal
-    - The app is showing that I received alot more money than I actually received from the ATM. This occurred earlier today.
-    - I could not access my money at the ATM
-    - I didn't get the correct amount of money from the ATM machine
-    - Why can't I withdraw cash?
-    - How come I can't get money at the ATM
-    - Why can't I take cash out of the ATM?
-    - I was getting some cash out of the ATM but it cancelled on me without warning.
-    - I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.
-    - Can you explain why the ATM is giving me less money than what I asked for?
-    - I didn't get the all the cash i wanted from the atm
-    - I could not get the cash I wanted
-    - My account shows up as pending after I received cash from the ATM earlier. How can this be still pending? I've got the cash already.
-    - The ATM wouldn't allow me to withdraw money
-    - How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.
-    - Can i get money in my home currency at some ATM ? As I am on holiday and bit concerned because i do not have any cash with me . Is it possible to withdraw without any additional cost.
-    - There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.
-    - When I went to $100, all the machine would give me was $20.
-    - I needed cash from the ATM but I couldn't get it.
-    - My ATM transaction was cancelled.
-    - Why can't I get cash from the ATM?
-    - Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working. I didn't actually receive the money, but I just checked and it says that the transaction is still pending. Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?
-    - The ATM didn't give me enough money! I asked for more than it gave. What do I do?
-    - The cash I got at the ATM is still in my account.
-    - Why can't I withdraw cash from this ATM?
-    - Cash withdrawal was incorrect at ATM.
-    - I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!
-    - ATM withdrawal not working.
-    - The ATM won't let me take out cash
-    - Some cash was missing at ATM.
-    - Where did my money go? I'm not able to withdraw it from my ATM.
-    - i asked for 100 only got 80
-    - I was not able to use the ATM to get cash
-    - Why was my cash withdrawal cancelled at the ATM?
-    - I tried pulling out money at the ATM and it gave me an incorrect amount back.
+  - intent: atm_issues
+    examples: |
+      - I requested money from the ATM and it didn't give me as much as I requested.
+      - totally unacceptable. I'm stranded with no cash because the ATM wouldn't give me any money!
+      - The cash I deposited using the ATM is still pending
+      - Why was my withdrawal requested cancelled by the ATM?
+      - I took out cash from the ATM, but something must have went wrong, My account shows the correct amount of cash I took out, but the ATM didn't give me that amount. How do I get my money back?
+      - Earlier today I took money out the ATM. After checking the app the amount is so much higher than the amount I received.
+      - Tried using my ATM card earlier at one of your locations for the first time. It didn't work. What is going on?
+      - I am so angry right now! I went to the ATM and did not get the correct amount of money I chose to withdraw. How could this happen? I need my money and want to know how I can get it ASAP!
+      - I was denied cash at an ATM
+      - I am unable to get cash from the ATM
+      - Why am I not able to get cash from the ATM?
+      - My ATM withdrawal is taking forever
+      - The ATM didn't give me the full requested amount
+      - I could not get money from an ATM
+      - How can I fix this? The ATM gave me more cash than I'd asked for.
+      - Why can I not get cash from the ATM?
+      - I was just giving the wrong amount by the ATM. How do I request cash back at this point? The app is showing the amount that I actually requested even though that's not what I got.
+      - I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it
+      - I tried to get funds in hard cash but it was rejected!
+      - How can I request cash back? The ATM gave me the wrong amount that I've been charged though...
+      - I received less cash than the amount I specified in the ATM.
+      - I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did. Help!
+      - I normally don't use ATMs, but I was in a rush today and had to withdraw some cash. The ATM gave me the wrong amount of money and now my app is not showing the same amount as it should. What do I do?
+      - The ATM gave me less cash than requested
+      - I did not get the right amount of cash from the ATM.
+      - Why was I not able to take cash from the ATM?
+      - What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.
+      - Can I use a different bank ATM than my own?
+      - I got less cash than what I specified at the ATM.
+      - The ATM didn't give me what I asked for but my balance says it did
+      - What happens if the ATM doesn't give the right amount of money?
+      - Is the ATM broken? I can't get cash from it.
+      - It kept my cash
+      - I couldnt get cash in an ATM
+      - This is the first time I've tried to get my money out of an ATM and it didn't work. Please give me my money
+      - Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?
+      - Why wont the ATM give me cash?
+      - I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy?
+      - The ATM is messed up. It gave me less than I wanted.
+      - Why did I not get the amount I specified at the ATM?
+      - my atm transaction was wrong
+      - The ATM didn't give me enough money.
+      - The ATM did not give me as much cash as I requested.
+      - My card will not work
+      - That's what I said, 23:55 night
+      - Hello, I tried to take out some money out of the ATM, but it's still showing that it's pending? I really don't want to be charged for this.
+      - I got some cash in the ATM but its still pending
+      - My card payment might have been reverted.
+      - What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.
+      - I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!
+      - Hello, I didn't receive the right amount on my ATM transaction, the app shows the correct amount how can we fix this
+      - The ATM is showing it gave me the money I requested but I didn't get that amount.
+      - According to the app, I got cash from an ATM but I haven't made any transactions.
+      - I asked for a certain amount of money from the ATM, but it gave me a different amount. Less than what I asked for.
+      - The amount of money I pushed at the atm machine did not come out of the machine.
+      - Help, the ATM didn't give me all the money I requested
+      - Why didn't I get the amount I requested at the ATM?
+      - I received incorrect amount of cash from an ATM today. It was more than I wanted. What do I do now?
+      - Where'd the rest of my cash go from the ATM
+      - ATM apparently not working? Couldn't access funds in my account?
+      - Did a WD earlier at an ATM. The amount showing in the App is more than I got though.
+      - I received the wrong amount of cash from the ATM. Can you help?
+      - I did not get all the cash at ATM.
+      - I can't get the ATM to give me any cash
+      - atm refused to give me money
+      - I got less cash at the ATM than I asked for. Why?
+      - The atm didn'y give me all the cash
+      - I was only given $20 when I tried to get $100
+      - The ATM didn't give me the amount I asked for
+      - What should I do with my stuck ATM?
+      - I am calling because the ATM didn't give me the right amount of cash, but my app shows the actual amount I wanted to withdraw. What should I do to get my money back?
+      - I couldn't get money from the ATM
+      - The machine only paid me a hundred when I wanted 20
+      - How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...
+      - I am at the ATM and tried to withdraw 30 pounds and it only gave me 10 pounds, what do I do?
+      - Can you please tell me why I cant get money from the ATM?
+      - My balance is not what I thought it was following an ATM withdrawal
+      - The app is showing that I received alot more money than I actually received from the ATM. This occurred earlier today.
+      - I could not access my money at the ATM
+      - I didn't get the correct amount of money from the ATM machine
+      - Why can't I withdraw cash?
+      - How come I can't get money at the ATM
+      - Why can't I take cash out of the ATM?
+      - I was getting some cash out of the ATM but it cancelled on me without warning.
+      - I tried to access money earlier but the machine seems not to be working. After looking, the transaction actually shows to still being process. Can you find out what is going on here? I don't want to be charged for some money I never got.
+      - Can you explain why the ATM is giving me less money than what I asked for?
+      - I didn't get the all the cash i wanted from the atm
+      - I could not get the cash I wanted
+      - My account shows up as pending after I received cash from the ATM earlier. How can this be still pending? I've got the cash already.
+      - The ATM wouldn't allow me to withdraw money
+      - How can I get money in my home currency while I'm traveling internationally? I wanted to take it out of a local ATM but am worried that I will get charged extra fees.
+      - Can i get money in my home currency at some ATM ? As I am on holiday and bit concerned because i do not have any cash with me . Is it possible to withdraw without any additional cost.
+      - There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.
+      - When I went to $100, all the machine would give me was $20.
+      - I needed cash from the ATM but I couldn't get it.
+      - My ATM transaction was cancelled.
+      - Why can't I get cash from the ATM?
+      - Hi there, earlier today I tried to take money out of an ATM machine, and something wasn't working. I didn't actually receive the money, but I just checked and it says that the transaction is still pending. Can you tell me what's going on here? Am I still being charged for the withdrawal even though I didn't end up getting any money?
+      - The ATM didn't give me enough money! I asked for more than it gave. What do I do?
+      - The cash I got at the ATM is still in my account.
+      - Why can't I withdraw cash from this ATM?
+      - Cash withdrawal was incorrect at ATM.
+      - I'm stuck here at your broken ATM and I don't know what to do next. Asked for 30 pounds, got 10. ATM said I got 30. Something very wrong here and I want my money now!
+      - ATM withdrawal not working.
+      - The ATM won't let me take out cash
+      - Some cash was missing at ATM.
+      - Where did my money go? I'm not able to withdraw it from my ATM.
+      - i asked for 100 only got 80
+      - I was not able to use the ATM to get cash
+      - Why was my cash withdrawal cancelled at the ATM?
+      - I tried pulling out money at the ATM and it gave me an incorrect amount back.
 
-- intent: atm_card_issues
-  examples: |
-    - The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?
-    - Can I use my card in another institutions ATM?
-    - The ATM didnt return my card!
-    - While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?
-    - What do I do now my credit card has been swallowed by the ATM?
-    - My card wont work at an ATM
-    - The ATM did not give me my card back?
-    - Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.
-    - Will any ATM's decline my card?
-    - What do I do if the ATM took my card?
-    - What ATMs take this card?
-    - A Bank ATM did not give my card back. What do I do now?
-    - My card was eaten by the cash machine what do I do?
-    - My card doesn't work. I can't get cash out at an ATM
-    - I tried to use the ATM today but it would not accept my card.
-    - what do I need to do if the ATM kept my card?
-    - What ATMs can I use my card at?
-    - Please provide me a list of ATMs that accept my card.
-    - My card was rejected
-    - Why won't the machine accept my card anymore?
-    - Is my card broken? I can't get cash out of the ATM
-    - What should I do since my card is trapped in the ATM?
-    - Where are the ATMs that I can use Mastercard?
-    - Where are the Mastercard ATMs?
-    - The ATM kept my card?
-    - My card is stuck in the ATM?
-    - How do I get a new card as your machine swallowed mine!
-    - Please send a new card; the ATM ate mine.
-    - I can't get my card out of the ATM
-    - How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.
-    - how to get new card after atm eats it
-    - The ATM sucked my card in.
-    - The bank machine didn't give my card back how do I get a new one fast?
-    - I cant get money out of the ATM with my card. I just put my card in the ATM but it will not allow me to take any money out. What do I need to do to fix this?
-    - I cannot get my card out of the ATM.
-    - Why has my top up been cancelled
-    - Am I limited to what ATM I can use my card?
-    - Which ATMs accept Mastercard?
-    - My card is stuck inside the ATM.
-    - What do I do after the ATM takes my card.
-    - What are the steps to get my card back that was kept by the ATM?
-    - How do I get my card back after the ATM swallowed it.
-    - I need a new card because the ATM took mine.
-    - The ATM keeps declining my card! I tried two different ATMs already can you please check if everything is alright with my account??
-    - I just had my card get declined at the ATM! I need to get money out but I am unable to. Why has this happened?
-    - Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.
-    - How do I get my card out of the ATM?
-    - The ATM machine ate my card.
-    - Why did the ATM swallow my card?
-    - I was getting cash and the card got stuck inside
-    - My card got stuck in an ATM.
-    - What are the steps I should take to recover my swallowed card?
-    - An ATM machine didn't return my card.
-    - I didn't get my card back from the ATM.
-    - An ATM machine didn't give me back my card.
-    - My card didn't work at the ATM in Notting Hill. Is my card working?
-    - The ATM won't give me my card back. I need it back now!
-    - What do I do if I can't get my card out of the ATM?
-    - I have lost my credit card in the ATM!
-    - How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?
-    - Why am I having trouble withdrawing cash?
-    - I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it
-    - atm ate my card
-    - Has my account been frozen? I tried to use my card but the ATM would not dispense cash.
-    - I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!
-    - I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?
-    - I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.
-    - Why was I blocked from withdrawing from the ATM?
-    - Is there a problem with my account? When I tried to withdraw cash at an ATM I was denied.
-    - How can I get my card out of the ATM?
-    - Your machine took my card. How do I get it back?
-    - Why did the ATM eat my card?
-    - My ATM card isn't working for a withdrawl
-    - What do I do if the ATM swallowed my card?
-    - Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?
-    - What should I do if the atm eats my card?
-    - An ATM swallowed my credit card!
-    - Why does the ATM continually decline my card? I've tried multiple times on different machines with the same results. I thought I had enough funds for this, so please help me understand why this is happening.
-    - Why is my card being declined at the ATM? I have tried multiple ATMs and i keep running into the same problem. Could you verify that everything is okay with my account?
-    - When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?
-    - I tried to get cash in the ATM but it was not approved
-    - What do I do if the machine rejects my card?
-    - I can't withdraw any money from my account. Ive tried a couple different ATM machines and both of them wouldn't give me my money. What's going on? Is my account frozen or something?
-    - How can I get my card out of the stupid ATM that ate it?
-- intent: card_delivery
-  examples: |
-    - My card is needed soon
-    - I need to find out where the card is that I ordered.
-    - How long does it take for deliver to the US?
-    - Can the card was sen to me be tracked?
-    - Can I track my card while it is in the process of delivery?
-    - "I would like to track a card sent to me, how do I do that?"
-    - How long does it take for cards to be delivered after ordering them?
-    - How long does it take to receive my card?
-    - "i am express delivering my card to the us, how long will that take"
-    - I need my card delivered as soon as possible.
-    - Can i choose a specific delivery date?
-    - How long until my new card gets here?
-    - Can you tell me why I haven't received my new card yet?
-    - Why has my new card still not come?
-    - Can I have it delivered on a specific date?
-    - Could you send me and up date on the arrival of my card?
-    - It's been a week since you sent my card and I still don't have it.
-    - Am I able to track a card that has already been sent?
-    - What is the wait time for delivery to the US?
-    - Can I specify a day for my card to be delivered?
-    - When can I expect my card? I live in the US.
-    - What locations are cards delivered to?
-    - I have been waiting over a week. Is the card still coming?
-    - I haven't gotten my new card.
-    - How long does it take for a new card to ship?
-    - Why hasn't my card arrived yet?
-    - "To deliver to the US, how long will it take?"
-    - I need my card to be delivered fast
-    - I would like to make sure it is delivered on a certain date.
-    - What's the earliest time to receive my card?
-    - I'm still waiting on my new card to be delivered!
-    - Will I have to wait much longer for my new card to arrive?
-    - When can I expect my card to arrive?
-    - Is there a way to track my card?
-    - How long does it take for my physical card to be delivered.
-    - My card still hasn't been delivered
-    - Please send my card as quickly as possible.
-    - Send me my card now! ASAP
-    - Can cards be dispatched on a specific date?
-    - can you share card tracking number?
-    - How long will it take to have my card mailed to me?
-    - I am still waiting on my card?
-    - Can it be delivered on a certain date?
-    - IS there anywhere that a card cannot be delivered?
-    - When can I expect my new card to get here?
-    - how to track the card you sent
-    - Does the card you sent have a tracking number?
-    - Where do your cards get delivered to?
-    - Is there a specific date it can be delivered by?
-    - When can I expect delivery?
-    - Where can the cards be delivered?
-    - Is it possible for me to track the card is was mailed to me?
-    - how long does it take to get my card i am in a rush
-    - How long will it take to deliver to the US?
-    - I need this to arrive before the 14 Jan
-    - how soon will my card arrive?
-    - How long does it take for the card to come?
-    - Is it possible to track the card you sent me?
-    - How long until my card will get here?
-    - "A card has been sent to me, how do I track it?"
-    - When can I expect my card?
-    - What's the card you sent me's tracking number?
-    - "If I ordered my new card last week, how much longer should I wait to receive it?"
-    - What can I do if my card still hasn't arrived after 2 weeks?
-    - Can you deliver the PIN separately?
-    - What's the tracking on the card you sent?
-    - Can you tell me when my card will arrive?
-    - Will I be able to track the card that was sent to me?
-    - i need to add express delivery if that's an option
-    - why hasnt my card come in yet?
-    - How do I track the card you sent to me?
-    - How long is the delivery to the US?
-    - I am still waiting for my card.
-    - Can I choose the day it's delivered?
-    - How many days to deliver to a US customer?
-    - Can I track the card that you sent me in the mail?
-    - Is there a way to track the new card you sent me?
-    - What areas are cards delivered to?
-    - How long should I wait for the card to arrive?
-    - Where can I have a new bank card sent to China?
-    - Where is my credit card that was to be mailed?
-    - What is the delivery time to the US?
-    - can the delivery be specific to my needs?
-    - Are the delivery days flexible? My schedule only allows me to be a available on specific dates.
-    - Have you sent out my card yet?
-    - I don't have my card in 1 week. Should I be worried?
-    - Am I able to track the card that was just sent to me?
-    - My card hasn't came in the mail yet?
-    - How do I know when my new card is going to arrive?
-    - Help! When will the card arrive at my home?
-    - I still haven't received my card in the mail
-    - I still haven't gotten my new card. When will it get here?
-    - When will my card come? I need it as soon as possible!
-    - My card hasn't arrived.
-    - How much longer is it going to take to get my new card?
-    - How can I check on the delivery status of my card?
-    - Was there a number to track that I could get?
-    - Where do we mail the card?
-    - Can I track the card you sent to me?
-    - Is there a reason my new card hasn't arrived?
-    - When did you send me my new card?
-    - When can I expect to receive my card?
-    - Is my new bank card on the way and is there a way to track it?
-    - Can you tell me if I can track the card you sent me?
-    - I lost track of my card
-    - Can you help me track my card?
-    - How long until the card arrives?
-    - can I choose delivery times to suite me?
-    - "My card has not been delivered yet and its been a week since I ordered it, please help"
-    - When will it get delivered?
-    - Can I track when my card will be delivered?
-    - Are cards delivered to my location?
-    - Is there anywhere In the Eu this card can not be delivered in
-    - Where is the tracking number for the card?
-    - I don't have my card after 1 week. What are my next steps?
-    - why have i not got my new card?
-    - Can it specifically be delivered on a certain date?
-    - I would like to track the card you sent to me.
-    - Can I receive my card anywhere?
-    - When will I get my new card?
-    - "I haven't received my card yet, how long does it normally take?"
-    - Can I pay more to get it deliver quicker?
-    - Is there a tracking number for the card you sent me?
-    - what is the leadtime for a new card to show up in the mail?
-    - How long is US delivery?
-    - When will I get my card shipped to me?
-    - How long are deliveries to the US?
-    - I haven't received my card and am worried it is lost.
-    - How long will it take my card to get here?
-    - Has my card been lost in delivery?
-    - What is delivery speed to the United States?
-    - Am I able to get this shipped to China?
-    - What do I do to get ahold of my own card?
-    - What is the status of my card's delivery?
-    - How do I get a new card sent to China?
-    - Do I have a say when it's delivered?
-    - "What's go on, where is my new card?"
-    - Can cards be delivered? Where?
-    - Where are the cards transported to?
-    - I know I'm getting a new card but would like know when I can expect to receive it.
-    - I ordered my card but it hasn't been delivered yet
-    - I haven't received my card.
-    - I need to get my card quickly
-    - Should I keep waiting for my card to be delivered?
-    - I'm still waiting for my card.
-    - My card never arrived.
-    - How long should it take for my new card to arrive in them mail? What should I do if I never receive it?
-    - Will my card be here soon?
-    - Where are your cards delivered to?
-    - What's the expected wait time to recieve my new card?
-    - My card isn't here yet.
-    - Where do you mail physical cards?
-    - I ordered a card and would like to know how to track the delivery progress of it.
-    - How long is the wait for my card?
-    - Where are the cards delivered to
-    - How long is delivery to the US?
-    - "I still haven't received my card after two weeks, is it lost?"
+  - intent: atm_card_issues
+    examples: |
+      - The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?
+      - Can I use my card in another institutions ATM?
+      - The ATM didnt return my card!
+      - While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?
+      - What do I do now my credit card has been swallowed by the ATM?
+      - My card wont work at an ATM
+      - The ATM did not give me my card back?
+      - Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.
+      - Will any ATM's decline my card?
+      - What do I do if the ATM took my card?
+      - What ATMs take this card?
+      - A Bank ATM did not give my card back. What do I do now?
+      - My card was eaten by the cash machine what do I do?
+      - My card doesn't work. I can't get cash out at an ATM
+      - I tried to use the ATM today but it would not accept my card.
+      - what do I need to do if the ATM kept my card?
+      - What ATMs can I use my card at?
+      - Please provide me a list of ATMs that accept my card.
+      - My card was rejected
+      - Why won't the machine accept my card anymore?
+      - Is my card broken? I can't get cash out of the ATM
+      - What should I do since my card is trapped in the ATM?
+      - Where are the ATMs that I can use Mastercard?
+      - Where are the Mastercard ATMs?
+      - The ATM kept my card?
+      - My card is stuck in the ATM?
+      - How do I get a new card as your machine swallowed mine!
+      - Please send a new card; the ATM ate mine.
+      - I can't get my card out of the ATM
+      - How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.
+      - how to get new card after atm eats it
+      - The ATM sucked my card in.
+      - The bank machine didn't give my card back how do I get a new one fast?
+      - I cant get money out of the ATM with my card. I just put my card in the ATM but it will not allow me to take any money out. What do I need to do to fix this?
+      - I cannot get my card out of the ATM.
+      - Why has my top up been cancelled
+      - Am I limited to what ATM I can use my card?
+      - Which ATMs accept Mastercard?
+      - My card is stuck inside the ATM.
+      - What do I do after the ATM takes my card.
+      - What are the steps to get my card back that was kept by the ATM?
+      - How do I get my card back after the ATM swallowed it.
+      - I need a new card because the ATM took mine.
+      - The ATM keeps declining my card! I tried two different ATMs already can you please check if everything is alright with my account??
+      - I just had my card get declined at the ATM! I need to get money out but I am unable to. Why has this happened?
+      - Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.
+      - How do I get my card out of the ATM?
+      - The ATM machine ate my card.
+      - Why did the ATM swallow my card?
+      - I was getting cash and the card got stuck inside
+      - My card got stuck in an ATM.
+      - What are the steps I should take to recover my swallowed card?
+      - An ATM machine didn't return my card.
+      - I didn't get my card back from the ATM.
+      - An ATM machine didn't give me back my card.
+      - My card didn't work at the ATM in Notting Hill. Is my card working?
+      - The ATM won't give me my card back. I need it back now!
+      - What do I do if I can't get my card out of the ATM?
+      - I have lost my credit card in the ATM!
+      - How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?
+      - Why am I having trouble withdrawing cash?
+      - I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it
+      - atm ate my card
+      - Has my account been frozen? I tried to use my card but the ATM would not dispense cash.
+      - I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!
+      - I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?
+      - I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.
+      - Why was I blocked from withdrawing from the ATM?
+      - Is there a problem with my account? When I tried to withdraw cash at an ATM I was denied.
+      - How can I get my card out of the ATM?
+      - Your machine took my card. How do I get it back?
+      - Why did the ATM eat my card?
+      - My ATM card isn't working for a withdrawl
+      - What do I do if the ATM swallowed my card?
+      - Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?
+      - What should I do if the atm eats my card?
+      - An ATM swallowed my credit card!
+      - Why does the ATM continually decline my card? I've tried multiple times on different machines with the same results. I thought I had enough funds for this, so please help me understand why this is happening.
+      - Why is my card being declined at the ATM? I have tried multiple ATMs and i keep running into the same problem. Could you verify that everything is okay with my account?
+      - When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?
+      - I tried to get cash in the ATM but it was not approved
+      - What do I do if the machine rejects my card?
+      - I can't withdraw any money from my account. Ive tried a couple different ATM machines and both of them wouldn't give me my money. What's going on? Is my account frozen or something?
+      - How can I get my card out of the stupid ATM that ate it?
+  - intent: card_delivery
+    examples: |
+      - My card is needed soon
+      - I need to find out where the card is that I ordered.
+      - How long does it take for deliver to the US?
+      - Can the card was sen to me be tracked?
+      - Can I track my card while it is in the process of delivery?
+      - "I would like to track a card sent to me, how do I do that?"
+      - How long does it take for cards to be delivered after ordering them?
+      - How long does it take to receive my card?
+      - "i am express delivering my card to the us, how long will that take"
+      - I need my card delivered as soon as possible.
+      - Can i choose a specific delivery date?
+      - How long until my new card gets here?
+      - Can you tell me why I haven't received my new card yet?
+      - Why has my new card still not come?
+      - Can I have it delivered on a specific date?
+      - Could you send me and up date on the arrival of my card?
+      - It's been a week since you sent my card and I still don't have it.
+      - Am I able to track a card that has already been sent?
+      - What is the wait time for delivery to the US?
+      - Can I specify a day for my card to be delivered?
+      - When can I expect my card? I live in the US.
+      - What locations are cards delivered to?
+      - I have been waiting over a week. Is the card still coming?
+      - I haven't gotten my new card.
+      - How long does it take for a new card to ship?
+      - Why hasn't my card arrived yet?
+      - "To deliver to the US, how long will it take?"
+      - I need my card to be delivered fast
+      - I would like to make sure it is delivered on a certain date.
+      - What's the earliest time to receive my card?
+      - I'm still waiting on my new card to be delivered!
+      - Will I have to wait much longer for my new card to arrive?
+      - When can I expect my card to arrive?
+      - Is there a way to track my card?
+      - How long does it take for my physical card to be delivered.
+      - My card still hasn't been delivered
+      - Please send my card as quickly as possible.
+      - Send me my card now! ASAP
+      - Can cards be dispatched on a specific date?
+      - can you share card tracking number?
+      - How long will it take to have my card mailed to me?
+      - I am still waiting on my card?
+      - Can it be delivered on a certain date?
+      - IS there anywhere that a card cannot be delivered?
+      - When can I expect my new card to get here?
+      - how to track the card you sent
+      - Does the card you sent have a tracking number?
+      - Where do your cards get delivered to?
+      - Is there a specific date it can be delivered by?
+      - When can I expect delivery?
+      - Where can the cards be delivered?
+      - Is it possible for me to track the card is was mailed to me?
+      - how long does it take to get my card i am in a rush
+      - How long will it take to deliver to the US?
+      - I need this to arrive before the 14 Jan
+      - how soon will my card arrive?
+      - How long does it take for the card to come?
+      - Is it possible to track the card you sent me?
+      - How long until my card will get here?
+      - "A card has been sent to me, how do I track it?"
+      - When can I expect my card?
+      - What's the card you sent me's tracking number?
+      - "If I ordered my new card last week, how much longer should I wait to receive it?"
+      - What can I do if my card still hasn't arrived after 2 weeks?
+      - Can you deliver the PIN separately?
+      - What's the tracking on the card you sent?
+      - Can you tell me when my card will arrive?
+      - Will I be able to track the card that was sent to me?
+      - i need to add express delivery if that's an option
+      - why hasnt my card come in yet?
+      - How do I track the card you sent to me?
+      - How long is the delivery to the US?
+      - I am still waiting for my card.
+      - Can I choose the day it's delivered?
+      - How many days to deliver to a US customer?
+      - Can I track the card that you sent me in the mail?
+      - Is there a way to track the new card you sent me?
+      - What areas are cards delivered to?
+      - How long should I wait for the card to arrive?
+      - Where can I have a new bank card sent to China?
+      - Where is my credit card that was to be mailed?
+      - What is the delivery time to the US?
+      - can the delivery be specific to my needs?
+      - Are the delivery days flexible? My schedule only allows me to be a available on specific dates.
+      - Have you sent out my card yet?
+      - I don't have my card in 1 week. Should I be worried?
+      - Am I able to track the card that was just sent to me?
+      - My card hasn't came in the mail yet?
+      - How do I know when my new card is going to arrive?
+      - Help! When will the card arrive at my home?
+      - I still haven't received my card in the mail
+      - I still haven't gotten my new card. When will it get here?
+      - When will my card come? I need it as soon as possible!
+      - My card hasn't arrived.
+      - How much longer is it going to take to get my new card?
+      - How can I check on the delivery status of my card?
+      - Was there a number to track that I could get?
+      - Where do we mail the card?
+      - Can I track the card you sent to me?
+      - Is there a reason my new card hasn't arrived?
+      - When did you send me my new card?
+      - When can I expect to receive my card?
+      - Is my new bank card on the way and is there a way to track it?
+      - Can you tell me if I can track the card you sent me?
+      - I lost track of my card
+      - Can you help me track my card?
+      - How long until the card arrives?
+      - can I choose delivery times to suite me?
+      - "My card has not been delivered yet and its been a week since I ordered it, please help"
+      - When will it get delivered?
+      - Can I track when my card will be delivered?
+      - Are cards delivered to my location?
+      - Is there anywhere In the Eu this card can not be delivered in
+      - Where is the tracking number for the card?
+      - I don't have my card after 1 week. What are my next steps?
+      - why have i not got my new card?
+      - Can it specifically be delivered on a certain date?
+      - I would like to track the card you sent to me.
+      - Can I receive my card anywhere?
+      - When will I get my new card?
+      - "I haven't received my card yet, how long does it normally take?"
+      - Can I pay more to get it deliver quicker?
+      - Is there a tracking number for the card you sent me?
+      - what is the leadtime for a new card to show up in the mail?
+      - How long is US delivery?
+      - When will I get my card shipped to me?
+      - How long are deliveries to the US?
+      - I haven't received my card and am worried it is lost.
+      - How long will it take my card to get here?
+      - Has my card been lost in delivery?
+      - What is delivery speed to the United States?
+      - Am I able to get this shipped to China?
+      - What do I do to get ahold of my own card?
+      - What is the status of my card's delivery?
+      - How do I get a new card sent to China?
+      - Do I have a say when it's delivered?
+      - "What's go on, where is my new card?"
+      - Can cards be delivered? Where?
+      - Where are the cards transported to?
+      - I know I'm getting a new card but would like know when I can expect to receive it.
+      - I ordered my card but it hasn't been delivered yet
+      - I haven't received my card.
+      - I need to get my card quickly
+      - Should I keep waiting for my card to be delivered?
+      - I'm still waiting for my card.
+      - My card never arrived.
+      - How long should it take for my new card to arrive in them mail? What should I do if I never receive it?
+      - Will my card be here soon?
+      - Where are your cards delivered to?
+      - What's the expected wait time to recieve my new card?
+      - My card isn't here yet.
+      - Where do you mail physical cards?
+      - I ordered a card and would like to know how to track the delivery progress of it.
+      - How long is the wait for my card?
+      - Where are the cards delivered to
+      - How long is delivery to the US?
+      - "I still haven't received my card after two weeks, is it lost?"
 
-- intent: card_activation
-  examples: |
-    - I want to activate the card.
-    - I already have a card and want to link it
-    - "I got a new card, how do I link it?"
-    - My new card came in. How do I activate?
-    - "I want to reactivate my card, I thought I had lost it but I found it."
-    - How can my new card be activated?
-    - How do I link a new card in the app?
-    - "I want to reactivate my card, I thought I had lost it but found it again in my jacket."
-    - Please help me with my card. It won't activate.
-    - "I found my card, how can I use it again?"
-    - how long should i wait ti activate my card
-    - How can I activate the new card i got?
-    - How do I get my card active?
-    - How do I activate my card that just arrived?
-    - What do I have to do to activate my card?
-    - Could you please tell me how to activate my new card?
-    - I need some help linking my new card.
-    - Can I activate my card?
-    - Activate my card
-    - "How do I activate my card, so that I can start using it?"
-    - "With my new card, how may I activate it?"
-    - How can I activate my new card? I didn't recieve any information with it about how to do so.
-    - I tried activating my card and it doesn't work how do I solve this problem?
-    - I just received my card and I'd like to activate it.
-    - "The activation process did not work, please help?"
-    - I tired but an unable to activate my card.
-    - "I am unable to activate my card, it won't let me."
-    - "I've obtained the card, how do I enable it on the app?"
-    - I have a card that was deactivated can I reactivate it?
-    - How do I activate my new card
-    - I would like to reactivate a card and wondered if that could be done?
-    - I need assistance to activate the card on my account.
-    - "I found my card that I thought I had lost, I need to reactive it, please help."
-    - "I found the card that I thought I lost, and I would like to reactivate it."
-    - How do I activate a card?
-    - Can I activate my card with the app?
-    - Show me how to activate my card
-    - Where do I go to activate my card?
-    - What are the steps that I need to take to activate a new card?
-    - "I blocked my card by mistake, how do I unblock it?"
-    - "I want to reactivate my card, I found it after thinking it was lost."
-    - "I want to activate my card, how do I do it?"
-    - How do I turn on my new card?
-    - Can I get some help to get me card activated?
-    - I would like my card activated.
-    - Can I reactivate a card?
-    - Can someone assist me with activating my new card?
-    - "Yes, I want to activate it"
-    - Explain the activation method for this card
-    - What is the process for activating a new card.
-    - What is the process for activating my card and using it?
-    - "What are the steps to activate the card, as it does not seem to work?"
-    - I need assistance activating my card?
-    - Help me access the card I already got so I can information from it.
-    - I would like to activate my card what do I need to do?
-    - "I want to start using my card, how do I activate it?"
-    - It won't let me activate my card.
-    - can you assist me in activating my card?
-    - Can I call to get my card activated?
-    - How can I make my card ready to use?
-    - Can you help me activate my card
-    - Please assist me in activating the card.
-    - Do I need a photo ID to activate a my new card?
-    - What would II do if I wanted to activate my new card
-    - I tried activating my card and it didn't work
-    - I need my card activated.
-    - How do i activate my card
-    - What is the most efficient way to activate my new card?
-    - "I want to reactivate my card, I thought I had lost it but found it again this morning."
-    - what are the steps to activate my card?
-    - "Hi, would you please activate my card?"
-    - Can I activate a card in the app?
-    - When are you going to activate my card?
-    - Can I have my card activated?
-    - What do I need to do in order to use my card I just got?
-    - What's the process to receive a second card?"The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?"
-    - Card activation steps
-    - I deactivated my card but would like to reactivate it.
-    - What's the process to receive a second card?"I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat."
-    - What's the process to receive a second card?"I would like to re-activate my card, it was previously reported lost but I found it this morning."
-    - What needs to be done to activate and use a card?
-    - I found my card! Can I link it back into the app?
-    - What's the process to receive a second card?"I received my card, how do I get it to show in the app?"
-    - Who do I call to activate my new card?
-    - I found the card I thought I lost this morning. Can I reactivate this card?
-    - Can someone assist me with activating my card?
-    - "lost card found, want to put it back in app"
-    - I would like to reactivate my card that I previously reported lost. I located the card this morning.
-    - Is my new card activated?
-    - How do I link an existing card?
-    - What is needed to activate my card?
-    - Tell me what I need to do to activate my card.
-    - "I just got a new card, and I want to know how to activate."
-    - "Okay, I found my card, can I put it back in the app?"
-    - "I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?"
-    - "The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?"
-    - Can you please reactivate my card?
-    - i cannot seem to activate card
-    - "I need to activate my card, how is that done?"
-    - "You can activate your card in a few seconds by going to account, hitting activate, and just following the directions."
-    - if i found a lost card can i put it back in app
-    - I just got my new card. How can I activate it?
-    - "My new card has arrived, what's the activation procedure?"
-    - "I just got my new card, how do I activate it?"
-    - Can I reactivate my card? I reported it lost and found it this morning in my jacket.
-    - I tried activation my card and it didn't employment
-    - Where can I link a new card?
-    - What is the proper way to activate a card?
-    - "I have one of your cards, but I don't know how to link it."
-    - How do I reactivate my card?
-    - I would like to link my card to my account.
-    - What steps do I have to go through in order to activate my new card?
-    - "Just received my replacement card, what steps do i need to take to activate it?"
-    - I need to actuate my card.
-    - How can i make my card active?
-    - Please assist me with activation.
-    - Can you tell me how I go about activating a new card?
-    - what do i need to have with me to activate card
-    - Instructions for activating card
-    - How do I add the card I just received to show up in the app?
-    - I just got a new card how do I get it to start working?
-    - How do I get started when I get my card?
-    - "I want to use my card, how would I activate it?"
-    - My card activation attempt failed.
-    - Can you activate my card pls
-    - Is my card ready for use or does it need activated and if so how?
-    - How do I activate my new card I just got?
-    - I can't activate my card?
-    - will you be able to activate my card
-    - My card is not able to be activated how do I get it to work?
-    - I want to activate my new card.
-    - I'm not able to activate my card how do I fix this problem?
-    - How long does it take to activate my card?
-    - Help me activate my new card.
-    - The activation process for my card isn't working.
-    - What information do I need to gather in order to activate my card?
-    - I need to activate my card.
-    - I am having trouble activating my card.
-    - What am I going to need in order to activate my card?
-    - What do I need to do for the card activation?
-    - "Card has been received, how will it show up on the app?"
-    - How do I activate my card so I can start using it?
-    - What do I need for activation of my card?
-    - I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.
-    - Do I have to go somewhere to activate my card?
-    - My card needs to be activated asap
+  - intent: card_activation
+    examples: |
+      - I want to activate the card.
+      - I already have a card and want to link it
+      - "I got a new card, how do I link it?"
+      - My new card came in. How do I activate?
+      - "I want to reactivate my card, I thought I had lost it but I found it."
+      - How can my new card be activated?
+      - How do I link a new card in the app?
+      - "I want to reactivate my card, I thought I had lost it but found it again in my jacket."
+      - Please help me with my card. It won't activate.
+      - "I found my card, how can I use it again?"
+      - how long should i wait ti activate my card
+      - How can I activate the new card i got?
+      - How do I get my card active?
+      - How do I activate my card that just arrived?
+      - What do I have to do to activate my card?
+      - Could you please tell me how to activate my new card?
+      - I need some help linking my new card.
+      - Can I activate my card?
+      - Activate my card
+      - "How do I activate my card, so that I can start using it?"
+      - "With my new card, how may I activate it?"
+      - How can I activate my new card? I didn't recieve any information with it about how to do so.
+      - I tried activating my card and it doesn't work how do I solve this problem?
+      - I just received my card and I'd like to activate it.
+      - "The activation process did not work, please help?"
+      - I tired but an unable to activate my card.
+      - "I am unable to activate my card, it won't let me."
+      - "I've obtained the card, how do I enable it on the app?"
+      - I have a card that was deactivated can I reactivate it?
+      - How do I activate my new card
+      - I would like to reactivate a card and wondered if that could be done?
+      - I need assistance to activate the card on my account.
+      - "I found my card that I thought I had lost, I need to reactive it, please help."
+      - "I found the card that I thought I lost, and I would like to reactivate it."
+      - How do I activate a card?
+      - Can I activate my card with the app?
+      - Show me how to activate my card
+      - Where do I go to activate my card?
+      - What are the steps that I need to take to activate a new card?
+      - "I blocked my card by mistake, how do I unblock it?"
+      - "I want to reactivate my card, I found it after thinking it was lost."
+      - "I want to activate my card, how do I do it?"
+      - How do I turn on my new card?
+      - Can I get some help to get me card activated?
+      - I would like my card activated.
+      - Can I reactivate a card?
+      - Can someone assist me with activating my new card?
+      - "Yes, I want to activate it"
+      - Explain the activation method for this card
+      - What is the process for activating a new card.
+      - What is the process for activating my card and using it?
+      - "What are the steps to activate the card, as it does not seem to work?"
+      - I need assistance activating my card?
+      - Help me access the card I already got so I can information from it.
+      - I would like to activate my card what do I need to do?
+      - "I want to start using my card, how do I activate it?"
+      - It won't let me activate my card.
+      - can you assist me in activating my card?
+      - Can I call to get my card activated?
+      - How can I make my card ready to use?
+      - Can you help me activate my card
+      - Please assist me in activating the card.
+      - Do I need a photo ID to activate a my new card?
+      - What would II do if I wanted to activate my new card
+      - I tried activating my card and it didn't work
+      - I need my card activated.
+      - How do i activate my card
+      - What is the most efficient way to activate my new card?
+      - "I want to reactivate my card, I thought I had lost it but found it again this morning."
+      - what are the steps to activate my card?
+      - "Hi, would you please activate my card?"
+      - Can I activate a card in the app?
+      - When are you going to activate my card?
+      - Can I have my card activated?
+      - What do I need to do in order to use my card I just got?
+      - What's the process to receive a second card?"The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?"
+      - Card activation steps
+      - I deactivated my card but would like to reactivate it.
+      - What's the process to receive a second card?"I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat."
+      - What's the process to receive a second card?"I would like to re-activate my card, it was previously reported lost but I found it this morning."
+      - What needs to be done to activate and use a card?
+      - I found my card! Can I link it back into the app?
+      - What's the process to receive a second card?"I received my card, how do I get it to show in the app?"
+      - Who do I call to activate my new card?
+      - I found the card I thought I lost this morning. Can I reactivate this card?
+      - Can someone assist me with activating my card?
+      - "lost card found, want to put it back in app"
+      - I would like to reactivate my card that I previously reported lost. I located the card this morning.
+      - Is my new card activated?
+      - How do I link an existing card?
+      - What is needed to activate my card?
+      - Tell me what I need to do to activate my card.
+      - "I just got a new card, and I want to know how to activate."
+      - "Okay, I found my card, can I put it back in the app?"
+      - "I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?"
+      - "The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?"
+      - Can you please reactivate my card?
+      - i cannot seem to activate card
+      - "I need to activate my card, how is that done?"
+      - "You can activate your card in a few seconds by going to account, hitting activate, and just following the directions."
+      - if i found a lost card can i put it back in app
+      - I just got my new card. How can I activate it?
+      - "My new card has arrived, what's the activation procedure?"
+      - "I just got my new card, how do I activate it?"
+      - Can I reactivate my card? I reported it lost and found it this morning in my jacket.
+      - I tried activation my card and it didn't employment
+      - Where can I link a new card?
+      - What is the proper way to activate a card?
+      - "I have one of your cards, but I don't know how to link it."
+      - How do I reactivate my card?
+      - I would like to link my card to my account.
+      - What steps do I have to go through in order to activate my new card?
+      - "Just received my replacement card, what steps do i need to take to activate it?"
+      - I need to actuate my card.
+      - How can i make my card active?
+      - Please assist me with activation.
+      - Can you tell me how I go about activating a new card?
+      - what do i need to have with me to activate card
+      - Instructions for activating card
+      - How do I add the card I just received to show up in the app?
+      - I just got a new card how do I get it to start working?
+      - How do I get started when I get my card?
+      - "I want to use my card, how would I activate it?"
+      - My card activation attempt failed.
+      - Can you activate my card pls
+      - Is my card ready for use or does it need activated and if so how?
+      - How do I activate my new card I just got?
+      - I can't activate my card?
+      - will you be able to activate my card
+      - My card is not able to be activated how do I get it to work?
+      - I want to activate my new card.
+      - I'm not able to activate my card how do I fix this problem?
+      - How long does it take to activate my card?
+      - Help me activate my new card.
+      - The activation process for my card isn't working.
+      - What information do I need to gather in order to activate my card?
+      - I need to activate my card.
+      - I am having trouble activating my card.
+      - What am I going to need in order to activate my card?
+      - What do I need to do for the card activation?
+      - "Card has been received, how will it show up on the app?"
+      - How do I activate my card so I can start using it?
+      - What do I need for activation of my card?
+      - I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.
+      - Do I have to go somewhere to activate my card?
+      - My card needs to be activated asap
 
-- intent: funds_transfer
-  examples: |
-    - With my credit card i would like to transfer money.
-    - pay the red cross the monthly donation
-    - deposit ten bucks from my chase account to my ally account
-    - i want to pay my house bill
-    - send over 50 dollars between my shared and not shared accounts
-    - i need you to send 500 dollars from my high tier account to my regular checking account
-    - pay my internet bill with my discover account
-    - I know, I tried it in my online app like 10 times! send that to my debit card
-    - please pay my bill
-    - transfer money from one place to another
-    - How can I transfer money using my credit card?
-    - transfer sixty dollars to dad from my biggest accnt
-    - can you assist me in paying my electric bill
-    - make a transfer of 200 from my savings account to my checking account
-    - How do I go about transferring money using my credit card?
-    - i got to pay my cable bill
-    - please send ten dollars from bank of america to capital one
-    - Is it simple to transfer money using my credit card?
-    - need to transfer from one account to my other one
-    - i 'd like to make a payment on my credit card bill
-    - i need help paying my auto insurance bill
-    - can you transfer 5 from savings to checking
-    - please transfer x from checking to saving
-    - help me move my money
-    - Is it possible to transfer money to my credit card?
-    - i need to transfer from this account to that one
-    - i need to pay my bill
-    - i need help paying my cable bill
-    - I'd like to use my American Express to place money into my account.
-    - whats the quickest way to money from one account to another
-    - i must pay my cable bill
-    - pay the electric bill
-    - transfer 40 from account a to b
-    - can i initiate a one time transfer from my savings account to my money market account
-    - I must quickly transfer something from China, and I need to know how long it will take.
-    - pay my electric bill from my amex account
-    - i need to throw some money into that other account
-    - my water bill is due , pay it immediately
-    - please transfer 100 from my checking to my savings account
-    - use my park bank account to pay my electric bill
-    - please help me pay my cable bill
-    - I want to transfer money using my credit card.
-    - help me pay my cable bill
-    - Help! I need to transfer something to China.
-    - are you able to help me pay my mortgage
-    - use my checkings account to pay the electric bill
-    - time to move some cash from one account to another
-    - move 57 dollars from saving into mom
-    - i want to pay my bill , please
-    - please transfer s from saving to checking
-    - i got to transfer ten dollars from my bank of america account to my capital one account
-    - yes make the transfer
-    - Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.
-    - transfer 20000 from my savings account to checking account
-    - transfer 100 dollars checking to savings
-    - transfer between two accounts
-    - can you help me pay this bill
-    - i need ten dollars sent from b of a to washington mutual
-    - move my money please
-    - i need to get help paying my gas bill
-    - i want to initiate a transfer from one account to the other
-    - transfer two hundred dollars between my portfolio and my money market account
-    - will you aid me in paying my insurance premium
-    - can i pay a bill
-    - send 20 dollars from savings to checking
-    - take 20000 from savings and put it in checking
-    - i need to pay my cable bill from my checking account
-    - go ahead and pay my american express bill now
-    - send 50 dollars between bank of america and chase accounts
-    - move 40 from account b to account a
-    - I'd like to transfer funds using my credit card.
-    - pay my cable bill from my facebook account
-    - I want to transfer money with my credit card.
-    - pay electric
-    - Hoe do i use my credit card to transfer money?
-    - i must transfer ten dollars from my bank of america account to my capital one account
-    - i need help paying my water bill
-    - i need to transfer from one account to my second one
-    - please pay electric bill
-    - i want to pay my insurance bill
-    - transfer 5 from savings to checking
-    - put 20000 into my checking account from my savings account
-    - i need help to pay my electric bill
-    - move 100 dollars from checking to savings
-    - put a hundred dollars in my ally account from bluebird
-    - is there anyone available to help pay an internet bill
-    - do a car payment from my savings account
-    - What do I need to do to transfer money with my credit card?
-    - transfer 100 dollars between checking and savings
-    - What information am I going to have to have in order to do a transfer with my card?
-    - i would like to pay my cell phone bill
-    - i want to pay that bill now
-    - i need my money to be moved
-    - pay my insurance bill
-    - pay the cable bill with my visa card
-    - transfer fifty dollars between my chase and bank of america account
-    - pay my water bill with my charles schwab account
-    - can i pay my bill
-    - send my money between accounts
-    - i need to move my money
-    - take 40 and transfer it to account a from b
-    - Can I have money transferred into my account at different intervals along my trip?
-    - put 40 from account a to b
-    - transfer 200 dollars from paypal to savings
-    - can you transfer money from my account
-    - I need to transfer something from China, How long will it take?
-    - i must pay my cable bill from my checking account
-    - i need help paying my store bill
-    - pay a bribe using my money market account
-    - will you take my bill payment
-    - i want to do a payment on my water bill
-    - i have to transfer ten dollars from my bank of america account to my capital one account
-    - send money to another account
-    - i wanna pay my cable bill from my checking account
-    - transfer 10 from checking to savings
-    - send 400 dollars between city bank and usaa accounts
-    - i want to pay my car bill
-    - can you give me a hand paying my water bill
-    - help me move my money please
-    - transfer 500 from my money market savings account to my checking account
-    - help me transfer x from credit to debit
-    - I want to know how to transfer money with my credit card
-    - That's what I said, send it to terez lara today at 10:25 a.m.
-    - i need to make a bill payment
-    - i need to pay my water bill
-    - is it possible to pay my bill
-    - i want to pay my electric bill
-    - i want to pay my internet bill
-    - send money from one account to another
-    - send 100 from paypal to my bank
-    - make a payment on the electric bill
-    - please transfer 250 from checking to savings
-    - move money from one account to another
-    - i 'd really like to pay this bill
-    - pay my water bill from my checking account
-    - i need your help to pay my gas bill
-    - please transfer 50 to my checking account from credit
-    - transfer 500 from my checking to my savings
-    - i really want to pay my cable bill from my checking account
-    - pay my gas bill from my saving account
-- intent: funds_transfer_cancel
-  examples: |
-    - What do I need to do to cancel a transaction?
-    - How can I cancel a transfer I made
-    - How do I cancel a transfer?
-    - Is it possible for a transaction to be cancelled?
-    - I have a transaction and would like to know if I it's cancelable?
-    - I need to cancel a transaction please!
-    - I need to cancel a transaction immediately.
-    - Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?
-    - I don't think the transaction has gone through, so can I cancel a transfer?
-    - How do I cancel a recent transfer?
-    - I entered a typo when I was transferring money and now I've sent it to an incorrect account. This is so bad! I need it cancelled now.
-    - Please help revert my transaction from this morning.
-    - Please cancel my most recent transfer, it was a mistake. This is an emergency. It needs to be canceled
-    - yes cancel it now
-    - My transaction from earlier needs to be reversed.
-    - I did a transaction to a wrong account!
-    - I need to cancel my recent transfer as soon as possible. I made an error there. Please help before it goes through.
-    - I would like to cancel a transfer...is this possible?
-    - It is extremely important that I cancel the transfer I made yesterday and put the money into a different account. Is this possible?
-    - I made a mistake and need to cancel a transfer.
-    - I just realized I made the wrong transaction yesterday. Would you please make it correct?I need it by tomorrow Please.
-    - I would like help to revert a transaction I did this morning
-    - I needed to make a payment on my account, but I typed in the incorrect number. The app won't allow me to cancel this transaction. I need it cancelled ASAP!!
-    - Please cancel the transfer I just made. I put in the wrong account number and can't seem to stop it on the app.
-    - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app.
-    - I no longer want to transfer funds, can we cancel that transaction?
-    - How do I fix a transaction to the wrong account?
-    - Is it possible to cancel my transfer?
-    - Help me cancel a transaction.
-    - How do I cancel a transaction?
-    - I made a transaction this morning but I need to revert it now.
-    - Can you help me to quickly cancel a transaction I accidentally did to the wrong account?
-    - I want to revert a transaction I did this morning
-    - I need to cancel a transaction on my debit card.
-    - Could I please cancel my transfer, I paid it into the wrong account. I need to pay it into the right account by tomorrow.
-    - Am I able to cancel a transfer I just made
-    - I need a transfer cancelled.
-    - One of my transactions needs to be canceled.
-    - I need to cancel a transfer
-    - I need to cancel my recent transfer. I made a mistake. Please help quickly before the transfer goes through.
-    - I didn't mean to do the transfer, is there any way to cancel it?
-    - I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?
-    - I made a transaction to the wrong account!
-    - I made a transfer into my account and now I need to cancel it
-    - Can I cancel a transaction?
-    - I want to reverse a transaction I did this morning
-    - My morning transaction needs to be canceled.
-    - I didn't want to make a transaction, I want to revert it
-    - Is there a way to revert a transaction?
-    - I made a rent payment from the wrong account yesterday. It absolutely has to go through tomorrow, so can you please reroute the payment to the right account?
-    - Is there any way to cancel a recent transfer? I did not mean to make it and need to make sure it does not go through.
-    - I need to cancel a transaction.
-    - I made a mistake and did a transaction to a wrong account, can I cancel?
-    - There's been a transaction to the wrong account.
-    - Who do I call to cancel a transfer?
-    - If I make a mistake can I cancel the transaction?
-    - Is there any way to cancel my transfer
-    - I would like to cancel my previous transaction
-    - i want to cancel my loan asap let me talk to the manager
-    - I recently made a transfer that I would like to cancel
-    - stop the transaction
-    - I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow
-    - I've just made a money transfer to the wrong account, I need to stop the money from being moved as it may be going to someone I don't know. Please can you help?
-    - I need immediate assistance in canceling a transfer which was a mistake. Please help me quickly so this does not go through.
-    - I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?
-    - How fast can you fix an error in payment? I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.
-    - Please help me! A payment I made had an error on the account number and I can't cancel on my side. Can you cancel it?
-    - Please cancel my last transaction.
-    - I want to cancel a transaction from this morning.
-    - Help! I need to cancel a transaction.
-    - How do i cancel a charge?
-    - I goofed up and used the wrong account. Please help.
-    - I've made a horrible mistake! I transferred money to the wrong account by accident! I entered one of the digits wrong. I need this cancelled immediately please.
-    - How can I revert a transaction from this morning?
-    - What are the steps I need to take to cancel a transaction?
-    - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer immediately. I cannot do anything from the app.
-    - I did a transaction this morning and now I want to cancel it.
-    - I want to cancel a transaction.
-    - I need help right now. I realize I sent my payment to the wrong account number after making a typo. Please cancel the transfer now since I can't do it from the app.
-    - Under what condition will my payment revert?
-    - I need to stop a transaction that I made.
-    - I want to cancel a transfer I just made.
-    - How can I cancel a transaction to a wrong account?
-    - Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.
-    - Can I cancel a transfer I made
-    - My last ATM request did not go through due to a declined card. Please cancel the request on my account.
-    - When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM
-    - I made a terrible mistake when typing in my account number. I accidently sent money to the wrong account. I noticed the app won't allow me to void the transaction. Can someone help me with this immediately?
-    - My transfer was wrong, are you able to stop it before it goes through please?
-    - I made a transaction, but I made it to an account I didn't mean to make it to.
-    - I inadvertently completed a transaction on a wrong account.
-    - I have arranged a transfer, but no longer need to send it. How do I stop the transfer?
-    - I sent a payment to the wrong account number - can that transaction be reversed? I am worried about accidentally giving my money away.
-    - I need a transaction reversed from my account.
-    - who do I talk to, to cancel a transfer?
-    - I just initiated a transfer but I'd like to cancel it.
-    - I haven't used my card all day but there is a payment showing in the app. Please cancel it!
-    - I already made a transfer and want to cancel it, how do I do that?
-    - How do I revert a transaction?
-    - I want to take back my transaction
-    - I submitted a transaction but it was for the incorrect account.
-    - A transfer has been made in my account that I need to cancel. This was a mistake on my part and I hope we can get this resolved quickly.
-    - Help please! My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?
-    - I want to revert this mornings transaction.
-    - please cancel the transaction
-    - nope, this is not the correct name of the recipient.
-    - I need to cancel a transfer I made.
-    - How to cancel a transaction
-    - How can I cancel my transfer?
-    - I made a mistake when sending a payment, sending it to the wrong account number (with a typo) - can you please cancel the transaction?
-    - I recently made a transfer but I need to cancel it as soon as possible. Please let me know when this happens.
-    - that's not right, I actually want to send that money to someone else...
-    - Help me cancel a transfer.
-    - Am I able to stop a transfer?
-    - A transfer has to be cancelled.
-    - I made a mistake of transferring, can I cancel my previous transfer?
-    - I used the wrong account.
-    - How do I go about cancelling a transaction?
-    - Is it possible to cancel a transaction?
-    - Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?
-    - I made a mistake this morning when I did a transfer. How do I reverse it?
-    - I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?
-    - I wish to cancel a transfer
-    - I made a mistake and performed a transaction on the wrong account!
-    - I wanna revert a transaction i did this morning.
-    - is it possible to cancel transactions?
-    - I made a mistake when making my last transfer, please cancel before it goes thru.
-    - I messed up and made a transaction using the wrong account.
-    - I used the wrong account number!
-- intent: funds_transfer_issues
-  examples: |
-    - My card payment was cancelled.  Why?
-    - I see a reverted payment on my account. Why has this happened?
-    - Asked for $100 but only got $20. Why would this happen?
-    - I was unable to transfer money from my account.
-    - My card payments have stopped.
-    - why did my payment revert
-    - Why can't I complete the transfer?
-    - I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.
-    - Why didn't my transfer work?
-    - My card payment failed.
-    - How long does it take for money to transfer? I sent some to a friend and it hasn't gone through yet.
-    - Why did my card payment get declined?
-    - I can't get a contactless payment to work.
-    - I sent some money and the account hasn't recived the transfer I made.
-    - I set up a payment to a new payee and sent some money but the person I'm sending it to has not received it. Can you check where the money is?
-    - What would cause a transfer failure?
-    - Bank transfer to account did not show up, please help?
-    - The transfer I tried to make failed.
-    - Why would a merchant revert my payment?
-    - Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.
-    - I can't see a transfer to my account I made.
-    - I don't think my transfer wen through. Why?
-    - Where's the money from my transfer from Europe?
-    - Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.
-    - Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?
-    - Card payment was declined, do you know why?
-    - Card payment has be declined.
-    - Why is a transfer I did recently still processing?
-    - When are you going to transfer the money?
-    - Why did my transfer not work?
-    - Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying "they did not receive my payment" then the payment was returned to my account. so I would like to see why it did that please.
-    - My transfer failed
-    - How come the money from the merchant appeared back into my account?
-    - My card payment has failed.
-    - Why is it saying my card payment is declined when I made it?
-    - My recipient hasn't received the money
-    - Why would the app revert my payment?
-    - Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?
-    - My transfer did not work, what was the reason?
-    - I tried to make a transfer and it failed.
-    - I seem to be unable to make any transactions.
-    - Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.
-    - My payment didn't work and the money is in back in my account.
-    - What is the time frame that it usually takes for a transfer to come through? I have a friend needing it immediately but it has yet to come through.
-    - I didn't withdraw cash but I see that transaction on my app
-    - The transger I tried to make failed.
-    - I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?
-    - What does it mean if my payment has been reverted?
-    - I notice that I have a card payment that's been cancelled.
-    - I got a transfer fail message, but no explanation of why-- what happened?
-    - I'm trying to take money from my account but its not letting me. Help!
-    - Why did I not get the amount of money I requested?
-    - I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?
-    - Why was I not able to complete my transfer?
-    - Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.
-    - The transfer keeps failing - I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, I have no idea why
-    - Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?
-    - I don't see a money transfer yet
-    - Why wasn't my payment accepted by the app
-    - Can you tell me why my transfer is failing and help resolve?
-    - Card payment didn't go through.
-    - Why would my payment have been returned to my account?
-    - I tried to do a transfer but it didn't go through.
-    - A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?
-    - I've tried many times to make a payment, but it's not going through.  What's wrong?
-    - I made a payment but it was returned.
-    - I need to check status as my friend hasn't got money I sent.
-    - I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?
-    - Is there a reason that my transfer failed?
-    - Yes, my direct debit didn't go through
-    - A payment I made is for a wrong amount can you help me correct the mistake.
-    - Is it on purpose that my payment has been returned to my account?
-    - I've been trying to do a transfer multiple times and have failed? Is the system down?
-    - Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.
-    - I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?
-    - I tried to transfer money but it didn't go through
-    - Why did the funds for one of my purchase come back to my account?
-    - My transfer hasn't arrived
-    - Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.
-    - A wrong amount of cash we sent to me.
-    - I tried to pay with my card and it didn't work
-    - I sent money and the recipient has not received their money after two weeks.
-    - Why hasn't my transfer gone through
-    - Why do you keep declining my payment?I tried several times already with this card and it is just not working.
-    - Why do my transfers keep failing?
-    - The payment I made with my card is not showing up.
-    - HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?
-    - I tried to make a transfer, but it didn't work.
-    - Why do you keep declining my payment? I tried several times already with this card and it is just not working.
-    - I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?
-    - My card payment has been declined, why?
-    - I'm getting concerned here. I sent a friend some money and she isn't seeing it. What's going on?
-    - Why can't I take money from my account?
-    - The app reverted the payment I made.
-    - Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?
-    - Can you tell me why my card payment was cancelled?
-    - I transferred some money but it hasn't arrived.
-    - I think the payment from my card was revereted
-    - I have enough money in my account, so why is my card being declined?
-    - I made a transfer and the receiver said an amount was received, but not exactly the same as the right amount. I now have to transfer more to get the remainder to the receiver. Can you alert me about this. What's been happening?
-    - how come when i asked for 100 it only gave me 20.00 in the app
-    - is the a reason why my transfer has failed?
-    - My payment was put back, I think.
-    - A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?
-    - What is the reason my payment was not accepted?
-    - This morning, I tried to send money to my friends several times but each time the transfer fails.  Why does it keep failing?  The transfer gets rejected but I do not know what is causing it to be rejected.
-    - Why would a card payment be declined?
-    - A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.
-    - I have tried sending a standard transfer five times and it hasn't gone through. What is the problem?
-    - The card payment I made didn't work.
-    - Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.
-    - My card payment was reverted
-    - the money i transferred didnt arrive
-    - I was checking my statement and I think one of my card payments has reverted
-    - Your system is broken. My transfers keep failing, 5 times now.
-    - Why was my card payment reversed?
-    - how come i was declined
-    - I made a payment with my card that was cancelled?
-    - I made a transfer and the receiver said an amount was received, but less than the right amount. I now have to transfer more to get the remainder to the receiver. Can you tell me about this. What's been going on?
-    - Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?
-    - The wrong account was used during a transaction.
-    - I did a bank transfer and my balance isn't current.
-    - My transfer failed, why?
-    - i don't know if it was reverted
-    - Why wasn't my card payment accepted?
-    - When I tried to transfer funds to my friend today I was unable to do so, why?
-    - My transfer failed to process correctly. Is there a reason this would happen?
-    - I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?
-    - I think my card payment was reverted
-    - Why isn't the transfer I made to a friend showing?
-    - I purchased something and already received it, why hasn't the money taken out?
-    - I don't see the transaction I made to a friend on my account.
-    - I really wanted to buy something online but seems the card is not working as the payment suddenly came back! What's going on here, I've been trying for a good week or two.
-    - Why didn't my transfer get to the recipient?
-    - Why was my transaction not approved?
-    - I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?
-    - Some cash I didn't get shows in my app
-    - Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.
-    - My payment has been declined several times.  Can you help me?
-    - My payment was declined
-    - I do not see the money I transferred into this account
-    - I haven't been able to complete any transactions on my card today. Do you know what's wrong?
-    - Can you tell my why my funds transfer did not work properly?
-    - I put some money in my account the other day but now its gone? Why is this?
-    - Why didn;t my payment work
-    - I was so embarrassed. Why didn't my payment clear?
-    - Why is my transfer not showing
-    - About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?
-    - It looks like my card payment was sent back.
-    - Transfer has failed.
-    - Hello, I am buying a flat and need the inital payment for the mortgage to go through. It keeps showing up as error, what is going on? Can you please help me make this transfer?
-    - I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done
-    - Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?
-    - Where is my money transfer?
-    - I think a card payment I made was cancelled.
-    - My transfer has not arrived.
-    - my payment was rejected, do you know why?
-    - I don't understand why my payment was declined. I thought everything was ok.
-    - Why was I declined when I tried to get my money?
-    - I looked at my statement and found a payment I and found a mistake.
-    - I can't get google pay to work right.
-    - why was my payment reverted on the app
-- intent: funds_transfer_info
-  examples: |
-    - How long is the transfer?
-    - I am waiting for the money to enter my account. How long does it take?
-    - I transferred money from the US, How long does it take?
-    - I've made a transfer from France two days ago but I was wondering if international transfers take longer to arrive because it hasn't made it yet.
-    - How long does it take for a money transfer to show up?
-    - How long do I have to wait for my transaction to be completed?
-    - I'd like to make a SEPA transfer to my account, but will I be charged?
-    - For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.
-    - How long until transfers complete?
-    - How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.
-    - How long will it take for my money to be deposited?
-    - What happens if my card payment is cancelled?
-    - How long until the transfer is reflected on my account balance?
-    - I just noticed that I supposedly made a payment to a seller a while back. The problem is, I don't recognize the seller. There must be a way to see who it is or track the payment. Can you do that, because I don't remember this transaction?
-    - I don't recognize what this payment on my statement would be for.
-    - How long will a transfer from the US take?
-    - has my card payment been reverted?
-    - How long will it take to transfer from europe?
-    - Hi, I made a transfer from France two days ago and thought it would be here by now. Can you give me an update please?
-    - How long does it take for pending transfer transactions to post?
-    - When can I expect my transfer to reach my account?
-    - Where is the transfer that I did?
-    - I've made a transfer, how long until the money reaches my account?
-    - when will my transfer arrive
-    - I'm waiting for a transfer from the US, how much longer?
-    - Can you tell me when the transfer will be completed?
-    - What's the transfer time from Europe?
-    - Estimated time arrival for transfers?
-    - I need to know why a money transfer is available.
-    - This card payment isn't is recognition.
-    - How long will it take to receive my money from my transfer transaction?
-    - I'm not sure where this charge came from.
-    - Can I pay online with my card?
-    - how can i transfer money from american express card
-    - Do EU transfers happen quickly? I purchased something a few days ago and the seller hasn't received my money yet.
-    - Does this program take SWIFT transfers?
-    - My Bank is in Europe, how long will the transfer take?
-    - Will I receive all the money sent to my account by SEPA transfer?
-    - How many days do I have to wait for the transfer to reach my account?
-    - Can you please tell me why my cash withdrawal is still pending?
-    - I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?
-    - What does it mean if my payment is pending?
-    - I sent a transfer and it has been pending for awhile. How long will it stay pending?
-    - Can I pay for my gas using my Apple watch?
-    - How long does it take for my payment to process?
-    - Can I Transfer from SWIFT?
-    - What fiat currencies are supported?
-    - Where is the transfer to my account that I made?
-    - There has been a transfer pending in my account and I wanted to know how long it is going to take to go  through.
-    - Can third party fees affect a transfer?
-    - I noticed that there's a payment on my card that's pending.
-    - My cash withdrawal is showing as pending, why?
-    - How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.
-    - How soon will my balance be updated to reflect my transfer?
-    - Why is their a charge pending on my card still?
-    - It seems like I have been waiting forever for this international transfer. Why is it taking so long? C'mon, it's 2018, things happen at a click of a button. All of the account information is correct, so how long will this take?
-    - I didn't know there was a charge for tranferring. What is the charge?
-    - How long after I receive my statement can I dispute payments on it?
-    - How long does a payment show as pending before i should worry about it?
-    - How long does it take to make an urgent transfer from China?
-    - Does a US transfer take long
-    - How long does it take for a transfer to be in my account?
-    - When will my transfer be in my account?
-    - I bought something on line a and the seller hasn't received the money I sent could you please tell me how long an EU transfer takes?
-    - My transfer is still pending, why?
-    - Can you tell me when my money transfer will go through
-    - Why hasn't the money I transferred into my account shown up yet?
-    - When will my transfer arrive from Europe?
-    - My transfer says pending. What does that mean?
-    - Will my transfer be done soon?
-    - I don't know if I made this payment on my card.
-    - Will it take more than 3 days for my transfer to reach my account?
-    - why have I got a pending transfer? I'm confused!!
-    - When will I receive a transfer from europe?
-    - Why was I charged a fee on a cash withdrawal?
-    - How long will it take for my payment to go through?
-    - Are bank transfers immediate?
-    - Was my transaction reverted with my card?
-    - When can I expect money to be transferred to my account?
-    - How long do transfers take to go though
-    - how long will it take for my transfer to stop pending
-    - How long does it take transfers from Europe to complete?
-    - Why was I charged for transferring money?
-    - It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.
-    - How long will a transfer be pending for?
-    - How long does it take for money to reach my account?
-    - How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move
-    - what amount did i spend for food on chase visa on current bill
-    - What is the reason my cash withdrawal is still pending?
-    - How long do bank transfers take to clear
-    - How long will a transaction to a friend take?
-    - What is the time for a transfer?
-    - My money transfer has not yet occurred
-    - I got some items this morning but the payment says pending
-    - How long will it take for the money to reach my account?
-    - Why was there an extra charge when I transferred money?
-    - How long does it take for money to transfer as my balance hasn't been updated
-    - What are the additional charges for a SWIFT transfer?
-    - Why does my payment appear as pending?
-    - How long does transfer from the US take?
-    - What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.
-    - How long will my most recent transfer take to go through? The recipient needs the money urgently.
-    - How long does it take for the money to show up in my account?
-    - Are SWIFT Transfers available at this bank?
-    - How long do transfers from Europe take?
-    - How many days until my US transfer arrives?
-    - Why would a merchant revert a card payment?
+  - intent: funds_transfer
+    examples: |
+      - With my credit card i would like to transfer money.
+      - pay the red cross the monthly donation
+      - deposit ten bucks from my chase account to my ally account
+      - i want to pay my house bill
+      - send over 50 dollars between my shared and not shared accounts
+      - i need you to send 500 dollars from my high tier account to my regular checking account
+      - pay my internet bill with my discover account
+      - I know, I tried it in my online app like 10 times! send that to my debit card
+      - please pay my bill
+      - transfer money from one place to another
+      - How can I transfer money using my credit card?
+      - transfer sixty dollars to dad from my biggest accnt
+      - can you assist me in paying my electric bill
+      - make a transfer of 200 from my savings account to my checking account
+      - How do I go about transferring money using my credit card?
+      - i got to pay my cable bill
+      - please send ten dollars from bank of america to capital one
+      - Is it simple to transfer money using my credit card?
+      - need to transfer from one account to my other one
+      - i 'd like to make a payment on my credit card bill
+      - i need help paying my auto insurance bill
+      - can you transfer 5 from savings to checking
+      - please transfer x from checking to saving
+      - help me move my money
+      - Is it possible to transfer money to my credit card?
+      - i need to transfer from this account to that one
+      - i need to pay my bill
+      - i need help paying my cable bill
+      - I'd like to use my American Express to place money into my account.
+      - whats the quickest way to money from one account to another
+      - i must pay my cable bill
+      - pay the electric bill
+      - transfer 40 from account a to b
+      - can i initiate a one time transfer from my savings account to my money market account
+      - I must quickly transfer something from China, and I need to know how long it will take.
+      - pay my electric bill from my amex account
+      - i need to throw some money into that other account
+      - my water bill is due , pay it immediately
+      - please transfer 100 from my checking to my savings account
+      - use my park bank account to pay my electric bill
+      - please help me pay my cable bill
+      - I want to transfer money using my credit card.
+      - help me pay my cable bill
+      - Help! I need to transfer something to China.
+      - are you able to help me pay my mortgage
+      - use my checkings account to pay the electric bill
+      - time to move some cash from one account to another
+      - move 57 dollars from saving into mom
+      - i want to pay my bill , please
+      - please transfer s from saving to checking
+      - i got to transfer ten dollars from my bank of america account to my capital one account
+      - yes make the transfer
+      - Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.
+      - transfer 20000 from my savings account to checking account
+      - transfer 100 dollars checking to savings
+      - transfer between two accounts
+      - can you help me pay this bill
+      - i need ten dollars sent from b of a to washington mutual
+      - move my money please
+      - i need to get help paying my gas bill
+      - i want to initiate a transfer from one account to the other
+      - transfer two hundred dollars between my portfolio and my money market account
+      - will you aid me in paying my insurance premium
+      - can i pay a bill
+      - send 20 dollars from savings to checking
+      - take 20000 from savings and put it in checking
+      - i need to pay my cable bill from my checking account
+      - go ahead and pay my american express bill now
+      - send 50 dollars between bank of america and chase accounts
+      - move 40 from account b to account a
+      - I'd like to transfer funds using my credit card.
+      - pay my cable bill from my facebook account
+      - I want to transfer money with my credit card.
+      - pay electric
+      - Hoe do i use my credit card to transfer money?
+      - i must transfer ten dollars from my bank of america account to my capital one account
+      - i need help paying my water bill
+      - i need to transfer from one account to my second one
+      - please pay electric bill
+      - i want to pay my insurance bill
+      - transfer 5 from savings to checking
+      - put 20000 into my checking account from my savings account
+      - i need help to pay my electric bill
+      - move 100 dollars from checking to savings
+      - put a hundred dollars in my ally account from bluebird
+      - is there anyone available to help pay an internet bill
+      - do a car payment from my savings account
+      - What do I need to do to transfer money with my credit card?
+      - transfer 100 dollars between checking and savings
+      - What information am I going to have to have in order to do a transfer with my card?
+      - i would like to pay my cell phone bill
+      - i want to pay that bill now
+      - i need my money to be moved
+      - pay my insurance bill
+      - pay the cable bill with my visa card
+      - transfer fifty dollars between my chase and bank of america account
+      - pay my water bill with my charles schwab account
+      - can i pay my bill
+      - send my money between accounts
+      - i need to move my money
+      - take 40 and transfer it to account a from b
+      - Can I have money transferred into my account at different intervals along my trip?
+      - put 40 from account a to b
+      - transfer 200 dollars from paypal to savings
+      - can you transfer money from my account
+      - I need to transfer something from China, How long will it take?
+      - i must pay my cable bill from my checking account
+      - i need help paying my store bill
+      - pay a bribe using my money market account
+      - will you take my bill payment
+      - i want to do a payment on my water bill
+      - i have to transfer ten dollars from my bank of america account to my capital one account
+      - send money to another account
+      - i wanna pay my cable bill from my checking account
+      - transfer 10 from checking to savings
+      - send 400 dollars between city bank and usaa accounts
+      - i want to pay my car bill
+      - can you give me a hand paying my water bill
+      - help me move my money please
+      - transfer 500 from my money market savings account to my checking account
+      - help me transfer x from credit to debit
+      - I want to know how to transfer money with my credit card
+      - That's what I said, send it to terez lara today at 10:25 a.m.
+      - i need to make a bill payment
+      - i need to pay my water bill
+      - is it possible to pay my bill
+      - i want to pay my electric bill
+      - i want to pay my internet bill
+      - send money from one account to another
+      - send 100 from paypal to my bank
+      - make a payment on the electric bill
+      - please transfer 250 from checking to savings
+      - move money from one account to another
+      - i 'd really like to pay this bill
+      - pay my water bill from my checking account
+      - i need your help to pay my gas bill
+      - please transfer 50 to my checking account from credit
+      - transfer 500 from my checking to my savings
+      - i really want to pay my cable bill from my checking account
+      - pay my gas bill from my saving account
+  - intent: funds_transfer_cancel
+    examples: |
+      - What do I need to do to cancel a transaction?
+      - How can I cancel a transfer I made
+      - How do I cancel a transfer?
+      - Is it possible for a transaction to be cancelled?
+      - I have a transaction and would like to know if I it's cancelable?
+      - I need to cancel a transaction please!
+      - I need to cancel a transaction immediately.
+      - Hello, I'm having trouble with my card, I don't understand what's happening, I tried using the ATM machine earlier but it wasn't working but seems like the transactions is still in progress, can you cancel it for me?
+      - I don't think the transaction has gone through, so can I cancel a transfer?
+      - How do I cancel a recent transfer?
+      - I entered a typo when I was transferring money and now I've sent it to an incorrect account. This is so bad! I need it cancelled now.
+      - Please help revert my transaction from this morning.
+      - Please cancel my most recent transfer, it was a mistake. This is an emergency. It needs to be canceled
+      - yes cancel it now
+      - My transaction from earlier needs to be reversed.
+      - I did a transaction to a wrong account!
+      - I need to cancel my recent transfer as soon as possible. I made an error there. Please help before it goes through.
+      - I would like to cancel a transfer...is this possible?
+      - It is extremely important that I cancel the transfer I made yesterday and put the money into a different account. Is this possible?
+      - I made a mistake and need to cancel a transfer.
+      - I just realized I made the wrong transaction yesterday. Would you please make it correct?I need it by tomorrow Please.
+      - I would like help to revert a transaction I did this morning
+      - I needed to make a payment on my account, but I typed in the incorrect number. The app won't allow me to cancel this transaction. I need it cancelled ASAP!!
+      - Please cancel the transfer I just made. I put in the wrong account number and can't seem to stop it on the app.
+      - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer now. There isn't an option from the app.
+      - I no longer want to transfer funds, can we cancel that transaction?
+      - How do I fix a transaction to the wrong account?
+      - Is it possible to cancel my transfer?
+      - Help me cancel a transaction.
+      - How do I cancel a transaction?
+      - I made a transaction this morning but I need to revert it now.
+      - Can you help me to quickly cancel a transaction I accidentally did to the wrong account?
+      - I want to revert a transaction I did this morning
+      - I need to cancel a transaction on my debit card.
+      - Could I please cancel my transfer, I paid it into the wrong account. I need to pay it into the right account by tomorrow.
+      - Am I able to cancel a transfer I just made
+      - I need a transfer cancelled.
+      - One of my transactions needs to be canceled.
+      - I need to cancel a transfer
+      - I need to cancel my recent transfer. I made a mistake. Please help quickly before the transfer goes through.
+      - I didn't mean to do the transfer, is there any way to cancel it?
+      - I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?
+      - I made a transaction to the wrong account!
+      - I made a transfer into my account and now I need to cancel it
+      - Can I cancel a transaction?
+      - I want to reverse a transaction I did this morning
+      - My morning transaction needs to be canceled.
+      - I didn't want to make a transaction, I want to revert it
+      - Is there a way to revert a transaction?
+      - I made a rent payment from the wrong account yesterday. It absolutely has to go through tomorrow, so can you please reroute the payment to the right account?
+      - Is there any way to cancel a recent transfer? I did not mean to make it and need to make sure it does not go through.
+      - I need to cancel a transaction.
+      - I made a mistake and did a transaction to a wrong account, can I cancel?
+      - There's been a transaction to the wrong account.
+      - Who do I call to cancel a transfer?
+      - If I make a mistake can I cancel the transaction?
+      - Is there any way to cancel my transfer
+      - I would like to cancel my previous transaction
+      - i want to cancel my loan asap let me talk to the manager
+      - I recently made a transfer that I would like to cancel
+      - stop the transaction
+      - I just realised I made the wrong payment yesterday. Can you please change it to the right account? It's my rent payment and really really needs to be in the right account by tomorrow
+      - I've just made a money transfer to the wrong account, I need to stop the money from being moved as it may be going to someone I don't know. Please can you help?
+      - I need immediate assistance in canceling a transfer which was a mistake. Please help me quickly so this does not go through.
+      - I made the incorrect payment for my rent yesterday and this needs to be fixed by no later than tomorrow. How can you help?
+      - How fast can you fix an error in payment? I made a payment in the wrong account yesterday and it needs to be adjusted by tomorrow for my rent.
+      - Please help me! A payment I made had an error on the account number and I can't cancel on my side. Can you cancel it?
+      - Please cancel my last transaction.
+      - I want to cancel a transaction from this morning.
+      - Help! I need to cancel a transaction.
+      - How do i cancel a charge?
+      - I goofed up and used the wrong account. Please help.
+      - I've made a horrible mistake! I transferred money to the wrong account by accident! I entered one of the digits wrong. I need this cancelled immediately please.
+      - How can I revert a transaction from this morning?
+      - What are the steps I need to take to cancel a transaction?
+      - I need urgent help. I realize I sent my payment to the wrong account number. I made a typo. Please cancel the transfer immediately. I cannot do anything from the app.
+      - I did a transaction this morning and now I want to cancel it.
+      - I want to cancel a transaction.
+      - I need help right now. I realize I sent my payment to the wrong account number after making a typo. Please cancel the transfer now since I can't do it from the app.
+      - Under what condition will my payment revert?
+      - I need to stop a transaction that I made.
+      - I want to cancel a transfer I just made.
+      - How can I cancel a transaction to a wrong account?
+      - Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.
+      - Can I cancel a transfer I made
+      - My last ATM request did not go through due to a declined card. Please cancel the request on my account.
+      - When I used one of the ATMs in the city centre today, I tried to take out some money, but for whatever reason, the machine declined my card. Just checked it out in my account and that amount is still showing as pending! Is there any way that you can cancel this transaction, because I did not receive any money whatsoever from the ATM
+      - I made a terrible mistake when typing in my account number. I accidently sent money to the wrong account. I noticed the app won't allow me to void the transaction. Can someone help me with this immediately?
+      - My transfer was wrong, are you able to stop it before it goes through please?
+      - I made a transaction, but I made it to an account I didn't mean to make it to.
+      - I inadvertently completed a transaction on a wrong account.
+      - I have arranged a transfer, but no longer need to send it. How do I stop the transfer?
+      - I sent a payment to the wrong account number - can that transaction be reversed? I am worried about accidentally giving my money away.
+      - I need a transaction reversed from my account.
+      - who do I talk to, to cancel a transfer?
+      - I just initiated a transfer but I'd like to cancel it.
+      - I haven't used my card all day but there is a payment showing in the app. Please cancel it!
+      - I already made a transfer and want to cancel it, how do I do that?
+      - How do I revert a transaction?
+      - I want to take back my transaction
+      - I submitted a transaction but it was for the incorrect account.
+      - A transfer has been made in my account that I need to cancel. This was a mistake on my part and I hope we can get this resolved quickly.
+      - Help please! My rent payment is coming out tomorrow and I made a payment mistake yesterday! Can you put in in the correct account?
+      - I want to revert this mornings transaction.
+      - please cancel the transaction
+      - nope, this is not the correct name of the recipient.
+      - I need to cancel a transfer I made.
+      - How to cancel a transaction
+      - How can I cancel my transfer?
+      - I made a mistake when sending a payment, sending it to the wrong account number (with a typo) - can you please cancel the transaction?
+      - I recently made a transfer but I need to cancel it as soon as possible. Please let me know when this happens.
+      - that's not right, I actually want to send that money to someone else...
+      - Help me cancel a transfer.
+      - Am I able to stop a transfer?
+      - A transfer has to be cancelled.
+      - I made a mistake of transferring, can I cancel my previous transfer?
+      - I used the wrong account.
+      - How do I go about cancelling a transaction?
+      - Is it possible to cancel a transaction?
+      - Hi, I sent a payment to the wrong account number - can you cancel it as soon as possible?
+      - I made a mistake this morning when I did a transfer. How do I reverse it?
+      - I accidentally made a payment from the wrong account yesterday. It's my rent payment, and it's very large, so the account I paid from won't be able to cover the amount. It's really important that the payment be made from the right account?
+      - I wish to cancel a transfer
+      - I made a mistake and performed a transaction on the wrong account!
+      - I wanna revert a transaction i did this morning.
+      - is it possible to cancel transactions?
+      - I made a mistake when making my last transfer, please cancel before it goes thru.
+      - I messed up and made a transaction using the wrong account.
+      - I used the wrong account number!
+  - intent: funds_transfer_issues
+    examples: |
+      - My card payment was cancelled.  Why?
+      - I see a reverted payment on my account. Why has this happened?
+      - Asked for $100 but only got $20. Why would this happen?
+      - I was unable to transfer money from my account.
+      - My card payments have stopped.
+      - why did my payment revert
+      - Why can't I complete the transfer?
+      - I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.
+      - Why didn't my transfer work?
+      - My card payment failed.
+      - How long does it take for money to transfer? I sent some to a friend and it hasn't gone through yet.
+      - Why did my card payment get declined?
+      - I can't get a contactless payment to work.
+      - I sent some money and the account hasn't recived the transfer I made.
+      - I set up a payment to a new payee and sent some money but the person I'm sending it to has not received it. Can you check where the money is?
+      - What would cause a transfer failure?
+      - Bank transfer to account did not show up, please help?
+      - The transfer I tried to make failed.
+      - Why would a merchant revert my payment?
+      - Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.
+      - I can't see a transfer to my account I made.
+      - I don't think my transfer wen through. Why?
+      - Where's the money from my transfer from Europe?
+      - Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.
+      - Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?
+      - Card payment was declined, do you know why?
+      - Card payment has be declined.
+      - Why is a transfer I did recently still processing?
+      - When are you going to transfer the money?
+      - Why did my transfer not work?
+      - Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying "they did not receive my payment" then the payment was returned to my account. so I would like to see why it did that please.
+      - My transfer failed
+      - How come the money from the merchant appeared back into my account?
+      - My card payment has failed.
+      - Why is it saying my card payment is declined when I made it?
+      - My recipient hasn't received the money
+      - Why would the app revert my payment?
+      - Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?
+      - My transfer did not work, what was the reason?
+      - I tried to make a transfer and it failed.
+      - I seem to be unable to make any transactions.
+      - Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.
+      - My payment didn't work and the money is in back in my account.
+      - What is the time frame that it usually takes for a transfer to come through? I have a friend needing it immediately but it has yet to come through.
+      - I didn't withdraw cash but I see that transaction on my app
+      - The transger I tried to make failed.
+      - I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?
+      - What does it mean if my payment has been reverted?
+      - I notice that I have a card payment that's been cancelled.
+      - I got a transfer fail message, but no explanation of why-- what happened?
+      - I'm trying to take money from my account but its not letting me. Help!
+      - Why did I not get the amount of money I requested?
+      - I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?
+      - Why was I not able to complete my transfer?
+      - Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.
+      - The transfer keeps failing - I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, I have no idea why
+      - Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?
+      - I don't see a money transfer yet
+      - Why wasn't my payment accepted by the app
+      - Can you tell me why my transfer is failing and help resolve?
+      - Card payment didn't go through.
+      - Why would my payment have been returned to my account?
+      - I tried to do a transfer but it didn't go through.
+      - A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?
+      - I've tried many times to make a payment, but it's not going through.  What's wrong?
+      - I made a payment but it was returned.
+      - I need to check status as my friend hasn't got money I sent.
+      - I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?
+      - Is there a reason that my transfer failed?
+      - Yes, my direct debit didn't go through
+      - A payment I made is for a wrong amount can you help me correct the mistake.
+      - Is it on purpose that my payment has been returned to my account?
+      - I've been trying to do a transfer multiple times and have failed? Is the system down?
+      - Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.
+      - I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?
+      - I tried to transfer money but it didn't go through
+      - Why did the funds for one of my purchase come back to my account?
+      - My transfer hasn't arrived
+      - Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.
+      - A wrong amount of cash we sent to me.
+      - I tried to pay with my card and it didn't work
+      - I sent money and the recipient has not received their money after two weeks.
+      - Why hasn't my transfer gone through
+      - Why do you keep declining my payment?I tried several times already with this card and it is just not working.
+      - Why do my transfers keep failing?
+      - The payment I made with my card is not showing up.
+      - HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?
+      - I tried to make a transfer, but it didn't work.
+      - Why do you keep declining my payment? I tried several times already with this card and it is just not working.
+      - I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?
+      - My card payment has been declined, why?
+      - I'm getting concerned here. I sent a friend some money and she isn't seeing it. What's going on?
+      - Why can't I take money from my account?
+      - The app reverted the payment I made.
+      - Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?
+      - Can you tell me why my card payment was cancelled?
+      - I transferred some money but it hasn't arrived.
+      - I think the payment from my card was revereted
+      - I have enough money in my account, so why is my card being declined?
+      - I made a transfer and the receiver said an amount was received, but not exactly the same as the right amount. I now have to transfer more to get the remainder to the receiver. Can you alert me about this. What's been happening?
+      - how come when i asked for 100 it only gave me 20.00 in the app
+      - is the a reason why my transfer has failed?
+      - My payment was put back, I think.
+      - A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?
+      - What is the reason my payment was not accepted?
+      - This morning, I tried to send money to my friends several times but each time the transfer fails.  Why does it keep failing?  The transfer gets rejected but I do not know what is causing it to be rejected.
+      - Why would a card payment be declined?
+      - A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.
+      - I have tried sending a standard transfer five times and it hasn't gone through. What is the problem?
+      - The card payment I made didn't work.
+      - Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.
+      - My card payment was reverted
+      - the money i transferred didnt arrive
+      - I was checking my statement and I think one of my card payments has reverted
+      - Your system is broken. My transfers keep failing, 5 times now.
+      - Why was my card payment reversed?
+      - how come i was declined
+      - I made a payment with my card that was cancelled?
+      - I made a transfer and the receiver said an amount was received, but less than the right amount. I now have to transfer more to get the remainder to the receiver. Can you tell me about this. What's been going on?
+      - Hi, I'm trying to transfer money from one country to another, but it's taking a long time! All the account information is right, so why is it taking so long?
+      - The wrong account was used during a transaction.
+      - I did a bank transfer and my balance isn't current.
+      - My transfer failed, why?
+      - i don't know if it was reverted
+      - Why wasn't my card payment accepted?
+      - When I tried to transfer funds to my friend today I was unable to do so, why?
+      - My transfer failed to process correctly. Is there a reason this would happen?
+      - I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?
+      - I think my card payment was reverted
+      - Why isn't the transfer I made to a friend showing?
+      - I purchased something and already received it, why hasn't the money taken out?
+      - I don't see the transaction I made to a friend on my account.
+      - I really wanted to buy something online but seems the card is not working as the payment suddenly came back! What's going on here, I've been trying for a good week or two.
+      - Why didn't my transfer get to the recipient?
+      - Why was my transaction not approved?
+      - I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?
+      - Some cash I didn't get shows in my app
+      - Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.
+      - My payment has been declined several times.  Can you help me?
+      - My payment was declined
+      - I do not see the money I transferred into this account
+      - I haven't been able to complete any transactions on my card today. Do you know what's wrong?
+      - Can you tell my why my funds transfer did not work properly?
+      - I put some money in my account the other day but now its gone? Why is this?
+      - Why didn;t my payment work
+      - I was so embarrassed. Why didn't my payment clear?
+      - Why is my transfer not showing
+      - About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?
+      - It looks like my card payment was sent back.
+      - Transfer has failed.
+      - Hello, I am buying a flat and need the inital payment for the mortgage to go through. It keeps showing up as error, what is going on? Can you please help me make this transfer?
+      - I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done
+      - Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?
+      - Where is my money transfer?
+      - I think a card payment I made was cancelled.
+      - My transfer has not arrived.
+      - my payment was rejected, do you know why?
+      - I don't understand why my payment was declined. I thought everything was ok.
+      - Why was I declined when I tried to get my money?
+      - I looked at my statement and found a payment I and found a mistake.
+      - I can't get google pay to work right.
+      - why was my payment reverted on the app
+  - intent: funds_transfer_info
+    examples: |
+      - How long is the transfer?
+      - I am waiting for the money to enter my account. How long does it take?
+      - I transferred money from the US, How long does it take?
+      - I've made a transfer from France two days ago but I was wondering if international transfers take longer to arrive because it hasn't made it yet.
+      - How long does it take for a money transfer to show up?
+      - How long do I have to wait for my transaction to be completed?
+      - I'd like to make a SEPA transfer to my account, but will I be charged?
+      - For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.
+      - How long until transfers complete?
+      - How can I verify if a cash withdrawal was made from my account? I still have my card with me but I did not authorize the withdrawal that just occurred.
+      - How long will it take for my money to be deposited?
+      - What happens if my card payment is cancelled?
+      - How long until the transfer is reflected on my account balance?
+      - I just noticed that I supposedly made a payment to a seller a while back. The problem is, I don't recognize the seller. There must be a way to see who it is or track the payment. Can you do that, because I don't remember this transaction?
+      - I don't recognize what this payment on my statement would be for.
+      - How long will a transfer from the US take?
+      - has my card payment been reverted?
+      - How long will it take to transfer from europe?
+      - Hi, I made a transfer from France two days ago and thought it would be here by now. Can you give me an update please?
+      - How long does it take for pending transfer transactions to post?
+      - When can I expect my transfer to reach my account?
+      - Where is the transfer that I did?
+      - I've made a transfer, how long until the money reaches my account?
+      - when will my transfer arrive
+      - I'm waiting for a transfer from the US, how much longer?
+      - Can you tell me when the transfer will be completed?
+      - What's the transfer time from Europe?
+      - Estimated time arrival for transfers?
+      - I need to know why a money transfer is available.
+      - This card payment isn't is recognition.
+      - How long will it take to receive my money from my transfer transaction?
+      - I'm not sure where this charge came from.
+      - Can I pay online with my card?
+      - how can i transfer money from american express card
+      - Do EU transfers happen quickly? I purchased something a few days ago and the seller hasn't received my money yet.
+      - Does this program take SWIFT transfers?
+      - My Bank is in Europe, how long will the transfer take?
+      - Will I receive all the money sent to my account by SEPA transfer?
+      - How many days do I have to wait for the transfer to reach my account?
+      - Can you please tell me why my cash withdrawal is still pending?
+      - I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?
+      - What does it mean if my payment is pending?
+      - I sent a transfer and it has been pending for awhile. How long will it stay pending?
+      - Can I pay for my gas using my Apple watch?
+      - How long does it take for my payment to process?
+      - Can I Transfer from SWIFT?
+      - What fiat currencies are supported?
+      - Where is the transfer to my account that I made?
+      - There has been a transfer pending in my account and I wanted to know how long it is going to take to go  through.
+      - Can third party fees affect a transfer?
+      - I noticed that there's a payment on my card that's pending.
+      - My cash withdrawal is showing as pending, why?
+      - How long do transfers to international banks take? I made one to france a couple of days ago, but it's still not there.
+      - How soon will my balance be updated to reflect my transfer?
+      - Why is their a charge pending on my card still?
+      - It seems like I have been waiting forever for this international transfer. Why is it taking so long? C'mon, it's 2018, things happen at a click of a button. All of the account information is correct, so how long will this take?
+      - I didn't know there was a charge for tranferring. What is the charge?
+      - How long after I receive my statement can I dispute payments on it?
+      - How long does a payment show as pending before i should worry about it?
+      - How long does it take to make an urgent transfer from China?
+      - Does a US transfer take long
+      - How long does it take for a transfer to be in my account?
+      - When will my transfer be in my account?
+      - I bought something on line a and the seller hasn't received the money I sent could you please tell me how long an EU transfer takes?
+      - My transfer is still pending, why?
+      - Can you tell me when my money transfer will go through
+      - Why hasn't the money I transferred into my account shown up yet?
+      - When will my transfer arrive from Europe?
+      - My transfer says pending. What does that mean?
+      - Will my transfer be done soon?
+      - I don't know if I made this payment on my card.
+      - Will it take more than 3 days for my transfer to reach my account?
+      - why have I got a pending transfer? I'm confused!!
+      - When will I receive a transfer from europe?
+      - Why was I charged a fee on a cash withdrawal?
+      - How long will it take for my payment to go through?
+      - Are bank transfers immediate?
+      - Was my transaction reverted with my card?
+      - When can I expect money to be transferred to my account?
+      - How long do transfers take to go though
+      - how long will it take for my transfer to stop pending
+      - How long does it take transfers from Europe to complete?
+      - Why was I charged for transferring money?
+      - It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.
+      - How long will a transfer be pending for?
+      - How long does it take for money to reach my account?
+      - How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move
+      - what amount did i spend for food on chase visa on current bill
+      - What is the reason my cash withdrawal is still pending?
+      - How long do bank transfers take to clear
+      - How long will a transaction to a friend take?
+      - What is the time for a transfer?
+      - My money transfer has not yet occurred
+      - I got some items this morning but the payment says pending
+      - How long will it take for the money to reach my account?
+      - Why was there an extra charge when I transferred money?
+      - How long does it take for money to transfer as my balance hasn't been updated
+      - What are the additional charges for a SWIFT transfer?
+      - Why does my payment appear as pending?
+      - How long does transfer from the US take?
+      - What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.
+      - How long will my most recent transfer take to go through? The recipient needs the money urgently.
+      - How long does it take for the money to show up in my account?
+      - Are SWIFT Transfers available at this bank?
+      - How long do transfers from Europe take?
+      - How many days until my US transfer arrives?
+      - Why would a merchant revert a card payment?

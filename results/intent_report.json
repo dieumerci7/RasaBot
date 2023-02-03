@@ -1,45 +1,145 @@
 {
+  "funds_transfer_cancel": {
+    "precision": 0.8560606060606061,
+    "recall": 0.875968992248062,
+    "f1-score": 0.8659003831417623,
+    "support": 129,
+    "confused_with": {
+      "funds_transfer_issues": 6,
+      "atm_issues": 3
+    }
+  },
+  "funds_transfer_issues": {
+    "precision": 0.6896551724137931,
+    "recall": 0.49382716049382713,
+    "f1-score": 0.5755395683453237,
+    "support": 162,
+    "confused_with": {
+      "atm_issues": 21,
+      "funds_transfer_info": 20
+    }
+  },
+  "funds_transfer_info": {
+    "precision": 0.5952380952380952,
+    "recall": 0.4672897196261682,
+    "f1-score": 0.5235602094240839,
+    "support": 107,
+    "confused_with": {
+      "funds_transfer_issues": 17,
+      "card_delivery": 11
+    }
+  },
+  "funds_transfer": {
+    "precision": 0.8582089552238806,
+    "recall": 0.8214285714285714,
+    "f1-score": 0.8394160583941606,
+    "support": 140,
+    "confused_with": {
+      "funds_transfer_issues": 6,
+      "funds_transfer_info": 4
+    }
+  },
   "find_atm": {
-    "precision": 0.839622641509434,
-    "recall": 0.9368421052631579,
-    "f1-score": 0.8855721393034826,
+    "precision": 0.7636363636363637,
+    "recall": 0.8842105263157894,
+    "f1-score": 0.8195121951219512,
     "support": 95,
     "confused_with": {
-      "atm_card_issues": 4,
-      "atm_issues": 2
+      "atm_card_issues": 5,
+      "atm_issues": 4
     }
   },
   "atm_card_issues": {
-    "precision": 0.855072463768116,
-    "recall": 0.7023809523809523,
-    "f1-score": 0.7712418300653594,
+    "precision": 0.6309523809523809,
+    "recall": 0.6309523809523809,
+    "f1-score": 0.6309523809523809,
     "support": 84,
     "confused_with": {
-      "atm_issues": 17,
-      "find_atm": 8
+      "atm_issues": 11,
+      "find_atm": 10
+    }
+  },
+  "card_delivery": {
+    "precision": 0.8024691358024691,
+    "recall": 0.8280254777070064,
+    "f1-score": 0.8150470219435737,
+    "support": 157,
+    "confused_with": {
+      "card_order": 16,
+      "atm_card_issues": 4
+    }
+  },
+  "exchange_currency": {
+    "precision": 0.928,
+    "recall": 0.9354838709677419,
+    "f1-score": 0.931726907630522,
+    "support": 124,
+    "confused_with": {
+      "exchange_info": 3,
+      "card_order": 2
+    }
+  },
+  "exchange_info": {
+    "precision": 0.8888888888888888,
+    "recall": 0.75,
+    "f1-score": 0.8135593220338982,
+    "support": 96,
+    "confused_with": {
+      "exchange_issues": 17,
+      "exchange_currency": 2
+    }
+  },
+  "card_order": {
+    "precision": 0.803921568627451,
+    "recall": 0.8848920863309353,
+    "f1-score": 0.8424657534246576,
+    "support": 139,
+    "confused_with": {
+      "card_delivery": 8,
+      "funds_transfer_info": 2
+    }
+  },
+  "exchange_issues": {
+    "precision": 0.8506787330316742,
+    "recall": 0.9543147208121827,
+    "f1-score": 0.8995215311004785,
+    "support": 197,
+    "confused_with": {
+      "exchange_info": 3,
+      "exchange_currency": 2
     }
   },
   "atm_issues": {
-    "precision": 0.8347826086956521,
-    "recall": 0.8648648648648649,
-    "f1-score": 0.8495575221238938,
+    "precision": 0.60431654676259,
+    "recall": 0.7567567567567568,
+    "f1-score": 0.672,
     "support": 111,
     "confused_with": {
-      "find_atm": 9,
-      "atm_card_issues": 6
+      "find_atm": 8,
+      "atm_card_issues": 7
     }
   },
-  "accuracy": 0.8413793103448276,
+  "card_activation": {
+    "precision": 0.9246575342465754,
+    "recall": 0.9246575342465754,
+    "f1-score": 0.9246575342465754,
+    "support": 146,
+    "confused_with": {
+      "atm_card_issues": 5,
+      "card_order": 3
+    }
+  },
+  "accuracy": 0.7960877296976882,
   "macro avg": {
-    "precision": 0.8431592379910674,
-    "recall": 0.8346959741696584,
-    "f1-score": 0.835457163830912,
-    "support": 290
+    "precision": 0.7843603062219052,
+    "recall": 0.7852159844527691,
+    "f1-score": 0.7810660665968745,
+    "support": 1687
   },
   "weighted avg": {
-    "precision": 0.842245198155639,
-    "recall": 0.8413793103448276,
-    "f1-score": 0.8386708686726663,
-    "support": 290
+    "precision": 0.7939194270133674,
+    "recall": 0.7960877296976882,
+    "f1-score": 0.7912448748528609,
+    "support": 1687
   }
 }
