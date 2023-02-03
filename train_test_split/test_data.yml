@@ -226,7 +226,208 @@ nlu:
       - My plans may change so I may need to change from GBP to AUD.
       - Does the app allow for exchanges between currencies?
       - Can I use this app to change money?
-nlu:
+
+
+  - intent: exchange_issues
+    examples: |
+      - The exchange rate is incorrect for something I bought
+      - I made an international purchase, but the exchange rate was wrong
+      - I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.
+      - When I received my money, it was not in the correct amount. The exchange rate was not what it should have been.
+      - I bought something in another country but the exchange rate is wrong
+      - When I received my cash, the exchange rate was wrong.
+      - The wrong exchange rate was used when I purchased an item.
+      - I'm unhappy with the exchange rate your cash transactions.
+      - I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!
+      - Can you change the rate for the item I bought in a different currency as it is wrong?
+      - I have been charged more than I should for the presents I bought when abroad, the problem seems to be the exchange rate.
+      - the exchange rate is wrong from something I got in another country
+      - what is the exchange rate when i get cash
+      - Whats wrong with my currency exchange?
+      - Help me! When I was abroad, the exchange rate was wrong.
+      - I noticed the exchange rate for cash withdrawal isn't right.
+      - The exchange rate for my withdrawal was wrong.
+      - An incorrect exchange rate was applied to an item I bought.
+      - I had the wrong exchange rate applied to some cash I got abroad.
+      - I purchased an item and the exchange rate was wrong
+      - I think the rate that was applied to my purchase using foreign currency is wrong. Help!
+      - The cash abroad exchange rate is applied wrong.
+      - The ATM I used for foreign currency provided the wrong exchange rate.
+      - I noticed the currency exchange rate was incorrect after paying for something in a foreign country.
+      - The rate of exchange for my cash withdrawal is wrong.
+      - I bought an item at the wrong exchange rate.
+      - My purchase used the wrong exchange rate
+      - I was needing you to see if the exchange rate is correct from when i got cash
+      - Why was the exchange wrong for the item I purchased?
+      - I was charged extra. Was the exchange rate for my payment last Saturday wrong?
+      - I think the exchange rate on my card payment is incorrect.
+      - I did not receive the correct amount for the exchange rate.
+      - Exchange rate on a purchase was incorrect
+      - My payment has an incorrect exchange rate.
+      - I had trouble with an incorrect rate being applied when using the ATM with foreign currency.
+      - I bought an item and the exchange rate was wrong.
+      - I think there has been a mistake on my exchange rate for this purchase.
+      - Why was I charged a higher exchange rate when I bought something abroad?
+      - I purchased something overseas and the incorrect exchange rate was applied.
+      - The exchange rate I was charged for a purchase was not right.
+      - I tried to use the ATM with foreign currency. The conversion rate applied was wrong.
+      - I guess exchange rate for my payment was not correct, as i charged extra on the last saturday.
+      - Can you please explain why the exchange rate for the item I bought is wrong?
+      - My foreign currency exchange has been applied incorrectly.
+      - I bought an item then noticed the exchange rate was wrong.
+      - The currency exchange rate was wrong for a purchase I made.
+      - My card payment had the wrong exchange rate
+      - I got money overseas and the exchange rate was wrong
+      - I am reluctant to use ATMs international because I don't get an accurate exchange rate
+      - It seems that something went wrong with my exchange. I changed dollars into UK pounds but have been charged entirely too much!
+      - I exchanged cash when traveling and the rate was incorrect.
+      - The exchange rate was wrong?
+      - The exchange rate for my electronic payment is incorrect.
+      - What do i do if the exchange rate was wrong for the item i bought overseas?
+      - My payment had a wrong exchange rate.
+      - The exchange rate for my cash withdrawal was incorrect
+      - I purchased something while traveling, and the exchange rate applied was wrong.
+      - I bough an item and the exchange rate was incorrect.
+      - Foreign currency rates were put in wrong at an ATM i used.
+      - I got charged for with a fee for paying with my card.
+      - The cash withdrawal I took seems to be off. The exchange rate is wrong.
+      - When I bought something abroad, the exchange rate was wrong.
+      - I think the exchange rate was incorrect.
+      - Using international ATMs messes up the exchange rate.
+      - There's an error in regards to the exchange rate for an item I bought.
+      - This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!
+      - I was charged the wrong exchange rate on a purchase
+      - you got the exchange rate wrong for my cash withdrawal
+      - I believe I got a wrong exchange rate when I got cash.
+      - I didn't receive the correct exchange rate for an item that I bought.
+      - I tried withdrawing money in another country and the exchange rate was wrong.
+      - I wasn't charged the correct exchange rate for an item I purchased.
+      - I found the exchange rate for my cash withdrawal is wrong
+      - I recently purchased something, and the exchange rate was wrong.
+      - I don't think the exchange rate was right.
+      - Why isn't my purchase exchange rate correct?
+      - The exchange rate is incorrect on an item I recently purchased in a foreign country.
+      - Rates were applied wrong while using foreign currency at an ATM.
+      - My card payment has the wrong exchange rate
+      - I purchased something abroad and the incorrect exchange rate was applied.
+      - There's an error with the rate that is charged.
+      - I withdrew cash and I think the exchange rate is wrong.
+      - The rate applied to my purchase in a foreign currency was wrong.
+      - My client was converting their dollars into UK pound currency when they noticed their bill was much too high for the exchange. What happened?
+      - The exchange rate for me was wrong when I was abroad.
+      - Last Saturday, I made a payment and the exchange rate was wrong. I was charged too much.
+      - When I was abroad the exchange rate for me was wrong.
+      - I think the currency exchange that's been applied is wrong.
+      - The exchange rate applied was incorrect when I was traveling outside the country.
+      - I noticed my exchange rate was incorrect when I got cash.
+      - I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?
+      - The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.
+      - Why was I charged extra on my last UK pound to dollars exchange?
+      - My ATM transaction shorted me on cash, and I think the exchange rate was wrong. Did I receive the correct rate?
+      - I made a purchase and was charged at the wrong foreign exchange rate.
+      - The exchange rate was messed up from the ATM
+      - The exchange rate for foreign ATM currency is wrong.
+      - I tried using a foreign currency at an ATM, but the ATM provided me an incorrect rate. Why is that?
+      - I was using foreign currency at an ATM, but the rate was typed in wrong.
+      - I was charged an incorrect exchange rate for a withdrawal.
+      - I have been overcharged. I just changed over dollars to UK pounds and it was too much. It seems something was wrong with my exchange.
+      - I didn't receive the correct amount of cash when I exchanged it overseas.
+      - I received the wrong exchange rate for an item i bought.
+      - On my last trip, I received the incorrect exchange rate.
+      - I am not receiving the correct exchange rate on my card.
+      - The exchange rate was incorrect for an item I bought.
+      - The wrong exchange rate applied to my cash withdrawal.
+      - Why is my exchange rate wrong?
+      - I was abroad and needed some cash, but I think the wrong exchange rate was applied to the transaction.
+      - The exchange rate given to me after a purchase, was incorrect
+      - They used the wrong rate when I made a purchase with foreign currency.
+      - My currency rate is inaccurate.
+      - After purchasing an item I noticed the exchange rate was incorrect.
+      - I want to change the wrong exchange rate.
+      - I bought something abroad and the exchange rate applied is wrong
+      - I withdrew some cash and the exchange rate seems to be wrong.
+      - my exchange rate looks wrong for my last payment
+      - Why was the exchange rate so wrong when I bought something!
+      - I think the exchange rate for the cash I withdrew was wrong.
+      - When I purchased a product in another country the currency exchange was incorrect.
+      - I purchased something abroad but the exchange rate is incorrect.
+      - Why is the exchange rate for my payment incorrect?
+      - I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.
+      - something is wrong with my exchange rate charge
+      - Do you have a problem with EUR exchanges?
+      - When I got my cash, the amount was not what it should have been, based on the exchange rate.
+      - This exchange rate on my purchase is wrong.
+      - While abroad I got cash, and a wrong exchange rate was applied.
+      - I think the exchange rate for the cash I withdrew wasn't correct.
+      - My cash withdrawl has the wrong rate of exchange.
+      - The exchange rate from my card payment isn't right.
+      - The exchange rate that was applied for an international purchase was wrong.
+      - When I was traveling abroad, the exchange rate was applied wrong.
+      - I recently bought something abroad but the exchange rate is incorrect. Why?
+      - I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.
+      - The exchange rate you are using is bad.This can't be the official interbank exchange rate.
+      - The exchange rate is incorrect for my payment.
+      - I am perplexed. Why is it that I received an extremely wrong rate when I tried to use an ATM using a foreign currency?
+      - The exchange rate is bad. Are you sure this is the exchange rate?
+      - An item I bought had the wrong exchange rate applied.
+      - The wrong exchange rate was used for my cash withdrawal
+      - I think there was an error in your exchange rate.
+      - I withdrew cash abroad and the exchange rate applied is wrong.
+      - I found my card, am I able to put it back into the app?
+      - The currency exchange for my purchase in foreign currency is incorrect.
+      - What is wrong with the exchange rate? This should have been a much higher amount of cash for that to apply.
+      - I needed some cash while abroad, and I'm pretty sure the wrong exchange rate was applied.
+      - While abroad, I got cash, and the exchange rate applied is wrong.
+      - I believe a wrong exchange rate was applied towards a cash transaction I made abroad.
+      - The exchange rate for the money I took out in a foreign country is wrong.
+      - After I got my cash, I found out my exchange rate was wrong.
+      - I think something went wrong with my exchange between dollars and UK pounds. I was overcharged during the swap.
+      - what is going on with my cash withdrawal? the exchange rate is wrong
+      - I believe that the rate of exchange for my cash withdrawl is incorrect.
+      - When I got cash I believe that the exchange rate was wrong
+      - Why was my cash withdrawal given the wrong exchange rate?
+      - My exchange rate isn't correct.
+      - The exchange rate is incorrect for my cash withdrawal transaction.
+      - In regards to my card payment, the exchange rate is incorrect.
+      - I got less cash because of the exchange rate.
+      - the exchange rate at which my card payment is at is wrong
+      - The exchange rate applied is wrong for my international purchase.
+      - I was given the wrong exchange rate when getting cash
+      - the exchange rate for my withdrawal is wrong
+      - I think that there was an error in calculating the exchange rate. I recently withdrew cash and received much less than expected.
+      - I made a purchase but the exchange rate is wrong?
+      - The wrong exchange rate was applied to me while pulling out cash.
+      - I didnt get the correct exchange rate for getting cash
+      - I think when I withdrew money when out of country the exchange rate was wrong.
+      - The exchange rate was different when I got cash
+      - The applied exchange rate is wrong for the cash I got abroad.
+      - My exchange rate is wrong when I get cash.
+      - the exchange rate on my payment was wrong
+      - The exchange rate you are using is really bad.This can't be the official interbank exchange rate.
+      - I wasn't applied the correct exchange rate when getting cash
+      - Why is the exchange rate on my card wrong?
+      - I bought something in another currency, but the exchange rate was incorrect.
+      - I did not get the right exchange rate while getting my cash out.
+      - I used foreign currency to buy something and I think the rate applied is incorrect.
+      - When I received my cash; they had my exchange rate incorrect.
+      - The item i bought exchanged rate was incorrect.
+      - The rate applied to my foreign currency at an ATM was incorrect.
+      - I was using a foreign currecy to make a payment and the applied the wrong rate.
+      - What if there is an error on the exchange rate?
+      - Why was the wrong rate applied when I bought something in a different currency?
+      - I believe my exchange rate is incorrect
+      - I got cash abroad and the exchange rate applied is wrong
+      - Your foreign exchange rate is wrong.
+      - Why didn't I receive the correct exchange rate for an item that I purchased?
+      - The exchange rate looks wrong on a holiday purchase
+      - It looks like the exchange rates on my card payment are wrong
+      - When I got cash the exchange rate was wrong
+      - The exchange rate was wrong in the foreign country I got cash in.
+      - Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?
+      - When I made a cash transfer abroad the wrong exchange rate was applied
+      - How do you figure out the exchange rate? Can you explain why I got less money than expected?
+      - Someone may have made an error in figuring out the rate of exchange. I should have received more cash than I did on my most recent withdrawal.
+
 - intent: find_atm
   examples: |
     - Do I have to use bank approved ATM's
@@ -439,206 +640,6 @@ nlu:
     - Why was my cash withdrawal cancelled at the ATM?
     - I tried pulling out money at the ATM and it gave me an incorrect amount back.
 
-
-  - intent: exchange_issues
-    examples: |
-      - The exchange rate is incorrect for something I bought
-      - I made an international purchase, but the exchange rate was wrong
-      - I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.
-      - When I received my money, it was not in the correct amount. The exchange rate was not what it should have been.
-      - I bought something in another country but the exchange rate is wrong
-      - When I received my cash, the exchange rate was wrong.
-      - The wrong exchange rate was used when I purchased an item.
-      - I'm unhappy with the exchange rate your cash transactions.
-      - I traded some of my money from my native country into an ATM to exchange for foreign currency, and the money I received was a different equating amount!
-      - Can you change the rate for the item I bought in a different currency as it is wrong?
-      - I have been charged more than I should for the presents I bought when abroad, the problem seems to be the exchange rate.
-      - the exchange rate is wrong from something I got in another country
-      - what is the exchange rate when i get cash
-      - Whats wrong with my currency exchange?
-      - Help me! When I was abroad, the exchange rate was wrong.
-      - I noticed the exchange rate for cash withdrawal isn't right.
-      - The exchange rate for my withdrawal was wrong.
-      - An incorrect exchange rate was applied to an item I bought.
-      - I had the wrong exchange rate applied to some cash I got abroad.
-      - I purchased an item and the exchange rate was wrong
-      - I think the rate that was applied to my purchase using foreign currency is wrong. Help!
-      - The cash abroad exchange rate is applied wrong.
-      - The ATM I used for foreign currency provided the wrong exchange rate.
-      - I noticed the currency exchange rate was incorrect after paying for something in a foreign country.
-      - The rate of exchange for my cash withdrawal is wrong.
-      - I bought an item at the wrong exchange rate.
-      - My purchase used the wrong exchange rate
-      - I was needing you to see if the exchange rate is correct from when i got cash
-      - Why was the exchange wrong for the item I purchased?
-      - I was charged extra. Was the exchange rate for my payment last Saturday wrong?
-      - I think the exchange rate on my card payment is incorrect.
-      - I did not receive the correct amount for the exchange rate.
-      - Exchange rate on a purchase was incorrect
-      - My payment has an incorrect exchange rate.
-      - I had trouble with an incorrect rate being applied when using the ATM with foreign currency.
-      - I bought an item and the exchange rate was wrong.
-      - I think there has been a mistake on my exchange rate for this purchase.
-      - Why was I charged a higher exchange rate when I bought something abroad?
-      - I purchased something overseas and the incorrect exchange rate was applied.
-      - The exchange rate I was charged for a purchase was not right.
-      - I tried to use the ATM with foreign currency. The conversion rate applied was wrong.
-      - I guess exchange rate for my payment was not correct, as i charged extra on the last saturday.
-      - Can you please explain why the exchange rate for the item I bought is wrong?
-      - My foreign currency exchange has been applied incorrectly.
-      - I bought an item then noticed the exchange rate was wrong.
-      - The currency exchange rate was wrong for a purchase I made.
-      - My card payment had the wrong exchange rate
-      - I got money overseas and the exchange rate was wrong
-      - I am reluctant to use ATMs international because I don't get an accurate exchange rate
-      - It seems that something went wrong with my exchange. I changed dollars into UK pounds but have been charged entirely too much!
-      - I exchanged cash when traveling and the rate was incorrect.
-      - The exchange rate was wrong?
-      - The exchange rate for my electronic payment is incorrect.
-      - What do i do if the exchange rate was wrong for the item i bought overseas?
-      - My payment had a wrong exchange rate.
-      - The exchange rate for my cash withdrawal was incorrect
-      - I purchased something while traveling, and the exchange rate applied was wrong.
-      - I bough an item and the exchange rate was incorrect.
-      - Foreign currency rates were put in wrong at an ATM i used.
-      - I got charged for with a fee for paying with my card.
-      - The cash withdrawal I took seems to be off. The exchange rate is wrong.
-      - When I bought something abroad, the exchange rate was wrong.
-      - I think the exchange rate was incorrect.
-      - Using international ATMs messes up the exchange rate.
-      - There's an error in regards to the exchange rate for an item I bought.
-      - This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!
-      - I was charged the wrong exchange rate on a purchase
-      - you got the exchange rate wrong for my cash withdrawal
-      - I believe I got a wrong exchange rate when I got cash.
-      - I didn't receive the correct exchange rate for an item that I bought.
-      - I tried withdrawing money in another country and the exchange rate was wrong.
-      - I wasn't charged the correct exchange rate for an item I purchased.
-      - I found the exchange rate for my cash withdrawal is wrong
-      - I recently purchased something, and the exchange rate was wrong.
-      - I don't think the exchange rate was right.
-      - Why isn't my purchase exchange rate correct?
-      - The exchange rate is incorrect on an item I recently purchased in a foreign country.
-      - Rates were applied wrong while using foreign currency at an ATM.
-      - My card payment has the wrong exchange rate
-      - I purchased something abroad and the incorrect exchange rate was applied.
-      - There's an error with the rate that is charged.
-      - I withdrew cash and I think the exchange rate is wrong.
-      - The rate applied to my purchase in a foreign currency was wrong.
-      - My client was converting their dollars into UK pound currency when they noticed their bill was much too high for the exchange. What happened?
-      - The exchange rate for me was wrong when I was abroad.
-      - Last Saturday, I made a payment and the exchange rate was wrong. I was charged too much.
-      - When I was abroad the exchange rate for me was wrong.
-      - I think the currency exchange that's been applied is wrong.
-      - The exchange rate applied was incorrect when I was traveling outside the country.
-      - I noticed my exchange rate was incorrect when I got cash.
-      - I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?
-      - The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.
-      - Why was I charged extra on my last UK pound to dollars exchange?
-      - My ATM transaction shorted me on cash, and I think the exchange rate was wrong. Did I receive the correct rate?
-      - I made a purchase and was charged at the wrong foreign exchange rate.
-      - The exchange rate was messed up from the ATM
-      - The exchange rate for foreign ATM currency is wrong.
-      - I tried using a foreign currency at an ATM, but the ATM provided me an incorrect rate. Why is that?
-      - I was using foreign currency at an ATM, but the rate was typed in wrong.
-      - I was charged an incorrect exchange rate for a withdrawal.
-      - I have been overcharged. I just changed over dollars to UK pounds and it was too much. It seems something was wrong with my exchange.
-      - I didn't receive the correct amount of cash when I exchanged it overseas.
-      - I received the wrong exchange rate for an item i bought.
-      - On my last trip, I received the incorrect exchange rate.
-      - I am not receiving the correct exchange rate on my card.
-      - The exchange rate was incorrect for an item I bought.
-      - The wrong exchange rate applied to my cash withdrawal.
-      - Why is my exchange rate wrong?
-      - I was abroad and needed some cash, but I think the wrong exchange rate was applied to the transaction.
-      - The exchange rate given to me after a purchase, was incorrect
-      - They used the wrong rate when I made a purchase with foreign currency.
-      - My currency rate is inaccurate.
-      - After purchasing an item I noticed the exchange rate was incorrect.
-      - I want to change the wrong exchange rate.
-      - I bought something abroad and the exchange rate applied is wrong
-      - I withdrew some cash and the exchange rate seems to be wrong.
-      - my exchange rate looks wrong for my last payment
-      - Why was the exchange rate so wrong when I bought something!
-      - I think the exchange rate for the cash I withdrew was wrong.
-      - When I purchased a product in another country the currency exchange was incorrect.
-      - I purchased something abroad but the exchange rate is incorrect.
-      - Why is the exchange rate for my payment incorrect?
-      - I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.
-      - something is wrong with my exchange rate charge
-      - Do you have a problem with EUR exchanges?
-      - When I got my cash, the amount was not what it should have been, based on the exchange rate.
-      - This exchange rate on my purchase is wrong.
-      - While abroad I got cash, and a wrong exchange rate was applied.
-      - I think the exchange rate for the cash I withdrew wasn't correct.
-      - My cash withdrawl has the wrong rate of exchange.
-      - The exchange rate from my card payment isn't right.
-      - The exchange rate that was applied for an international purchase was wrong.
-      - When I was traveling abroad, the exchange rate was applied wrong.
-      - I recently bought something abroad but the exchange rate is incorrect. Why?
-      - I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.
-      - The exchange rate you are using is bad.This can't be the official interbank exchange rate.
-      - The exchange rate is incorrect for my payment.
-      - I am perplexed. Why is it that I received an extremely wrong rate when I tried to use an ATM using a foreign currency?
-      - The exchange rate is bad. Are you sure this is the exchange rate?
-      - An item I bought had the wrong exchange rate applied.
-      - The wrong exchange rate was used for my cash withdrawal
-      - I think there was an error in your exchange rate.
-      - I withdrew cash abroad and the exchange rate applied is wrong.
-      - I found my card, am I able to put it back into the app?
-      - The currency exchange for my purchase in foreign currency is incorrect.
-      - What is wrong with the exchange rate? This should have been a much higher amount of cash for that to apply.
-      - I needed some cash while abroad, and I'm pretty sure the wrong exchange rate was applied.
-      - While abroad, I got cash, and the exchange rate applied is wrong.
-      - I believe a wrong exchange rate was applied towards a cash transaction I made abroad.
-      - The exchange rate for the money I took out in a foreign country is wrong.
-      - After I got my cash, I found out my exchange rate was wrong.
-      - I think something went wrong with my exchange between dollars and UK pounds. I was overcharged during the swap.
-      - what is going on with my cash withdrawal? the exchange rate is wrong
-      - I believe that the rate of exchange for my cash withdrawl is incorrect.
-      - When I got cash I believe that the exchange rate was wrong
-      - Why was my cash withdrawal given the wrong exchange rate?
-      - My exchange rate isn't correct.
-      - The exchange rate is incorrect for my cash withdrawal transaction.
-      - In regards to my card payment, the exchange rate is incorrect.
-      - I got less cash because of the exchange rate.
-      - the exchange rate at which my card payment is at is wrong
-      - The exchange rate applied is wrong for my international purchase.
-      - I was given the wrong exchange rate when getting cash
-      - the exchange rate for my withdrawal is wrong
-      - I think that there was an error in calculating the exchange rate. I recently withdrew cash and received much less than expected.
-      - I made a purchase but the exchange rate is wrong?
-      - The wrong exchange rate was applied to me while pulling out cash.
-      - I didnt get the correct exchange rate for getting cash
-      - I think when I withdrew money when out of country the exchange rate was wrong.
-      - The exchange rate was different when I got cash
-      - The applied exchange rate is wrong for the cash I got abroad.
-      - My exchange rate is wrong when I get cash.
-      - the exchange rate on my payment was wrong
-      - The exchange rate you are using is really bad.This can't be the official interbank exchange rate.
-      - I wasn't applied the correct exchange rate when getting cash
-      - Why is the exchange rate on my card wrong?
-      - I bought something in another currency, but the exchange rate was incorrect.
-      - I did not get the right exchange rate while getting my cash out.
-      - I used foreign currency to buy something and I think the rate applied is incorrect.
-      - When I received my cash; they had my exchange rate incorrect.
-      - The item i bought exchanged rate was incorrect.
-      - The rate applied to my foreign currency at an ATM was incorrect.
-      - I was using a foreign currecy to make a payment and the applied the wrong rate.
-      - What if there is an error on the exchange rate?
-      - Why was the wrong rate applied when I bought something in a different currency?
-      - I believe my exchange rate is incorrect
-      - I got cash abroad and the exchange rate applied is wrong
-      - Your foreign exchange rate is wrong.
-      - Why didn't I receive the correct exchange rate for an item that I purchased?
-      - The exchange rate looks wrong on a holiday purchase
-      - It looks like the exchange rates on my card payment are wrong
-      - When I got cash the exchange rate was wrong
-      - The exchange rate was wrong in the foreign country I got cash in.
-      - Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?
-      - When I made a cash transfer abroad the wrong exchange rate was applied
-      - How do you figure out the exchange rate? Can you explain why I got less money than expected?
-      - Someone may have made an error in figuring out the rate of exchange. I should have received more cash than I did on my most recent withdrawal.
 - intent: atm_card_issues
   examples: |
     - The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?
