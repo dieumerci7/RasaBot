@@ -10,9 +10,9 @@ nlu:
     - What ATMs can I use my card?
     - Where is the closest ATM to me?
     - need to know places i can withdraw money
-    - Where can I withdraw money from?
+    - Is the closest atm 5 miles from here?
     - what are the locations i can withdraw money
-    - What ATM locations are near me?
+    - Can I withdraw money from ATM?
     - How far is the closest ATM from me?
     - How can I find an ATM that accepts this card?
     - Which ATM's am i able to change my PIN?
@@ -35,7 +35,7 @@ nlu:
     - Is there something wrong with the ATM? It would not let me pull cash out of my account.
     - Why didn't I receive the right amount of cash at the ATM?
     - I attempted to get cash in the ATM but I was denied
-    - The ATM didnt let me get cash
+    - I can't withdraw cash
 
 - intent: atm_card_issues
   examples: |

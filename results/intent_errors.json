@@ -1,0 +1,370 @@
+[
+  {
+    "text": "Do I have to use bank approved ATM's",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.6081975698471069
+    }
+  },
+  {
+    "text": "How do I know it is a Mastercard ATM?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9998580813407898
+    }
+  },
+  {
+    "text": "Can I get cash from an ATM?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999998211860657
+    }
+  },
+  {
+    "text": "Is there a cash machine nearby?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9997574090957642
+    }
+  },
+  {
+    "text": "How do I find a cash machine?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "How do I find a bank with an ATM?",
+    "intent": "find_atm",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.987500011920929
+    }
+  },
+  {
+    "text": "Tried using my ATM card earlier at one of your locations for the first time. It didn't work. What is going on?",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.945655345916748
+    }
+  },
+  {
+    "text": "My ATM withdrawal is taking forever",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.999997615814209
+    }
+  },
+  {
+    "text": "I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.7392988204956055
+    }
+  },
+  {
+    "text": "Can I use a different bank ATM than my own?",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.999963641166687
+    }
+  },
+  {
+    "text": "I have a question about ATM transactions. Can I take money out of an ATM when I'm traveling abroad? And, can I get the money in my home currancy?",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9819239974021912
+    }
+  },
+  {
+    "text": "My card will not work",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9999786615371704
+    }
+  },
+  {
+    "text": "That's what I said, 23:55 night",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.6296845078468323
+    }
+  },
+  {
+    "text": "The amount of money I pushed at the atm machine did not come out of the machine.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 0.9999703168869019
+    }
+  },
+  {
+    "text": "Where'd the rest of my cash go from the ATM",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9763436913490295
+    }
+  },
+  {
+    "text": "atm refused to give me money",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9999179244041443
+    }
+  },
+  {
+    "text": "What should I do with my stuck ATM?",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "atm_card_issues",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "The ATM wouldn't allow me to withdraw money",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9984235763549805
+    }
+  },
+  {
+    "text": "There is a cash withdrawal from an ATM listed but I don't remember making this withdrawal.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.99993896484375
+    }
+  },
+  {
+    "text": "My ATM transaction was cancelled.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9999191164970398
+    }
+  },
+  {
+    "text": "Where did my money go? I'm not able to withdraw it from my ATM.",
+    "intent": "atm_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9996907711029053
+    }
+  },
+  {
+    "text": "Can I use my card in another institutions ATM?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9979362487792969
+    }
+  },
+  {
+    "text": "My card wont work at an ATM",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9128113389015198
+    }
+  },
+  {
+    "text": "What ATMs take this card?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "My card doesn't work. I can't get cash out at an ATM",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9938029646873474
+    }
+  },
+  {
+    "text": "What ATMs can I use my card at?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Please provide me a list of ATMs that accept my card.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9994159936904907
+    }
+  },
+  {
+    "text": "Where are the ATMs that I can use Mastercard?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Where are the Mastercard ATMs?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Why has my top up been cancelled",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.999956488609314
+    }
+  },
+  {
+    "text": "Am I limited to what ATM I can use my card?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 0.9999982118606567
+    }
+  },
+  {
+    "text": "Which ATMs accept Mastercard?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "find_atm",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "My card didn't work at the ATM in Notting Hill. Is my card working?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9462858438491821
+    }
+  },
+  {
+    "text": "Why am I having trouble withdrawing cash?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9629621505737305
+    }
+  },
+  {
+    "text": "Has my account been frozen? I tried to use my card but the ATM would not dispense cash.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999933242797852
+    }
+  },
+  {
+    "text": "I tried to get cash at some ATM in the city centre earlier but the machine declined my card. I've seen it still shows up as pending in my account. Please cancel it immediately as I definitely have not received that money!",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.999496340751648
+    }
+  },
+  {
+    "text": "I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.6689444184303284
+    }
+  },
+  {
+    "text": "Why was I blocked from withdrawing from the ATM?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9864329099655151
+    }
+  },
+  {
+    "text": "Is there a problem with my account? When I tried to withdraw cash at an ATM I was denied.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.999907374382019
+    }
+  },
+  {
+    "text": "Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999677538871765
+    }
+  },
+  {
+    "text": "Why does the ATM continually decline my card? I've tried multiple times on different machines with the same results. I thought I had enough funds for this, so please help me understand why this is happening.",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9943236112594604
+    }
+  },
+  {
+    "text": "Why is my card being declined at the ATM? I have tried multiple ATMs and i keep running into the same problem. Could you verify that everything is okay with my account?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9983578324317932
+    }
+  },
+  {
+    "text": "I tried to get cash in the ATM but it was not approved",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "I can't withdraw any money from my account. Ive tried a couple different ATM machines and both of them wouldn't give me my money. What's going on? Is my account frozen or something?",
+    "intent": "atm_card_issues",
+    "intent_prediction": {
+      "name": "atm_issues",
+      "confidence": 0.9999951124191284
+    }
+  }
+]
