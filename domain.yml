@@ -6,6 +6,10 @@ intents:
   - card_order
   - card_delivery
   - card_activation
+  - funds_transfer
+  - funds_transfer_cancel
+  - funds_transfer_issues
+  - funds_transfer_info
 
 entities:
   - amount-of-money

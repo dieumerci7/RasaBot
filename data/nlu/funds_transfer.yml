@@ -1,0 +1,65 @@
+version: "2.0"
+
+nlu:
+  - intent: funds_transfer
+    examples: |
+      - transfer 500$ to my sister's card
+      - could you pay my gas bill for me, please?
+      - I must pay 100₴ to my friends card (4441114454997898) by tomorrow!
+      - Red Cross monthly donation is due today! I must pay 10 dollars to 5168745030910897
+      - I have to transfer money to the seller's card
+      - help me with transferring 200 dollars to my friend's credit card
+      - how to pay a bill on your website? the destination card is 4148112235900101
+      - I owe my friend 20 dollars! His card is 4149005498125285. Can I pay here?
+      - deposit 15 bucks from my checking account to my savings account
+      - send 1000 $ from my account to Joe.
+      - pay my house rent with my ally account, please
+      - need help with money transfer, thank you
+      - help i must transfer 100$ immediately
+      - send 20 dollars to my mum
+      - how would i go about paying my bill?
+  - intent: funds_transfer_cancel
+    examples: |
+      - can I cancel a transaction i made by mistake?
+      - i paid 100$ dollars to the wrong card, correct it please
+      - how do I cancel a money transfer?
+      - I made a transfer by mistake. Could I possibly cancel it?
+      - The transaction has been pending for hours! Cancel it now!
+      - how do I cancel a transfer
+      - i made a transfer but now i understand i do not need it. can i cancel it please?
+      - cancel the last transaction i made, thank you
+      - i sent him money and he cheated me! return my money
+      - cancel my transfer, it was incorrect
+      - I sent 10 dollars to the wrong card. Revert the transaction, please
+      - Please cancel the transfer I did a week ago, the seller wronged me
+      - Can I cancel a transaction if it was a month ago?
+      - There is an error in your system! My money went the wrong way! Cancel the operation immediately!
+      - I want to know if I can revert the operation I made
+      - I transferred money to the wrong card!
+  - intent: funds_transfer_issues
+    examples: |
+      - my transfer didn't go through
+      - your system won't transfer money
+      - my friend did not receive the money I sent him. what's wrong?
+      - i made a payment but the seller says he received only part of the sum!
+      - i transferred 100 dollars but my balance did not change.
+      - I tried to make a transfer thrice but it keeps failing. What is going on?
+      - My transfer request was declined.
+      - the app doesn't show my latest transaction
+      - my payment was returned for some reason
+      - how come my transfer was denied?
+      - less money was transferred than i intended
+      - I made a transfer but my balance stays the same. Is something worng with the transfer?
+      - i paid 100 dollars, but the payment was returned! what did i do wrong?
+  - intent: funds_transfer_info
+    examples: |
+      - how long does a transfer from China take?
+      - are SWIFT transfers an option?
+      - how long does it take for the balance to get updated?
+      - how many days can a transfer from Europe last in the worst case?
+      - how long can a transfer be pending? it has already been a week
+      - when will my transfer be ready?
+      - could there be additional charges for a regular transfer?
+      - does an international transfer take longer than usual?
+      - I made a transfer a couple of days ago but my friends haven't received the money. When will the money finally arrive?
+      - has something happened to the card payment I made?
