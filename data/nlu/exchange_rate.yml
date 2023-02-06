@@ -2,6 +2,10 @@ version: "2.0"
 
 #add entity currency
 nlu:
+# Your "exchange rate" key phrase is in disbalanced usage for exchange_info and exchange_issues (6 vs 8). You need to increase support for both repeating the main patterns for each.
+# Model needs to learn the difference of "rate + wrong/incorrect/problem/issue/error" VS "rate + current/how much/what is/explain/view/see/show/determine/calculate/change/right now/official".
+# Make sure you repeat most prominent patterns 3-4 times in different syntactic constructions and verb tenses.
+
 - intent: exchange_info
   examples: |
     - what is the current exchange rate?
