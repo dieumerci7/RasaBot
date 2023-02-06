@@ -36,6 +36,14 @@ nlu:
       - There is an error in your system! My money went the wrong way! Cancel the operation immediately!
       - I want to know if I can revert the operation I made
       - I transferred money to the wrong card!
+      
+# Funds training data set patterns need additional support, the model is failing to generalize since key word patterns are not repeating. 
+# Important keywords combinations must be repeating at least 3-4 times in the training set.
+# Missing estbalished pattern for "reverted/reversed/came back + (card) payment/transaction/transfer", "failed/failing/fail + payment/transfer/transaction", "declined/decline/declining + payment/transaction/transfer"
+# Missing established pattern for "payment + show up/missing/pending/don't see/issue/not received/haven't received/hasn't arrive/didn't arrive/wasn't received/not processing/failed to process etc."
+# Intent "funds_transfer_info" doesn't have a defined set of keyword patterns and conflicts severely with funds_transfer_issues. Either establish intent-specific patterns, or merge with funds_transfer_issues.
+# If you merge issues + info, your overall support for all intent will need to increase proportionally. Right now support is too low, you need at least 30-40 utterances with repeating patterns at this point.
+
   - intent: funds_transfer_issues
     examples: |
       - my transfer didn't go through
