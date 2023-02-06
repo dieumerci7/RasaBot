@@ -18,7 +18,9 @@ nlu:
     - Which ATM's am i able to change my PIN?
     - At which ATMs can I use this card?
     - Where is this card accepted?
-
+# atm_issues is stealing from funds_transfer_issues due to 1) insufficient training support for transfer_funds_issues intent, most issues should go away as you train it properly. 
+# 2) atm_issues has more negations than its conflicting counterpart, make sure you balance negative keywords in both intents. 
+# "Cash + any issues" should reside within artm_issues, while "payment/transfer/transaction + any issue" - within funds-trasnfer_issues.
 - intent: atm_issues
   examples: |
     - I could not get the ATM to work
