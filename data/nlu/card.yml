@@ -25,7 +25,9 @@ nlu:
     - Can I get a new card with new expiration date in China?
     - how to get new card?
     - Can I get a new card in China?
-    
+# Missing or insufficient pattern support for "waiting + card", "track/tracking + card", "card + mailed/shipped/expect/sent/send/shipping/ship/where is"
+# "get + card" pattern must remain within "card_order intent and it's predominant for this intent.
+# Make sure you increase support in all "card" related intents in order to avoid disbalancing the usage of main keyword. 
 - intent: card_delivery
   examples: |
     - My new card has not been delivered to my home yet. What is going on?
