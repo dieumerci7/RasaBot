@@ -99,6 +99,7 @@ nlu:
       - what is the USD to EUR rate
       - tell currency rate between AUD and USD
       - where can I find official exchange rate
+      - what is the exchange rate when i get cash
 
   - intent: exchange_currency
     examples: |
@@ -384,7 +385,6 @@ nlu:
       - Can you change the rate for the item I bought in a different currency as it is wrong?
       - I have been charged more than I should for the presents I bought when abroad, the problem seems to be the exchange rate.
       - the exchange rate is wrong from something I got in another country
-      - what is the exchange rate when i get cash
       - Whats wrong with my currency exchange?
       - Help me! When I was abroad, the exchange rate was wrong.
       - I noticed the exchange rate for cash withdrawal isn't right.
@@ -431,7 +431,6 @@ nlu:
       - I purchased something while traveling, and the exchange rate applied was wrong.
       - I bough an item and the exchange rate was incorrect.
       - Foreign currency rates were put in wrong at an ATM i used.
-      - I got charged for with a fee for paying with my card.
       - The cash withdrawal I took seems to be off. The exchange rate is wrong.
       - When I bought something abroad, the exchange rate was wrong.
       - I think the exchange rate was incorrect.
@@ -515,7 +514,6 @@ nlu:
       - The wrong exchange rate was used for my cash withdrawal
       - I think there was an error in your exchange rate.
       - I withdrew cash abroad and the exchange rate applied is wrong.
-      - I found my card, am I able to put it back into the app?
       - The currency exchange for my purchase in foreign currency is incorrect.
       - What is wrong with the exchange rate? This should have been a much higher amount of cash for that to apply.
       - I needed some cash while abroad, and I'm pretty sure the wrong exchange rate was applied.
