@@ -1,46 +1,73 @@
 version: "2.0"
 
-#add entity currency
 nlu:
 - intent: exchange_info
   examples: |
     - what is the current exchange rate?
-    - what currencies are supported?
     - what is the exchange rate for EUR?
     - I want to know your exchange rates.
     - what is the formula for your exchange rate?
     - when exchanging, how much are the rates?
     - provide currency exchange rates
     - what are exchange rate for getting cash
+    - show official exchange rate
+    - how exchange rate is calculated?
+    - could you explain what currency rate is right now
+    - view foreign exchange rates 
+    - tell rate between [dollar](currency) and [euro](currency)
+    - explain where do you pull exchange rates?
+    - is there exchange rate for [dollar](currency)
+    - how do you get exchange rates?
+
+    
+  
     
 - intent: exchange_currency
   examples: |
-    - can I exchange from USD to GBP?
-    - I need Australian dollars instead of UK currency.
+    - can I exchange from [USD](currency) to [GBP](currency)?
+    - what currencies are supported?
+    - what currencies are available for exchanging?
+    - I need [Australian dollars](currency) instead of UK currency.
     - I would like to exchange currencies
     - how can I exchange currencies?
     - can I convert currency with the app?
-    - change 100 EUR to USD from my account
-    - please help me to exchange 50 GBP
+    - change 100 [EUR](currency) to [USD](currency) from my account
+    - please help me to exchange 50 [GBP](currency)
     - what should i do to change my money
     - what currencies may i exchange
-    - want to exchange USD
+    - want to exchange [USD](currency)
     - what currencies do you support to exchange
     - what currencies are allowed to swap
+    - how do i switch my money to different currency
+    - what is the procedure for turning one currency to another
+    - can i make exchange to [GBP](currency)?
+    - how do i do exchange in app?
+    - do you provide currency exchange
+    
     
 
 - intent: exchange_issues
   examples: |
     - when i received my cash my exchange rate was wrong
     - my payment has incorrect exchange rate
-    - i bought in shop but it is seemed the currency exchange was mistaken
+    - i bought in shop but it is seemed the currency exchange rate was mistaken
     - i have problems with currency exchange 
     - you applied wrong exchange rate to my payment
     - I expected more money after exchanging currencies
-    - check why exchange rate on my card is incorrect
+    - check why exchange rate on my card isn`t correct
     - my purchase in foreign currency doesn't look right
     - when i got cash abroad i was applied strange exchange rate 
     - there is an error in currency exchange
     - I don't get an accurate exchange rate for cash withdrawal
     - Are you sure this is the interbank exchange rate? This rate is really bad
-    - exchange rate was messed up
+    - exchange rates were messed up
+    - there is some issue with my currency exchange
+    - how did it happen that I received a different amount of money during currency exchange?
+    - when i was converting a cash you applied different exchange rate. why?
+    - i have a problem with currency rates of my foreign payment
+    - explain why i didn't get the right exchange rate for my withdrawal
+    - i get less money due to incorrect exchange rate
+    - ATM does not get me correct cash amount. it should be a mistake with foreign exchange
+    
+    
+    
