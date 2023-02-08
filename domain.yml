@@ -17,6 +17,8 @@ intents:
 
 entities:
   - amount-of-money
+  - lookup:currency
+    data/currencies.txt
 
 slots:
   amount-of-money:

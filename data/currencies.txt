@@ -1,0 +1,332 @@
+New Zealand Dollars
+Australian Dollars
+Euros
+Sterling
+USD
+HKD
+Canadian Dollar
+Japanese Yen
+Afghani
+Lek
+Algerian Dinar
+East Caribbean Dollar
+Peso
+Dram
+Netherlands Antilles Guilder
+Manat
+Bahamian Dollar
+Bahraini Dinar
+Taka
+Barbadian Dollar
+Belarus Ruble
+Belizean Dollar
+CFA Franc BCEAO
+Bermudian Dollar
+Indian Rupee
+Boliviano
+Pula
+Norwegian Krone
+Brazil
+Bruneian Dollar
+Lev
+Burundi Franc
+Riel
+CFA Franc BEAC
+Escudo
+Caymanian Dollar
+Chilean Peso
+Yuan Renminbi
+Peso
+Comoran Franc
+Congolese Frank
+Costa Rican Colon
+Croatian Dinar
+Cuban Peso
+Cypriot Pound
+Koruna
+Danish Krone
+Djiboutian Franc
+Dominican Peso
+Indonesian Rupiah
+Sucre
+Egyptian Pound
+Salvadoran Colon
+Ethiopian Birr
+Estonian Kroon
+Falkland Pound
+Fijian Dollar
+CFP Franc
+Dalasi
+Lari
+Gibraltar Pound
+Quetzal
+Guinean Franc
+Guyanaese Dollar
+Gourde
+Lempira
+Forint
+Icelandic Krona
+Iranian Rial
+Iraqi Dinar
+Shekel
+Jamaican Dollar
+Jordanian Dinar
+Tenge
+Kenyan Shilling
+Won
+Won
+Kuwaiti Dinar
+Som
+Kip
+Lat
+Lebanese Pound
+Loti
+Liberian Dollar
+Libyan Dinar
+Swiss Franc
+Lita
+Pataca
+Denar
+Malagasy Franc
+Malawian Kwacha
+Ringgit
+Rufiyaa
+Maltese Lira
+Ouguiya
+Mauritian Rupee
+Peso
+Leu
+Tugrik
+Dirham
+Metical
+Kyat
+Dollar
+Nepalese Rupee
+Cordoba Oro
+Naira
+Sul Rial
+Rupee
+Balboa
+Kina
+Guarani
+Nuevo Sol
+Peso
+Zloty
+Rial
+Leu
+Ruble
+Rwanda Franc
+Dobra
+Riyal
+Rupee
+Leone
+Dollar
+Koruna
+Solomon Islands Dollar
+Shilling
+Rand
+Rupee
+Dinar
+Surinamese Guilder
+Lilangeni
+Krona
+Syrian Pound
+Dollar
+Tajikistan Ruble
+Shilling
+Baht
+PaÕanga
+Trinidad and Tobago Dollar
+Tunisian Dinar
+Lira
+Manat
+Shilling
+Hryvnia
+Dirham
+Peso
+Som
+Vatu
+Bolivar
+Dong
+Rial
+Kwacha
+Zimbabwe Dollar
+Euro
+Angolan kwanza
+Antarctican dollar
+Bosnia and Herzegovina convertible mark
+Ghana cedi
+Guernsey pound
+Manx pound
+Lao kip
+Macanese pataca
+Saint Helena pound
+Netherlands Antillean guilder
+Serbian dinar
+US Dollar
+NZD
+AUD
+EUR
+GBP
+USD
+HKD
+CAD
+JPY
+AFN
+ALL
+DZD
+XCD
+ARS
+AMD
+ANG
+AZN
+BSD
+BHD
+BDT
+BBD
+BYR
+BZD
+XOF
+BMD
+INR
+BOB
+BWP
+NOK
+BRL
+BND
+BGN
+BIF
+KHR
+XAF
+CVE
+KYD
+CLP
+CNY
+COP
+KMF
+CDF
+CRC
+HRK
+CUP
+CYP
+CZK
+DKK
+DJF
+DOP
+IDR
+ECS
+EGP
+SVC
+ETB
+EEK
+FKP
+FJD
+XPF
+GMD
+GEL
+GIP
+GTQ
+GNF
+GYD
+HTG
+HNL
+HUF
+ISK
+IRR
+IQD
+ILS
+JMD
+JOD
+KZT
+KES
+KPW
+KRW
+KWD
+KGS
+LAK
+LVL
+LBP
+LSL
+LRD
+LYD
+CHF
+LTL
+MOP
+MKD
+MGA
+MWK
+MYR
+MVR
+MTL
+MRO
+MUR
+MXN
+MDL
+MNT
+MAD
+MZN
+MMK
+NAD
+NPR
+NIO
+NGN
+OMR
+PKR
+PAB
+PGK
+PYG
+PEN
+PHP
+PLN
+QAR
+RON
+RUB
+RWF
+STD
+SAR
+SCR
+SLL
+SGD
+SKK
+SBD
+SOS
+ZAR
+LKR
+SDG
+SRD
+SZL
+SEK
+SYP
+TWD
+TJS
+TZS
+THB
+TOP
+TTD
+TND
+TRY
+TMT
+UGX
+UAH
+AED
+UYU
+UZS
+VUV
+VEF
+VND
+YER
+ZMK
+ZWD
+EUR
+AOA
+AQD
+BAM
+GHS
+GGP
+GBP
+LAK
+MOP
+GBP
+ANG
+RSD
+USD
